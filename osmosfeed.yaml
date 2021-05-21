@@ -1,6 +1,6 @@
 cacheUrl: https://hemisu.github.io/rss-online/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
+  - href: http://feeds.feedburner.com/ruanyifeng # Get new feature announcement via this feed
   - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://rsshub.app/v2ex/topics/latest
+  - href: https://rsshub.app/meituan/tech/home

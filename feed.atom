@@ -2,10 +2,282 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hemisu.github.io/rss-online/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T02:20:03.533Z</updated>
+    <updated>2021-05-21T02:29:30.751Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://hemisu.github.io/rss-online/index.html"/>
     <link rel="self" href="https://hemisu.github.io/rss-online/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[推荐一款 vue+thinkphp 开源商城系统]]></title>
+        <id>778286</id>
+        <link href="https://www.v2ex.com/t/778286"/>
+        <updated>2021-05-21T01:48:13.000Z</updated>
+        <summary type="html"><![CDATA[qianghaha: 移动端基于 uni-app 可以打包 H5 小程序 APP
+后台管理系统 iview 和 element 支持 diy 组件拖拽编辑,客服系统,各种营销管理
+移动端:http://demomin.crmeb.net/
+min 演示站： http://demomin.crmeb.net/admin 账号：demo 密码：crmeb.com
+客服演示： http://demomin.crmeb.net/kefu 帐号：ceshi 密码：123456
+源码地址:http://github.crmeb.net/u/qiang]]></summary>
+        <author>
+            <name>qianghaha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大佬些帮忙推荐个手机？]]></title>
+        <id>778285</id>
+        <link href="https://www.v2ex.com/t/778285"/>
+        <updated>2021-05-21T01:48:10.000Z</updated>
+        <summary type="html"><![CDATA[lbunderway: 
+由于想换个手机，目前看了有以下几款
+iqoo neo5, 一加 9r, redmi k40  配置选 12+256
+有点纠结，或者大家有没有 3000 左右的推荐下，不要超过 3500，
+个人平时偶尔耍下王者，游戏需求不是很大]]></summary>
+        <author>
+            <name>lbunderway</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[请问杭州眼科较出名的三甲医院有推荐的么？]]></title>
+        <id>778284</id>
+        <link href="https://www.v2ex.com/t/778284"/>
+        <updated>2021-05-21T01:47:36.000Z</updated>
+        <summary type="html"><![CDATA[83f420984: 
+结膜炎
+持续时间：出现症状 + 发作持续半年左右
+治疗
+浙江大学第一附属医院：某种眼药膏（无效 ）
+浙江大学第一附属医院：海露（无效 ）
+浙江省立同德医院：氣熏治疗 + 药物（无效 ）]]></summary>
+        <author>
+            <name>83f420984</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新韭菜准备入币圈，建了个 tg 群，巨佬们来布道啊]]></title>
+        <id>778282</id>
+        <link href="https://www.v2ex.com/t/778282"/>
+        <updated>2021-05-21T01:42:46.000Z</updated>
+        <summary type="html"><![CDATA[ShadowWhisper: https://t.me/joinchat/XYFDp0o4MDU5ZDFh]]></summary>
+        <author>
+            <name>ShadowWhisper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安装浏览器那种京东淘宝比价扩展 会有安全隐私问题吗？]]></title>
+        <id>778280</id>
+        <link href="https://www.v2ex.com/t/778280"/>
+        <updated>2021-05-21T01:38:20.000Z</updated>
+        <summary type="html"><![CDATA[jaleo: Firefox 扩展有购物党实时比价工具和比价狗 下面有个提示 [ This add-on is not actively monitored for security by Mozilla. Make sure you trust it before installing.] 
+不知安装后是否有安全或隐私问题？]]></summary>
+        <author>
+            <name>jaleo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年轻人首套房刚需房是买二手房，还是新房]]></title>
+        <id>778279</id>
+        <link href="https://www.v2ex.com/t/778279"/>
+        <updated>2021-05-21T01:29:05.000Z</updated>
+        <summary type="html"><![CDATA[YIFZ: 
+二手房，新房在南京有什么推荐的小区吗？
+买这些房子有什么坑或者注意点吗？]]></summary>
+        <author>
+            <name>YIFZ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[厦门][8.5K-15K] 厦门卫星定位 招聘前后端人员]]></title>
+        <id>778278</id>
+        <link href="https://www.v2ex.com/t/778278"/>
+        <updated>2021-05-21T01:28:46.000Z</updated>
+        <summary type="html"><![CDATA[pmsg863: 
+关于我们
+厦门卫星定位是厦门信息集团成员企业，于 2001 年成立，2017 年挂牌新三板（股票名称：卫星定位，股票代码 870420 ）。公司致力于构建智能、高效、绿色的现代城市，聚焦智慧交通、海洋、警务云平台的开发建设和运营服务，在城市公交、出租、客货运等交通运输领域及公安、交警、边防、海洋、港航、执法等领域拥有业内领先的应用软件产品和整体解决方案。公司高度重视物联网、云计算、大数据和人工智能等前沿技术的应用研发，依托自主开发的 V 智北斗云平台，为交通运输管理部门、公安部门、涉海管理部门和各类企业提供软件研发、系统集成、运营服务、硬件终端、规划咨询和产业投资的一站式、多样化专业服务。目前，公司业务已拓展至全国 17 个省份的近百个城市。
+福利待遇
+薪资体系：我们为员工提供业内富有竞争力的工资，不同岗位设置岗位绩效奖金、项目奖金以及年终奖金等；
+培训制度：定期开展各种专业培训、举办各类讲座，选送优秀员工进行外训；
+专属导师：我们为每一位新员工安排专属导师，让您能够快速融入我们；
+带薪假期：享受国家规定的带薪年休假以及各种假期福利及礼金（年假、事假、婚假、病假、产假等）；
+六险二金：养老…]]></summary>
+        <author>
+            <name>pmsg863</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods 定位竟然只显示最后一次链接的位置，左耳还在听歌呢，充电仓和右耳丢了（哭，为啥不分开定位呀]]></title>
+        <id>778277</id>
+        <link href="https://www.v2ex.com/t/778277"/>
+        <updated>2021-05-21T01:26:44.000Z</updated>
+        <summary type="html"><![CDATA[treblex:]]></summary>
+        <author>
+            <name>treblex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[三七互娱内推-社招-中高级 PHP （产品开发组）16-25K] [广州]]]></title>
+        <id>778276</id>
+        <link href="https://www.v2ex.com/t/778276"/>
+        <updated>2021-05-21T01:25:59.000Z</updated>
+        <summary type="html"><![CDATA[gulili01:  [三七互娱内推-社招-中高级 PHP （产品开发组） 16-25K ]  [广州] 
+三七互娱，中国互联网百强企业，是国内 A 股优秀的综合型文创上市企业（股票代码：002555 ）。三七互娱总部设在广州。公司涵盖游戏、在线教育等业务板块，同时积极布局影视、音乐、艺人经纪、动漫、泛文娱乐、VR/AR 、文化健康、社交等文化创意领域。
+三七互娱旗下拥有优异的游戏研发品牌三七游戏，专业的游戏运营品牌 37 网游、37 手游、37GAMES，以及优质在线教育品牌妙小程，聚集了来自全球各地的网络精英及高素质管理人才。
+福利：
+15 薪水、项目奖金、季度奖金、年度奖金、双休、丰富早餐（ KFC，M 记，72 街，肠粉等）、团建、带薪假期、年度体检、住房免息贷款等。
+岗位职责：
+1 、负责公司运营&推广&财务数据分析系统的开发与维护；
+2 、解决运营、推广、财务各种数据问题及项目需求，保证数据准确、稳定、安全，可视。
+岗位要求：
+1 、计算机相关专业统招本科及以上学历，具备 2 年及以上开发工作经验；
+2 、熟练掌握 PHP 语言，熟悉至少一种 PHP 开源框架，对于 swoole 有过接触及应用；…]]></summary>
+        <author>
+            <name>gulili01</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迫于无聊，送 10 个微软 msdn e3 子账号，不出意外的话一直有效]]></title>
+        <id>778274</id>
+        <link href="https://www.v2ex.com/t/778274"/>
+        <updated>2021-05-21T01:22:39.000Z</updated>
+        <summary type="html"><![CDATA[xiadd: 
+office 365+5t onedriver，可以存放一些不是很重要的资料
+要求：
+注册 v2 时间不少于 3 年且有有意义的回复
+羊毛党勿扰
+需要的话回复留下 tg 我来联系你]]></summary>
+        <author>
+            <name>xiadd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[码云 Gitee 的发行版不能上传文件了]]></title>
+        <id>778273</id>
+        <link href="https://www.v2ex.com/t/778273"/>
+        <updated>2021-05-21T01:14:50.000Z</updated>
+        <summary type="html"><![CDATA[opentrade: 500 internal server error]]></summary>
+        <author>
+            <name>opentrade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPad Pro 2021 已到手]]></title>
+        <id>778271</id>
+        <link href="https://www.v2ex.com/t/778271"/>
+        <updated>2021-05-21T01:05:34.000Z</updated>
+        <summary type="html"><![CDATA[qgy18: 12.9 英寸，官网第一时间下单，早上顺丰就给送过来了。
+官方妙控键盘带一个小的触控板，但不知道怎么把左键点击改成轻拍（ MacBook 那样），有知道的 v 友么？
+// 感觉新 iPad 最拉垮的可能是 iPad OS 。]]></summary>
+        <author>
+            <name>qgy18</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020 国家统计局工资数据 出炉]]></title>
+        <id>778270</id>
+        <link href="https://www.v2ex.com/t/778270"/>
+        <updated>2021-05-21T00:54:24.000Z</updated>
+        <summary type="html"><![CDATA[mmdsun: 
+2020 国家统计局工资数据 出炉
+分行业门类看：
+年平均工资最高的 3 个行业分别是信息传输、软件和信息技术服务业 177544 元 （相当于 14795 元 /月），科学研究和技术服务业 139851 元，金融业 133390 。
+还有从私营和非私营的角度，管理层的角度统计的。
+https://mp.weixin.qq.com/s/FskVMWmoW1qCgQ8XI2aepg]]></summary>
+        <author>
+            <name>mmdsun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你们最多遇到过一栋楼多少家同时装修]]></title>
+        <id>778269</id>
+        <link href="https://www.v2ex.com/t/778269"/>
+        <updated>2021-05-21T00:39:57.000Z</updated>
+        <summary type="html"><![CDATA[depress: 
+今天有事请假，8 点刚一过，楼里 3 家装修的一起开始钻，还都是我房子这一侧的，那个酸爽，要是一直响还好点，一会儿安静一会儿突然响都快整出神经病了，这要是在家办公或者不工作的或者上夜班的，得疯了吧，装修这个人民内部矛盾真的是一辈子无解。]]></summary>
+        <author>
+            <name>depress</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现在这些鸡娃父母的孩子长大之后丁克的意愿是大还是小呢？]]></title>
+        <id>778268</id>
+        <link href="https://www.v2ex.com/t/778268"/>
+        <updated>2021-05-21T00:34:16.000Z</updated>
+        <summary type="html"><![CDATA[yoke123: 
+看了 社会化视角下的丁克现象 这篇文章之后突然想到这个问题，各位可以说说自己的见解和疑惑。]]></summary>
+        <author>
+            <name>yoke123</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信小程序可以做这样的界面吗？]]></title>
+        <id>778267</id>
+        <link href="https://www.v2ex.com/t/778267"/>
+        <updated>2021-05-21T00:32:56.000Z</updated>
+        <summary type="html"><![CDATA[sudoy: 
+就是扑克牌弧形左右滑动的那种，用户可以左右滑动来选牌。看了一下小程序里面 swiper 只能平着左右滑动，似乎只有 canvas 可以，但是不确定能不能实现。]]></summary>
+        <author>
+            <name>sudoy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深圳移动的流量为啥还这么贵？]]></title>
+        <id>778265</id>
+        <link href="https://www.v2ex.com/t/778265"/>
+        <updated>2021-05-21T00:22:57.000Z</updated>
+        <summary type="html"><![CDATA[lvgsnm: 我用的 8 元自由选套餐的月租，不包含流量，自己包了 30 元 10G 的流量，这样下来一个月就是固定要 38 元（ 30 分钟通话，10G 流量），不知道大家用的什么套餐？
+8 块的月租，我不想换，换了就换不回来了]]></summary>
+        <author>
+            <name>lvgsnm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 159 期）：游戏开发者的年薪]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html"/>
+        <updated>2021-05-21T00:17:00.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
+周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+封面图
+
+重庆市很多山地，地形复杂，产生了特有的奇观：被高架道路团团围住的楼盘。（via）
+本周话题：游戏开发者的年薪
+最近，推特上面有很多欧美的游戏开发者，晒自己的薪水，使用 #GameDevPaidMe 这个标签就能看到，从中可以了解国外程序员的收入。
+下面是一个美国开发者的发言。
+
+他有超过十年的开发经验，年薪是20多万美元。这还是在西雅图，如果在湾区，工资可能还会再高一些。这跟我听说的差不多，美国高级程序员的年薪，一般都会超过20万美元（约130万人民币）。
+我没想到的是，欧洲程序员的年薪，比美国少非常多。
+
+上面这个英国开发者，作为高级程序员，年薪居然才4万英镑（约36万人民币）。他入行时，更是少到1.5万英镑（约14万人民币）。欧洲其他国家的情况也差不多，年薪也就几万欧元，如果是东欧国家（比如波兰），薪水就更低了。
+这就是令我吃惊的地方， 西欧国家的人均 GDP 远高…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[epic 免费送 NBA 2k21 了]]></title>
+        <id>778264</id>
+        <link href="https://www.v2ex.com/t/778264"/>
+        <updated>2021-05-21T00:14:20.000Z</updated>
+        <summary type="html"><![CDATA[crisrock: https://www.epicgames.com/store/zh-CN/p/nba-2k21]]></summary>
+        <author>
+            <name>crisrock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[换区以后自动切回账号]]></title>
+        <id>778263</id>
+        <link href="https://www.v2ex.com/t/778263"/>
+        <updated>2021-05-20T23:29:17.000Z</updated>
+        <summary type="html"><![CDATA[zirawell: 
+系统版本：14.5.1
+有 Apple Watch 7.4.1
+有国区 Apple Music 本地缓存
+今天切换账号换回来时候，登陆国区账号时候，刚输账号还没有输入完结果就帮我自动登陆了，甚至连密码都还没输，这个是这个版本的新特性还是 BUG ？
+打开 Apple Music 没有像以往清空缓存，也不用重新加载曲库，可能是因为检测到 Apple Music 账号自动帮我登陆的？
+大家是否有这个问题？]]></summary>
+        <author>
+            <name>zirawell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JSON in CSS]]></title>
         <id>https://css-tricks.com/?p=340599</id>
@@ -31,43 +303,329 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Angular 11 Tutorial: Code a Project from Scratch]]></title>
-        <id>60a6b3ab906c5207e3a7f5fa</id>
-        <link href="https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/"/>
-        <updated>2021-05-20T19:14:48.000Z</updated>
-        <summary type="html"><![CDATA[Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation]]></summary>
+        <title type="html"><![CDATA[快捷指令 Shortcuts 微博移动版 URL 转换成电脑网页版 URL]]></title>
+        <id>778262</id>
+        <link href="https://www.v2ex.com/t/778262"/>
+        <updated>2021-05-20T18:56:09.000Z</updated>
+        <summary type="html"><![CDATA[dbsquirrel: https://www.icloud.com/shortcuts/fc7ae9a5da3e4cd79ced0f91cf637fe1
+有这个需求，需要在手机上快速转换下，查到了这个主题 /t/461346
+索性简单做了个快捷指令，从 html 里用正则表达式匹配下然后拼接成网址……（现学现卖）]]></summary>
         <author>
-            <name/>
+            <name>dbsquirrel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Modern C++ by Building an Audio Plugin]]></title>
-        <id>60a694ab906c5207e3a7f544</id>
-        <link href="https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/"/>
-        <updated>2021-05-20T17:12:29.000Z</updated>
-        <summary type="html"><![CDATA[A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an]]></summary>
+        <title type="html"><![CDATA[Java Swing 的程序一直出现 UI 错位问题]]></title>
+        <id>778261</id>
+        <link href="https://www.v2ex.com/t/778261"/>
+        <updated>2021-05-20T18:27:41.000Z</updated>
+        <summary type="html"><![CDATA[HolyGu: 
+首先电脑配置如下
+操作系统：Windows10 20H2 / Windows10 1909 （均为 MSDN 下载的原版）
+主板：ASUS Z490-E / ASUS C8DH
+CPU：i9-10850K / Ryzen9 5950X
+内存：海盗船 DDR4 3600 16G2 / 宏碁 DDR4 3600 16G2
+显卡：ASUS 6900XT / ASUS 3090
+硬盘：东芝 RD20 / 海康威视 C2000 Pro
+电源：艾派电竞 AJ-850M
+显示器：DELL U2417H / DELL U2720Q
+JDK：1.8 / 13
+在如上两组配置中，运行使用了 Swing 编写的 UI 程序，在使用过程中，如果触发中文输入法，就会导致软件布局错乱
+困扰了我很久了。。。求大佬帮忙
+比如运行最简单的 Swing 的登录框实例，在输入中文的时候 UI 就会错乱
+但是测试 JavaFX 编写的软件就是正常的
+登录框代码示例:
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+i…]]></summary>
         <author>
-            <name/>
+            <name>HolyGu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Get Started with Version Control Using Git]]></title>
-        <id>60a4b5c7906c5207e3a7e2bb</id>
-        <link href="https://www.freecodecamp.org/news/get-started-with-version-control-and-git/"/>
-        <updated>2021-05-20T15:20:53.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets]]></summary>
+        <title type="html"><![CDATA[不懂就问，为什么网上的 md5 工具计算结果和 pytho， Java 计算结果不一样]]></title>
+        <id>778260</id>
+        <link href="https://www.v2ex.com/t/778260"/>
+        <updated>2021-05-20T18:01:17.000Z</updated>
+        <summary type="html"><![CDATA[eccentric579: 
+今天被坑了一天
+请教一下各位，是因为编码不同么，不是特别了解
+ps 发帖时候发现 V2EX 把转义字符的反斜杠去了，结果就一样了。。。]]></summary>
         <author>
-            <name/>
+            <name>eccentric579</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn JavaScript - A Free 7-hour Interactive Tutorial]]></title>
-        <id>60a36742906c5207e3a7da6e</id>
-        <link href="https://www.freecodecamp.org/news/learn-javascript-interactive-course/"/>
-        <updated>2021-05-20T14:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most]]></summary>
+        <title type="html"><![CDATA[[硅谷明星创业公司] [远程工作机会] Jerry.ai 资深全栈工程师直推]]></title>
+        <id>778259</id>
+        <link href="https://www.v2ex.com/t/778259"/>
+        <updated>2021-05-20T17:59:02.000Z</updated>
+        <summary type="html"><![CDATA[JerryAi: 
+Jerry.ai 是总部位于硅谷的人工智能金融互联网高科技公司， 聚焦千亿级市场，为用户提供人工智能金融产品选购平台。我们正在致力于新一轮的团队扩，希望寻找喜爱技术挑战、乐于深入研究代码库的技术人才加入我们的队伍。所招岗位支持远程办公。
+附上公司 career page https://apply.workable.com/jerry/j/8BA6CA0004/ 欢迎大家投简历 :)
+如果您感兴趣，请把您的英文简历发至： hiring@getjerry.com 邮件主题字段必须包含: Senior Software Engineer - V2EX - China，我们会尽快和您取得联系。由于每日收到邮件较多，无法一一回复，希望大家见谅 :)
+关于我们：
+北美最佳人工智能金融产品平台，千亿级市场，上亿级融资, 硅谷顶级风投
+最佳用户体验，APP 业内排名第一，季度营收指数增长
+开放透明平等的沟通文化，无 996
+热爱技术，背景优秀的同事（我们的同事来自于：阿里, 亚马逊，微软，英伟达，华为，快手等）
+Jerry.ai 是一家具有强大技术背景的北美跨国高科技创新公司，聚焦千亿级市场，为用户提供…]]></summary>
         <author>
-            <name/>
+            <name>JerryAi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[521 送给深夜还在等待女朋友的你]]></title>
+        <id>778258</id>
+        <link href="https://www.v2ex.com/t/778258"/>
+        <updated>2021-05-20T17:47:35.000Z</updated>
+        <summary type="html"><![CDATA[zx123ok: 
+https://go.microsoft.com/fwlink/?LinkID=529180&aid=22b681a8-aeab-4481-8a94-cc4d17e98256&invite=33502e1d-8fae-48e3-91a7-f6cf9399c00c&type=ByLink]]></summary>
+        <author>
+            <name>zx123ok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“幸存者偏差”既然是一个逻辑错误，那我们该如何 躲开“幸存者偏差”？]]></title>
+        <id>778255</id>
+        <link href="https://www.v2ex.com/t/778255"/>
+        <updated>2021-05-20T17:08:53.000Z</updated>
+        <summary type="html"><![CDATA[huangsen365: “幸存者偏差”既然是一个逻辑错误，那我们该如何 躲开“幸存者偏差”？
+参考  https://www.sohu.com/a/423858022_167201]]></summary>
+        <author>
+            <name>huangsen365</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[富途牛牛] [深圳] 招各种研发，前端，后端，客户端， hc 非常多]]></title>
+        <id>778254</id>
+        <link href="https://www.v2ex.com/t/778254"/>
+        <updated>2021-05-20T17:06:15.000Z</updated>
+        <summary type="html"><![CDATA[dgzzz: 
+Android/IOS/MAC/PC，研发产品设计，都有需求哦]]></summary>
+        <author>
+            <name>dgzzz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人终究逃不出去吗？]]></title>
+        <id>778253</id>
+        <link href="https://www.v2ex.com/t/778253"/>
+        <updated>2021-05-20T16:58:32.000Z</updated>
+        <summary type="html"><![CDATA[baoker: 
+我结婚了，但是在我结婚的那一刻开始我感觉世界变小了，
+我好像有了责任，我不能想干嘛干嘛了，
+我今天跟我爸妈聊以后有可能出去读书的事情，我爸妈当即就炸了
+跟我理论，说我不顾家庭
+（这些我都跟老婆商量过，等一切稳定，我确实想去再深造一下）
+但是我觉得如果两个人在一起，就必须得放下自己的理想和未来，畏首畏尾来保护卑微的爱情，何必在一起呢，两个人在一起不应该是互相理解，鼓励共同前进吗？
+我知道家庭重要，但是我不希望以后的生活就是一地鸡毛，人，这一辈子要做的事情有那么多，怎么就从 30 岁开始就只有锅碗瓢盆，孩子前孩子后了呢。
+唉，可能这辈子我是注定无法与父母达成一致了，他们的话一直都是 
+没有我们这么辛苦你能有今天？（我今天怎么了？）
+你怎么一天到晚神神叨叨（就因为我说要读书，就觉得我很神经）
+你结了婚还不生孩子会被别人笑的，我们也会被人笑的 （笑 tmb，笑他们的呀 为什么一辈子要看别人的脸色）
+我们是农村人，我们就是这样
+这几套房都是我们出的钱，你别想打主意（就因为我说要读书，他们以为我要卖了去读书，我一分都没想动）
+我发现了，还是那句话，虽然有点不尊重父母，但是还是想说，我可能这辈子都不会怎么…]]></summary>
+        <author>
+            <name>baoker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果你不是程序员，你会是什么]]></title>
+        <id>778252</id>
+        <link href="https://www.v2ex.com/t/778252"/>
+        <updated>2021-05-20T16:49:32.000Z</updated>
+        <summary type="html"><![CDATA[Rxianbei: 
+我从小学开始玩易语言，初中开始写 Php，我这一辈子就没有考虑过如果我不是程序员这个问题。
+但有时候又觉得一些职业真的挺有意思的，比如在城市展厅卖车，卖手机。比如当汽车媒体，社会媒体。可以把我对这些物件的喜悦和认知传达出去。
+所以大家有没有思考过，如果自己不是程序员会从事什么样的工作。
+如果抛开收入只谈爱好，你想从事什么样的工作？（请不要说家里蹲）]]></summary>
+        <author>
+            <name>Rxianbei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20210521 午夜俱乐部]]></title>
+        <id>778251</id>
+        <link href="https://www.v2ex.com/t/778251"/>
+        <updated>2021-05-20T16:32:59.000Z</updated>
+        <summary type="html"><![CDATA[CallmeDredd: 曾经以为体重要到 90 公斤了，最近发现其实有机会降到 80 公斤以下，好开心啊！一天恨不得称 100 次体重
+在麦德龙发现了一个加了罗勒叶的香肠，超级好吃，就是有点贵，当正餐吃的话，一次差不多得 30 /cry
+说到底还是穷，要努力赚钱啊~]]></summary>
+        <author>
+            <name>CallmeDredd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百度网盘新推出的“工作空间”是否会蚕食坚果云的市场？]]></title>
+        <id>778250</id>
+        <link href="https://www.v2ex.com/t/778250"/>
+        <updated>2021-05-20T16:22:35.000Z</updated>
+        <summary type="html"><![CDATA[wsseo: 该功能和坚果云高度重叠]]></summary>
+        <author>
+            <name>wsseo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[磕盐小白提问：如何确定自己的研究方向？]]></title>
+        <id>778249</id>
+        <link href="https://www.v2ex.com/t/778249"/>
+        <updated>2021-05-20T16:22:21.000Z</updated>
+        <summary type="html"><![CDATA[qincircular: 
+我目前研 0，计算机专业，目前大方向是自然语言处理。导师希望我自己选定想要做的问题，但是对我来说，很多问题都是新鲜的，难以抉择。比如关系抽取、知识图谱、对话系统、推荐系统。
+为了尽快确定自己的方向，也在知乎上看过一些老师写的方案，比如把 ACL/NAACL/EMNLP 近三年的文章浏览一遍（刘知远老师）。但每年单 ACL 的文章就有几百份，这工作量似乎难以承担？
+希望组里的前辈们能够分享一下自己在选择研究方向时做的一些尝试，非 NLP 甚至非 CS 均可，我认为都会有帮助。磕盐小白真的无力了，感觉很难去选择一个合适的方向，希望能从前辈们的经验里探索出自己的方向！谢谢大家啦。]]></summary>
+        <author>
+            <name>qincircular</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis 中 Key 为什么也使用 SDS 而不是 C 字符串呢？]]></title>
+        <id>778248</id>
+        <link href="https://www.v2ex.com/t/778248"/>
+        <updated>2021-05-20T16:18:46.000Z</updated>
+        <summary type="html"><![CDATA[jay1002008: 
+SDS 类型具有几大优势：
+常数复杂度获取字符串长度
+杜绝缓冲区溢出
+减少修改字符串长度时所需的内存重分配次数
+二进制安全
+兼容部分 C 字符串函数
+但是，Redis Key 不需要修改，所以大部分优势都不存在了，为什么还需要 SDS 类型呢，使用 C 字符串不香吗？]]></summary>
+        <author>
+            <name>jay1002008</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[求助一道面试题]]></title>
+        <id>778245</id>
+        <link href="https://www.v2ex.com/t/778245"/>
+        <updated>2021-05-20T16:01:56.000Z</updated>
+        <summary type="html"><![CDATA[erwin985211: 
+// 实现一个 Test，可以按照以下方式调用
+Test('tom') 
+//  hi, tom
+Test('tom').sleep(5).eat('dinner') 
+// hi, tom // 等待 5s // weak up 5 // eat dinner
+Test('tom').eat('dinner').eat('supper') 
+//  hi, tom  // eat dinner // eat super
+Test('tom').sleepFirst(5).eat('supper') 
+// 等待 5s // wake up 5 // hi, tom //  eat super]]></summary>
+        <author>
+            <name>erwin985211</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内服务器备案审查如何判断一个地址是否是网站？]]></title>
+        <id>778244</id>
+        <link href="https://www.v2ex.com/t/778244"/>
+        <updated>2021-05-20T15:45:17.000Z</updated>
+        <summary type="html"><![CDATA[yanyanlongxia: 刚刚看了腾讯云上关于备案的文档，说是未备案国内服务器的网站全部阻断，与是否是 80 端口无关。
+那么判断的条件究竟是什么？流量转发需要备案吗？]]></summary>
+        <author>
+            <name>yanyanlongxia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dell 5070MFF 黑苹果 Big Sur EFI 分享 - 2K 出头的小黑果主机]]></title>
+        <id>778243</id>
+        <link href="https://www.v2ex.com/t/778243"/>
+        <updated>2021-05-20T15:44:08.000Z</updated>
+        <summary type="html"><![CDATA[zhaiblog: 
+
+硬件配置
+Dell 5070 MFF ¥650
+i5-9500T ¥910
+8G 2666 * 2 ¥346
+RC10 500G ¥319
+DW1820A ¥158
+总价：¥2383
+装机前需要屏蔽 DW1820A 的 4 个 pin，参考：DW1820A/BCM94350ZAE/BCM94356ZEPA50DX 插入的正确姿势
+选 DW1820A 的主要原因是，它是现在黑果上为数不多不贵而且能完美驱动的网卡了，5G 频段下能跑到 800Mbps+，算是性价比之选。
+同时它有一个 M.2 口和一个 SATA3 口，可以再拓展一块 SATA3 的 SSD 存储一些冷数据，不过个人感觉一根 500G 的 M.2 SSD 对于开发来说已经基本够用了。
+正常使用的功能：
+CPU 睿频
+核显加速、硬解码
+Airdrop & Airplay & Handoff
+RJ45 板载网卡 & WiFi
+内置扬声器 & 3.5mm 耳机 & 有线输出
+这一套配置的好处是主机是 1L 大小，可以挂显示器后，性能上敲敲代码看看视频足够了。
+手上的显示器是 2K 的，UHD630 理论上带 4K 是无压力的。
+这…]]></summary>
+        <author>
+            <name>zhaiblog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不懂就问，这是怎么制作成的？]]></title>
+        <id>778242</id>
+        <link href="https://www.v2ex.com/t/778242"/>
+        <updated>2021-05-20T15:40:46.000Z</updated>
+        <summary type="html"><![CDATA[mingtdlb: 
+
+这通用版是怎么制作的？官网只有 x86 的，我想要 arm 的。
+每次装都得编译好长时间，有点浪费时间了。]]></summary>
+        <author>
+            <name>mingtdlb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有没有哪个网站可以看 mbp 和 mac mini 的性能对比？]]></title>
+        <id>778240</id>
+        <link href="https://www.v2ex.com/t/778240"/>
+        <updated>2021-05-20T15:19:37.000Z</updated>
+        <summary type="html"><![CDATA[pdog18: 我现在用的 mbp 感觉网页开多了有时会卡，配置如下：
+————————————
+MacBook Pro (13-inch, 2016, Four Thunderbolt 3 Ports)
+3.3 GHz Dual-Core Intel Core i7
+16 GB 2133 MHz LPDDR3
+Intel Iris Graphics 550 1536 MB
+————————————
+因为我本身对电脑的携带型没要求，平时多的用 Android Studio 和录制视频
+所以最近在考虑换到 mac mini 期待有更好的性能
+有没有这种 mbp 2016 vs mac mini m1 的对比网站？
+搜了下对比的大多是 mbp m1 vs mac mini 。。。]]></summary>
+        <author>
+            <name>pdog18</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[体检一堆问题，胖子一枚，早上慢跑 1 个小时候，发现一天精神好多了]]></title>
+        <id>778239</id>
+        <link href="https://www.v2ex.com/t/778239"/>
+        <updated>2021-05-20T14:59:09.000Z</updated>
+        <summary type="html"><![CDATA[johncang: rt，年过 30，很慢性病都会来，挺怕的]]></summary>
+        <author>
+            <name>johncang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三年前端程序媛感觉跳槽太难了]]></title>
+        <id>778238</id>
+        <link href="https://www.v2ex.com/t/778238"/>
+        <updated>2021-05-20T14:51:37.000Z</updated>
+        <summary type="html"><![CDATA[Canace: 
+如题，面试了一些，要么自己感觉不好拒绝了，要么面不过一面，就想换个环境写代码而已，咋这么难呢]]></summary>
+        <author>
+            <name>Canace</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于 WSL docker cuda，安装深度学习 Python 环境]]></title>
+        <id>778237</id>
+        <link href="https://www.v2ex.com/t/778237"/>
+        <updated>2021-05-20T14:49:23.000Z</updated>
+        <summary type="html"><![CDATA[zxCoder: 
+研究生找了个搞数据库的导师，结果还是躲不过这玩意。。现在啥都得结合深度学习。。。
+现在有一个项目需要我跑起来，然后我今天搞了一天的环境，问题有点多。
+一开始不清楚就直接装了个 python3.9，然后有个 requirements.txt ，安装包的时候出错，查了一下发现里面用到了 tensorflow1，只能用 3.6，然而我已经不知道要怎么把 python3.9 换成 3.6 （试了几种方法。。。反而把环境搞乱了也没成功）
+所以我打算用 docker，反正在本地只要跑跑 demo 就行，所以我写了一个 dockerfile，基于 python3.6 的镜像，把 requirements.txt 拷贝进去再安装，但是还是出现了很多错误。。
+其中就有一些红色的也不知道错误还是警告
+UserWarning: CUDA initialization: Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvid…]]></summary>
+        <author>
+            <name>zxCoder</name>
         </author>
     </entry>
     <entry>
@@ -95,23 +653,18 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boost Your Skills Online: Smashing Workshops On Front-End And Design]]></title>
-        <id>https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/</id>
-        <link href="https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/"/>
-        <updated>2021-05-20T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
+        <title type="html"><![CDATA[百亿规模API网关服务Shepherd的设计与实现]]></title>
+        <id>https://tech.meituan.com/2021/05/20/shepherd-api-gateway.html</id>
+        <link href="https://tech.meituan.com/2021/05/20/shepherd-api-gateway.html"/>
+        <updated>2021-05-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一、背景介绍
+1.1 API网关是什么？
+API网关是随着微服务（Microservice）概念兴起的一种架构模式。原本一个庞大的单体应用（All in one）业务系统被拆分成许多微服务（Microservice）系统进行独立的维护和部署，服务拆分带来的变化是API的规模成倍增长，API的管理难度也在日益增加，使用API网关发布和管理API逐渐成为一种趋势。一般来说，API网关是运行于外部请求与内部服务之间的一个流量入口，实现对外部请求的协议转换、鉴权、流控、参数校验、监控等通用功能。
+1.2 为什么要做Shepherd API网关？
+在没有Shepherd API网关之前，美团业务研发人员如果要将内部服务输出为对外的HTTP API接口。通常要搭建一个Web应用，用于完成基础的鉴权、限流、监控日志、参数校验、协议转换等工作，同时需要维护代码逻辑、基础组件的升级，研发效率相对比较低。此外，每个Web应用都需要维护机器、配置、数据库等，资源利用率也非常差。
+美团内部一些业务线苦于没有现成的解决方案，根据自身业务特点，研发了业务相关的API网关。放眼业界，亚马逊、阿里巴巴、腾讯等公司也都有成熟的API网关解决方…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Implement Authentication In Next.js With Auth0]]></title>
-        <id>https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/</id>
-        <link href="https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/"/>
-        <updated>2021-05-20T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
+            <name>美团技术团队</name>
         </author>
     </entry>
     <entry>
@@ -127,36 +680,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use CSS Selectors to Style Your Web Page]]></title>
-        <id>60a341f5906c5207e3a7da61</id>
-        <link href="https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/"/>
-        <updated>2021-05-19T23:17:21.000Z</updated>
-        <summary type="html"><![CDATA[CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Web3? The Decentralized Internet of the Future Explained]]></title>
-        <id>60a42386906c5207e3a7dfe2</id>
-        <link href="https://www.freecodecamp.org/news/what-is-web3/"/>
-        <updated>2021-05-19T21:09:01.000Z</updated>
-        <summary type="html"><![CDATA[The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize for Change in Software Development]]></title>
-        <id>60a469ec906c5207e3a7e1b9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/"/>
-        <updated>2021-05-19T17:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[svg-loader: A Different Way to Work With External SVG]]></title>
         <id>https://css-tricks.com/?p=340692</id>
         <link href="https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/"/>
@@ -169,23 +692,23 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/"/>
-        <updated>2021-05-19T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.]]></summary>
+        <title type="html"><![CDATA[中国经济的数字逻辑]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html"/>
+        <updated>2021-05-19T12:54:48.000Z</updated>
+        <summary type="html"><![CDATA[重庆市前市长黄奇帆退休以后，受聘担任复旦大学特聘教授，定期给师生做讲座，介绍他对中国经济的看法。
+
+他的12次讲座，去年汇集成书出版了，书名叫做《分析与思考：黄奇帆的复旦经济课》。
+
+我最近读了以后，发现他在讲座中经常引用各种数字，而且会解释了背后的经济逻辑。怎么理解各种经济指标，怎么用它们指导经济政策，讲得深入浅出，我觉得很有价值。
+下面就是我从书中摘录的一些片段，相信可以帮大家更好地看懂中国经济。
+一、金融业产值
+中国经济的一个严重问题是，金融企业的产值过高。金融业增加值占 GDP 的比重是百分之八点几，全世界最高。世界金融业产值占全球 GDP 是5%左右。这个比重过高，意味着金融业吃掉了其它产业的利润。
+但是，如果仅仅统计中国的银行、证券、保险的金融增加值，其实也就是4%--5%。多出来的3%是非银行的金融企业形成的，包括信托、小贷、保理、担保公司、财务公司、互联网金融公司、私募基金等。
+现在银行的贷款利率一般在7%，到了信托公司，贷款成本一般都在12%以上，到了小贷公司就会上升到18%--20%。层层上升的资金成本，导致实体经济融资难、融资贵，利润就这样转移到了金融业。
+目前，中国企业的总负债是 GD…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Break into Ethereum, Crypto, and Web3 as a Developer]]></title>
-        <id>60a53182906c5207e3a7e588</id>
-        <link href="https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/"/>
-        <updated>2021-05-18T21:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really]]></summary>
-        <author>
-            <name/>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
@@ -202,26 +725,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?]]></title>
-        <id>60a3780f906c5207e3a7db5f</id>
-        <link href="https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/"/>
-        <updated>2021-05-18T17:12:59.000Z</updated>
-        <summary type="html"><![CDATA[If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? "Well, I just bill by the hour and send an invoice every week or month." ...I hear you say.]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Programs – 101 Ways to Learn to Code for Free]]></title>
-        <id>6068f146d5756f080ba9402d</id>
-        <link href="https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/"/>
-        <updated>2021-05-18T16:50:36.000Z</updated>
-        <summary type="html"><![CDATA[Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Create Neon Text With CSS]]></title>
         <id>https://css-tricks.com/?p=340420</id>
         <link href="https://css-tricks.com/how-to-create-neon-text-with-css/"/>
@@ -231,26 +734,6 @@ The post How to Create Neon Text With CSS appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Silvia O'Dwyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
-        <id>https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
-        <link href="https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/"/>
-        <updated>2021-05-18T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/"/>
-        <updated>2021-05-18T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
     <entry>
@@ -292,49 +775,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
-        <updated>2021-05-17T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2"/>
-        <updated>2021-05-17T05:32:19.000Z</updated>
-        <summary type="html"><![CDATA[⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: "16" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example
-Chore: Reorganize to monorepo with npm workspace.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1"/>
-        <updated>2021-05-16T02:33:58.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: static files were unnecessarily copied for custom templates.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
-        <updated>2021-05-16T01:42:24.000Z</updated>
-        <summary type="html"><![CDATA[Added: templating system. Demo | Source | Docs
-Chore: rendering logic refactoring. Adopting functional paradigm.
-Thank you @tianheg, @onnyyonn]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
         <id>https://css-tricks.com/?p=340136</id>
         <link href="https://css-tricks.com/auto-generated-social-media-images/"/>
@@ -373,13 +813,25 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
-        <id>https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
-        <link href="https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/"/>
-        <updated>2021-05-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
+        <title type="html"><![CDATA[科技爱好者周刊（第 158 期）：内容渠道的贬值]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html"/>
+        <updated>2021-05-14T00:17:14.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
+周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+封面图
+
+首届中国国际消费品博览会在海口市开幕，开幕式有1000架无人机表演了不同的造型，照亮了夜空。（via）
+本周话题：内容渠道的贬值
+上周，美国的 Verizon 公司宣布，将以前收购的两个网站---- AOL 和 Yahoo ----一起打包卖掉，一共50亿美元。
+
+这是怎么回事呢？Verizon 是美国第二大通信商，运营 4G 和 5G 网络。几年前，它突然心血来潮，决定进军内容行业，不仅提供通信服务，还要提供内容。
+美国三大新闻门户网站，它一口气收购了第一名的 Yahoo（2017年45亿美元） 和第三名的 AOL（2015年44亿美元），另一家 MSN 属于微软，它动不了。
+
+买来以后，Verizon 就发现了真相，内容行业根本不行，非常难做，那些门户网站疲软不堪，业务毫无起色。去年又赶上了疫情，于是不想再撑了，决定认赔出局，抛售旗下的媒体资产，集中精力做无线通信。…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
@@ -397,269 +849,109 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
-        <updated>2021-05-12T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
+        <title type="html"><![CDATA[算法平台在线服务体系的演进与实践]]></title>
+        <id>https://tech.meituan.com/2021/05/13/turing-os-online-serving.html</id>
+        <link href="https://tech.meituan.com/2021/05/13/turing-os-online-serving.html"/>
+        <updated>2021-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[0. 写在前面
+AI可以说是目前互联网行业炙手可热的“明星”。无论是老牌巨头，还是流量新贵，都在大力研发AI技术，为自家的业务赋能。美团很早就开始探索不同的机器学习模型在各种业务场景的应用，从最开始的线性模型、树模型，再到近几年的深度神经网络、BERT、DQN等，并成功应用于搜索、推荐、广告、配送等业务，也取得了较好的效果与产出。
+美团配送技术部建设的算法平台——Turing（下称图灵平台），旨在提供一站式的服务，覆盖数据预处理、特征生成、模型训练、模型评估、模型部署、在线预测、AB实验、算法效果评估的全流程，降低了算法工程师的使用门槛，帮助他们脱离繁琐的工程化开发，把有限的精力聚焦于业务和算法逻辑的迭代优化。具体的实践，大家可参考美团技术团队此前推送的一篇技术博客《一站式机器学习平台建设实践》。
+随着机器学习平台、特征平台、AB平台等陆续完成，配送技术团队发现在线预测部分逐渐成为算法开发和迭代的瓶颈，为此，我们开始启动图灵在线服务框架的整体研发。本文将与大家详细探讨图灵平台中的在线服务框架——图灵OS（Online Serving）的设计和实践，希望对大家能够有所帮助或者启发。
+随着图灵平台逐渐成熟，包括美…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>美团技术团队</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Little Smashing Stories]]></title>
-        <id>https://smashingmagazine.com/2021/05/little-smashing-stories/</id>
-        <link href="https://smashingmagazine.com/2021/05/little-smashing-stories/"/>
-        <updated>2021-05-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
+        <title type="html"><![CDATA[软件工程的最大难题]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/05/scaling-problem.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/05/scaling-problem.html"/>
+        <updated>2021-05-10T00:25:16.000Z</updated>
+        <summary type="html"><![CDATA[一、引言
+大学有一门课程《软件工程》，研究如何组织和管理软件项目。
+
+说实话，这门课不适合本科生，因为学生可能体会不到，课程到底要解决什么问题。只有亲身参与过大项目的开发，经历过大团队，才能感受为什么软件工程很重要，又很难做对。
+软件开发有一个难题，叫做"扩展"（scaling），即怎样服务更多的用户。 你有10000个并发用户，跟你有10个并发用户，这是完全不同的概念，哪怕功能完全相同，背后的实现是完全不一样的。并发用户数上升一个数量级，软件就必须重构，大量问题随之产生。
+
+大项目的技术难度高，管理难度更高，而且大团队的生产率往往很低，行动缓慢。 《软件工程》就是研究，如何扩展软件和团队，适应大项目的需要。
+国外有很多专著，研究这个问题。前些日子，我读到一篇文章，推荐了两本书。第一本叫做《加速：构建和扩展高性能技术组织》，第二本叫做《规模：生物，城市和公司的普遍法则》。
+
+
+我看了这两本书的介绍，觉得很有启发，下面就做一些摘录。
+二、大项目的困境
+一个典型的大型软件项目，开发过程通常是下面这样。
+最开始的时候，它是一个小项目，开发人员就是两三个人，甚至可能只有一个人。产品比较简单，功能很有限。
+
+第一版发布…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
-        <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
-        <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
-        <updated>2021-05-11T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
+        <title type="html"><![CDATA[科技爱好者周刊（第 157 期）：KK 给年轻人的建议]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/05/weekly-issue-157.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/05/weekly-issue-157.html"/>
+        <updated>2021-05-07T00:13:01.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
+周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+封面图
+
+上图为美国第一个海上风力发电场，位于罗德岛海域，2016年完工，是美国仅有的三个海上风电场之一。拜登政府最近宣布，计划到2030年，将美国的海上风电能力提升1000倍。（via）
+本周话题：KK 给年轻人的建议
+凯文·凯利（Kevin Kelly，网名 KK）是著名的科技评论家，曾经担任《连线》（Wired）杂志的第一任主编，他的著作《失控》在国内外都非常有名。
+
+
+去年4月28日，是他68岁的生日。老爷子在个人网站上，发表了一篇《给年轻人的68条建议》，谈自己的人生体会。文章很受欢迎，浏览量非常大，译成了十几种外语。
+今年4月28日，69岁生日时，他又续写了一篇《给年轻人的99 条建议》。
+
+这些建议，读起来很有意思。我觉得，他年纪大了以后，对传统的观点越来越不屑一顾了，更强调叛逆和逆向思维。大家看这一条。
+（1）"智者看到一样东西，疑问要比答案多。"
+言下之意，所谓…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
-        <updated>2021-05-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
+        <title type="html"><![CDATA[GraphQL及元数据驱动架构在后端BFF中的实践]]></title>
+        <id>https://tech.meituan.com/2021/05/06/bff-graphql.html</id>
+        <link href="https://tech.meituan.com/2021/05/06/bff-graphql.html"/>
+        <updated>2021-05-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1 BFF的由来
+BFF一词来自Sam Newman的一篇博文《Pattern:Backends For Frontends》，指的是服务于前端的后端。BFF是解决什么问题的呢？据原文描述，随着移动互联网的兴起，原适应于桌面Web的服务端功能希望同时提供给移动App使用，而在这个过程中存在这样的问题：
+
+移动App和桌面Web在UI部分存在差异。
+移动App涉及不同的端，不仅有iOS、还有Android，这些不同端的UI之间存在差异。
+原有后端功能和桌面Web UI之间已经存在了较大的耦合。
+
+因为端的差异性存在，服务端的功能要针对端的差异进行适配和裁剪，而服务端的业务功能本身是相对单一的，这就产生了一个矛盾——服务端的单一业务功能和端的差异性诉求之间的矛盾。那么这个问题怎么解决呢？这也是文章的副标题所描述的”Single-purpose Edge Services for UIs and external parties”，引入BFF，由BFF来针对多端差异做适配，这也是目前业界广泛使用的一种模式。
+
+在实际业务的实践中，导致这种端差异性的原因有很多，有技术的原因，也有业务的原因。比如，用户的客户端是And…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Amanda Annandale)</name>
+            <name>美团技术团队</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get Started With React By Building A Whac-A-Mole Game]]></title>
-        <id>https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</id>
-        <link href="https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/"/>
-        <updated>2021-05-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
+        <title type="html"><![CDATA[科技爱好者周刊（第 156 期）：显卡缺货与异业竞争]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html"/>
+        <updated>2021-04-29T23:59:02.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
+周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+封面图
+
+进入四月以后，印度的新冠肺炎患者激增，全国氧气的库存迅速耗尽。政府不得不用气罐车，向重症地区运送液氧。有的地区没有高等级公路，只能将气罐车装在火车上运过去。（via）
+本周话题：显卡缺货与异业竞争
+最近，我想再配一台电脑，结果发现买不到显卡。加密货币的价格暴涨，导致显卡早就被抢购一空。
+家用计算机的显卡挖矿，六个月据说就可以回本，以后就都是利润了。如果多块显卡组成矿机，利润相当可观。所以，显卡都被用来挖矿了，市场已经没有现货了，只能买二手显卡。
+
+幸好，我去年买过一块显卡，还能凑合用。看了一下二手市场的行情，不由感慨地发了一条推特：
+"去年，我花2000元买过一块显卡，现在用了一年再卖掉，可以卖到5000元。"
+网友在下面回帖，他一年前400元买的显卡，今年2000元卖掉了。就是缺货到这种程度。
+我不由感叹，矿工高兴了，DIY 市场却遭殃了。如果你只是一个普通的电脑爱好…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.4.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0"/>
-        <updated>2021-05-10T08:55:42.000Z</updated>
-        <summary type="html"><![CDATA[Added: Basic theme customization: Demo | Source | Docs.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.6.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0"/>
-        <updated>2021-05-10T08:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Added: Link from the title of a subscription to its website.
-Added: Store feedUrl and siteUrl for each source in cache.
-Added: Semantic element (<time>) for timestamp on the UI.
-Added: Semantic API for theming the default template. Demo | Source | Docs
-Changed: Moved feed metadata from article level to feed level in cache.
-Fixed: Any html-like text was stripped from title. Fixed with encoded text.
-Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.5.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0"/>
-        <updated>2021-05-08T05:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Added: Atom feed generator
-Added: Customizable site title
-Added: Copy all files from static directory to the root of the site.
-Changed: Favicon, css, and js assets now existing at site root level.
-Chore: Excluded testing files from repo.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Organize Product-Related Assets And Collaborate Better]]></title>
-        <id>https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/</id>
-        <link href="https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/"/>
-        <updated>2021-05-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Valeriia Panina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Performance Of Shopify Themes (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/"/>
-        <updated>2021-05-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carson Shold)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing HTML Payload With Next.js (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/"/>
-        <updated>2021-05-05T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Liran Cohen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1"/>
-        <updated>2021-05-05T05:19:57.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Avoid crwalers.
-Fixed: Error logging from XML parser.
-Fixed: Typo in docs.
-Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0"/>
-        <updated>2021-05-05T05:19:26.000Z</updated>
-        <summary type="html"><![CDATA[Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.
-Added: Documentation for osmosfeed.yaml.
-Fixed: More intuitive logging during build.
-Chore: Refactored parameter passing for enrich step.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.2.3]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3"/>
-        <updated>2021-05-05T05:19:03.000Z</updated>
-        <summary type="html"><![CDATA[Changed: favicon update.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.2.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1"/>
-        <updated>2021-05-05T05:18:52.000Z</updated>
-        <summary type="html"><![CDATA[Added: Display CLI version in footer.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git]]></title>
-        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
-        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
-        <updated>2021-05-04T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tobias Günther)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
-        <updated>2021-05-04T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolution Of Jamstack]]></title>
-        <id>https://smashingmagazine.com/2021/05/evolution-jamstack/</id>
-        <link href="https://smashingmagazine.com/2021/05/evolution-jamstack/"/>
-        <updated>2021-05-03T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mathias Biilmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May Is In The Air (2021 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/</id>
-        <link href="https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/"/>
-        <updated>2021-04-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Humble `<img>` Element And Core Web Vitals]]></title>
-        <id>https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/</id>
-        <link href="https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
-        <updated>2021-04-29T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Addy Osmani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Image Optimization, A New Smashing Book By Addy Osmani]]></title>
-        <id>https://smashingmagazine.com/2021/04/image-optimization-pre-release/</id>
-        <link href="https://smashingmagazine.com/2021/04/image-optimization-pre-release/"/>
-        <updated>2021-04-28T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Easing Functions For CSS Animations And Transitions]]></title>
-        <id>https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/</id>
-        <link href="https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/"/>
-        <updated>2021-04-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Bake Layers Of Accessibility Testing Into Your Process]]></title>
-        <id>https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/</id>
-        <link href="https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/"/>
-        <updated>2021-04-26T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to "layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kate Kalcevich &amp; Mike Gifford)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors]]></title>
-        <id>https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</id>
-        <link href="https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/"/>
-        <updated>2021-04-23T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Design Done Well: The Ordinary Made Extraordinary (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2021/04/web-design-done-well-part1/</id>
-        <link href="https://smashingmagazine.com/2021/04/web-design-done-well-part1/"/>
-        <updated>2021-04-22T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>

@@ -67,6 +67,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=339759",
+          "author": "Chris Coyier",
+          "description": "In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …\nThe post Awesome Standalone (Web Components) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/awesome-standalone-web-components/",
+          "publishedOn": "2021-05-26T17:56:34.000Z",
+          "wordCount": 952,
+          "title": "Awesome Standalone (Web Components)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340901",
+          "author": "Chris Coyier",
+          "description": "How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a \n…\nThe post Links on Web Components appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-web-components/",
+          "publishedOn": "2021-05-26T17:56:12.000Z",
+          "wordCount": 712,
+          "title": "Links on Web Components"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340705",
+          "author": "Andrei Pfeiffer",
+          "description": "Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.\nWe tested 10 different …\nThe post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-thorough-analysis-of-css-in-js/",
+          "publishedOn": "2021-05-26T14:08:49.000Z",
+          "wordCount": 3416,
+          "title": "A Thorough Analysis of CSS-in-JS"
+        },
+        {
           "id": "https://css-tricks.com/?p=340759",
           "author": "Josh Collinsworth",
           "description": "I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.\nTable of contents\nWhat’s the game \n…\nThe post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -280,6 +307,357 @@
       "feedUrl": "https://rsshub.app/v2ex/topics/latest",
       "siteUrl": "https://www.v2ex.com/",
       "articles": [
+        {
+          "id": "779467",
+          "author": "smdbh",
+          "description": "smdbh: \n自己写的串口程序，之前正常工作很久。\n最近改运行在图形界面命令行下，系统只有 5min 锁屏设置，无休眠。\n问题是程序在每次运行 12h 后，就不再接收数据，也无异常现象。几天现象一致。\n后来改用 ctrl alt f2，换到命令行界面，问题消失。\n问下这是什么问题导致的，谢谢。",
+          "link": "https://www.v2ex.com/t/779467",
+          "publishedOn": "2021-05-27T00:38:36.000Z",
+          "wordCount": 100,
+          "title": "lubuntu 中串口停止工作的原因？"
+        },
+        {
+          "id": "779465",
+          "author": "yukang",
+          "description": "yukang: \nMicrosoft Mobile Experience (MMX) 主要做移动端相关产品，包括 Your Phone, Microsoft Launcher, Onenote, StickyNote, To Do/Tasks 等。\n目前打算在中国新建业务线，急招如下职位：\nDEV\nSoftware Engineer (all levels) - MMX\nPrincipal Software Engineering Manager\nPM\nSenior Program Manager\nProgram Manager\nOEM Ecosystem PM\nSenior Program Manager (Ecosystem) - External\n针对面试需要做哪些准备？\n社招主要是看编程能力、系统设计、表达能力、英语能力。其中编程主要是考察在线 coding 。建议刷一下 LeetCode easy/medium 。系统设计通常是给一个具体的场景，一起讨论如何设计实现，或者讲一下自己之前做的一些项目，难点和挑战。英语能力要求能简单表述自己，发音和流畅度不要求太高。\n简历发送到: moorekang#gmail.com，内推全程跟进...",
+          "link": "https://www.v2ex.com/t/779465",
+          "publishedOn": "2021-05-27T00:33:09.000Z",
+          "wordCount": 180,
+          "title": "[苏州][微软内推] 急招移动端开发/PM/EM"
+        },
+        {
+          "id": "779464",
+          "author": "coldmn3",
+          "description": "coldmn3: 前两天还好的，更新到 3.0.4 (18099)后 双开登录第二个号过一段时间后机会提示登录错误，系统 11.3.1，有相同情况的吗？",
+          "link": "https://www.v2ex.com/t/779464",
+          "publishedOn": "2021-05-27T00:32:56.000Z",
+          "wordCount": 155,
+          "title": "mac 最新版微信好像不能双开了？"
+        },
+        {
+          "id": "779463",
+          "author": "formulahendry",
+          "description": "formulahendry: \n有兴趣的童鞋，请砸简历到 junhan(AT)microsoft(DOT)com , 如果合适，我会帮大家内推~\n很高兴已经有 55 位候选人通过我的内推拿到了微软 Offer 。对于内推的候选人，我将全程 follow up，从职位 match，到面试建议与准备，再到面试流程，再到入职，以及大大小小各类事务（比如班车，未来园区的地铁线路规划的信息，周围的租房、学区房等等）。\n我所在的 Developer Division 组热招！ base 上海\n详情以及职位列表请见：\n我们 DevDiv 组，又招人了！大量 HC ！\n更多微软内推信息，可以关注 \"HJ 说\" 微信公众号，并可以查看我写的微软面经，有数万人阅读~\n\n微软苏州上海北京等各个职位都在热招，涵盖前端、后端、移动端等各类职位，超过数百个 HC，也欢迎找我内推！\n微软内推，长期有效",
+          "link": "https://www.v2ex.com/t/779463",
+          "publishedOn": "2021-05-27T00:23:43.000Z",
+          "wordCount": 198,
+          "title": "已内推 55 人拿到 offer！微软 DevDiv 组热招！大量 HC！"
+        },
+        {
+          "id": "779462",
+          "author": "fmdxx1991",
+          "description": "fmdxx1991: 一写入配置文件里的注释就全没了，影响可读性，百度了下，看解决办法要修改模块源码，有没有更好的办法啊？",
+          "link": "https://www.v2ex.com/t/779462",
+          "publishedOn": "2021-05-27T00:06:24.000Z",
+          "wordCount": null,
+          "title": "用 configparser 更新配置项的时候怎么保留注释啊？"
+        },
+        {
+          "id": "779461",
+          "author": "Raven316",
+          "description": "Raven316: 不是多个机器多个显卡那种，而是分配给不同地区不同人的电脑和显卡上，这个是不是对网速要求应该还挺高的，毕竟传更新的参数应该会很耗网速。",
+          "link": "https://www.v2ex.com/t/779461",
+          "publishedOn": "2021-05-26T23:13:33.000Z",
+          "wordCount": null,
+          "title": "深度学习的分布式训练，这个有没有可能做？"
+        },
+        {
+          "id": "779460",
+          "author": "bitzhuxb",
+          "description": "bitzhuxb: wangweifeng#meituan.com     #==> @  \n部门介绍：\n作为美团旗下的社区电商业务，美团优选于 2020 年 7 月上线，重点针对下沉市场，采取“预购+自提”的模式，为社区家庭用户精选高性价比的蔬果、肉禽蛋、乳制品、酒水饮料、家居厨卫等品类商品。目前，美团优选已覆盖华东、华中、华南、西南、西北、华北等地区，二十余个重点省份。\n学历要求：大学本科\n岗位职责：\n1 、业务支撑：负责相关业务产品的前端研发工作，保障相应产品的持续迭代。\n2 、系统建设：规划并推动前端系统的架构演进，提升系统的稳定性、可维护性和研发效率。\n3 、工程建设：负责前端工程化体系建设，逐步提升开发 /交付效率，并保障产品工程质量。\n4 、体验优化：系统性优化系统的性能、易用性，提升线上用户体验。\n5 、人才培养：指导低级别工程师成长，定期组织团队内的培训和技术交流，促进团队成员进步。\n岗位基本要求：\n1 、有 2 年以上前端开发经验，有前端架构设计经验，本科及以上学历；\n2 、深入理解 JavaScript，掌握宿主平台特性和运行机制；\n3 、熟练运用主流框架（ Vue.js / React 等）、工具（ Webpack / Gulp 等），能从原理上理解框架并在必要时进行优化；\n4 、有系统级开发经验，能通过技术、流程规范等手段持续提升开发效率和产品质量；\n5 、掌握业界主流的性能优化措施，有实际解决性能优化问题的经验；\n6 、具有良好的沟通能力，较强的独立工作能力、规划能力和解决问题的能力。\n具备以下优先：\n1 、熟悉动态化解决方案，有小程序 /ReactNative/Flutter 研发经验；\n2 、熟练使用 Node.js ，并有过完整的系统设计与实现；\n3 、对新技术敏感，对代码要求高，深入学习过优秀的开源代码。\n岗位亮点：\n- 业务早期且拥有广阔的业务前景，美团核心业务之一，机会多、空间大；\n- 复杂的技术落地场景，优秀的性能体验要求，前沿的技术探索机会；\n- 清晰的职业发展路径及方法，更好地面对职业发展的问题或瓶颈。\n--",
+          "link": "https://www.v2ex.com/t/779460",
+          "publishedOn": "2021-05-26T23:06:32.000Z",
+          "wordCount": 164,
+          "title": "[社招] [美团优选] [北京] 前端开发工程师"
+        },
+        {
+          "id": "779459",
+          "author": "AmrtaShiva",
+          "description": "AmrtaShiva: https://github.com/Aquarian-Age/zwds",
+          "link": "https://www.v2ex.com/t/779459",
+          "publishedOn": "2021-05-26T23:01:43.000Z",
+          "wordCount": 95,
+          "title": "写了个 Go 语言的紫微斗数 前端不怎么会简单写了一下"
+        },
+        {
+          "id": "779458",
+          "author": "jeffreystoke",
+          "description": "jeffreystoke: \n起初这个需求是源自某天晚上对交流群内容讨论过程的思考:\n其一, 大家观念上就会认为群讨论可能是开拓眼界的好方法, 但应该不是一种学知识的好形式, 不太愿意主动分享.\n其二, 加群基本意味着只能参与后续群组讨论获得新信息, 之前的讨论即便有历史记录, 记录里面即使有高价值的内容, 如果不加以整理, 也很难会有机会被新人接触到.\n所以要建好交流群, 管理员需要做很多工作, 要处理上面两个交流群发展的障碍, 需要管理员首先做到:\n引导话题, 抛砖引玉, 增强互动 (这是最难的, 哪怕我分享了很多想法, 我的小群组里面讨论热度一直不是很高, 可能是我的想法太落后了吧 🤕)\n话题讨论结束对消息总结整理, 统一发布, 供后续再讨论\n第一点就看能不能找到具备适合群友讨论的话题了, 需要从社会人文角度去思考, 而第二点显然有可以自动化的部分.\n我最初的想法是在群内用机器人记录讨论过程的所有内容, 过程中可以通过指令忽略偏题消息, 以此确保后续整理时思路与讨论时一致, 讨论结束后机器人生成页面供管理员编辑, 管理员有时间再整理成双向链接笔记或者用 wikijs 汇总展示.\n想着想着就动手做了一个机器人来处理, 做完之后再想了一下, 感觉这种机器人可以有很多种用法, 比如:\n类似 flomo.app 这样的无压力记录 (开多个机器人多个话题, 甚至不同聊天工具记录不同类型的话题, 似乎压力更小了?)\n内置网页链接自动归档功能, 用作带评论和快照功能的网页收藏夹 (pocket pro?)\n自定义网页生成模板, 用聊天消息发博客 (看到两三年前有个 Telepost 机器人用途类似, 不过作者因为赚不到钱就弃坑了)\n把消息视作卡片, 用回复建立链接, 生成双向链接笔记, 用 logseq 之类的工具查看 (协同版双链笔记?)\n集体排错的时候记录思路, 方便后续回看 (这就是追责小能手?)\n集成语音转文字, NLP 等, 用作做课堂记录\n...等等\n虽然有这些想法, 但是我比较懒, 不太愿意继续去做这方面的工作, 因为我需要的功能基本都实现了 (又不是不能用!), 当然可能真实情况是我想多了, 这些应用场景如果适用的话应该早就有人实践了, 再怎么着也轮不到我来抢先 XD\n机器人代码已经开源, 项目地址: https://github.com/arhat-dev/meeting-minutes-bot\n目前还是想办法经营好我的小群组先, 扩展用途还是交给各位来做吧. (快去做第四个! 做好了我想用!)\n这次发帖也是打算抛砖引玉, 想听听各位在构建个人知识库这方面的想法.",
+          "link": "https://www.v2ex.com/t/779458",
+          "publishedOn": "2021-05-26T21:10:11.000Z",
+          "wordCount": 177,
+          "title": "通过聊天实现轻量记录及至构建知识库"
+        },
+        {
+          "id": "779456",
+          "author": "findlisa",
+          "description": "findlisa: \n这几天准备从外包离职离职前 12k，三年经验，学历双非，大概面了 10 个公司，2 个 offer，其中一个小公司给了 20k 但是加班和出差很严重（有同事朋友在里面）拒了，另一个一百多人开了 15k*14 薪，五险一金基数 5000，感觉不太想去，薪资能接受，就是进去要前后端一起写，不想写前端，又怕拒了后面找不到了，本人外包菜鸡，这几天面试明显少了很多，淡季来了吗？",
+          "link": "https://www.v2ex.com/t/779456",
+          "publishedOn": "2021-05-26T19:23:46.000Z",
+          "wordCount": 145,
+          "title": "offer 不满意，纠结要不要去"
+        },
+        {
+          "id": "779455",
+          "author": "Trim21",
+          "description": "Trim21: \n~/proj/test (master) # echo !(node_modules)**/*.ts\n../a.ts\n\n~/proj/test (master) # shopt|grep glob\ndotglob         off\nextglob         on\nfailglob        off\nglobasciiranges off\nglobstar        on\nnocaseglob      off\nnullglob        off\n\nso 搜到了说是可能设置了GLOBIGNORE，但我试了一下这个变量也是空的",
+          "link": "https://www.v2ex.com/t/779455",
+          "publishedOn": "2021-05-26T19:18:19.000Z",
+          "wordCount": 120,
+          "title": "为啥 glob 能匹配到上级目录的文件？"
+        },
+        {
+          "id": "779454",
+          "author": "xuegy",
+          "description": "xuegy: \n原帖见： https://gist.github.com/ejdyksen/8302862#gistcomment-3750991\n系统最新 11.4\n1.关机，关显示器\n2.插上 HDMI 和 USB-C\n3.开显示器，选择 USB-C 作为默认输入\n4.擦电，开机\n5.进设置把两个屏幕设为镜像显示器，然后切换优化为另一个屏幕\n6.显示器选择 HDMI 作为默认输入\n7.拔掉 USB-C\n亲测 RGB 模式可永久保持。带 USB-C 的显示器都可以试试。",
+          "link": "https://www.v2ex.com/t/779454",
+          "publishedOn": "2021-05-26T18:36:39.000Z",
+          "wordCount": 138,
+          "title": "M1 Mac mini 外接 YPbPr 修复方法，实测 U2720Q 有效"
+        },
+        {
+          "id": "779453",
+          "author": "786375312123",
+          "description": "786375312123: 以前一直用番茄插件，现在要同时写 c++和 c#，所以就换了 Resharper，然后发现真的是慢。内存就罢了，把我的 CPU 直接利用率从 40%提到了 80%。\n尝试关了一些功能，unit test 和 protobuffer 支持之类。可是还是慢。\n有什么好方法吗？",
+          "link": "https://www.v2ex.com/t/779453",
+          "publishedOn": "2021-05-26T17:58:26.000Z",
+          "wordCount": null,
+          "title": "有什么方法能让 Resharper 不那么吃资源吗？"
+        },
+        {
+          "id": "779452",
+          "author": "aborigine",
+          "description": "aborigine: 买了个 itx 机箱，详情页显示最多能装 336 长度的显卡，显卡详情页显示该显卡长度 335，结果装进去突出来一块。\n淦，整个人都不好了",
+          "link": "https://www.v2ex.com/t/779452",
+          "publishedOn": "2021-05-26T16:14:24.000Z",
+          "wordCount": null,
+          "title": "显卡装不进机箱，我裂开了"
+        },
+        {
+          "id": "779451",
+          "author": "jadeyeoh",
+          "description": "jadeyeoh: 本人目前在传统行业做多传感器融合定位算法，965，一年到手 20 出头。\n本科学的物理，半路出家干这行差不多 4 年，现公司比较稳定（赢国家比测，接军方项目那种）不忙然后钱少，跳去那种造车智驾公司钱多但是感觉随时可能会死，大厂不敢去（以前同事去阿里后冬天凌晨一两点还在室外跟无人车测试定位模块），考虑读个学位转行。\n然后有些职业规划问题想请教：\n1 、推荐算法、数据挖掘这类岗位也有 35 岁以下的门槛吗？这个门槛是整个行业的还是就是大厂才有的？考虑到读个学位出来就快 30 了，担心找工作困难。\n2 、有没有互联网以外的行业对机器学习岗位有需求的？也一直听说大厂算法卷得厉害，本人鶸，肯定是卷不过的。\n3 、将近 30 再开始 Cpp 开发岗职业生涯还有人要吗？考虑到就业失败、也不回现行业的最坏情况。",
+          "link": "https://www.v2ex.com/t/779451",
+          "publishedOn": "2021-05-26T16:08:47.000Z",
+          "wordCount": 105,
+          "title": "请教转行算法岗的问题"
+        },
+        {
+          "id": "779449",
+          "author": "pabupa",
+          "description": "pabupa: \n最近一直看的几个斗鱼主播都休假了，随便到 B 站上找电视剧看。\n《白色巨塔》，我知道挺火的，但是从来没看过。第一集看完，觉得也还好。但是听到片尾曲的时候，却被音乐吸引住了。真的是太神奇了……有一种热泪盈眶的感觉（额，我完全没哭，只是类似那种感觉）。我根本没听懂歌词……\n音乐到底是怎么影响人类大脑的？根本就不知道歌词是什么，但是还是会感动。是因为人类能受声调的原因吗？\n你们有关于音乐和共情的知识吗？\n附：片尾曲 amazing grace",
+          "link": "https://www.v2ex.com/t/779449",
+          "publishedOn": "2021-05-26T15:46:56.000Z",
+          "wordCount": null,
+          "title": "音乐真是神奇啊……"
+        },
+        {
+          "id": "779448",
+          "author": "shenjialun",
+          "description": "shenjialun: 我最近发现有一些网站突然访问不了，换电信 5G 或者联通 5G 好的，然后发现用 best trace 看本机 ip 时提示：当日访问次数已超限制，只能重启，然后就正常了，另外 bywave 最近用 cn2 都访问不了，被证实是 cn2 线路环路了，我有时访问不了的也有 bywave 官网，但我电脑上基本不怎么去看本机 ip，手机上是有个看网络的组件的，并且此情况 163 、cn2 都有，奇怪，你们有人遇到过？\nhttps://i.loli.net/2021/05/26/GXHFEusSgK9Miok.jpg",
+          "link": "https://www.v2ex.com/t/779448",
+          "publishedOn": "2021-05-26T15:33:41.000Z",
+          "wordCount": 164,
+          "title": "上海电信精品网有异常"
+        },
+        {
+          "id": "779447",
+          "author": "badtudou",
+          "description": "badtudou: \n🤫 土豆通讯录 是啥？\n土豆通讯录是一款 IOS 通讯录。\n.🙌  不注册，不联网，不保存 /上传你的任何数据\n.😬  T9 搜索，快捷拨号，联系人二维码，社交账号 ... ...\n.😍  名片扫描，联系人自动同步，智能群组，更多功能即将到来 ... ...\n\n\n\n\n🤫 为何要加入土豆通讯录 内测？\n.🔱 参与内测，app 上线后即可永久免费使用任何 app 的功能\n.👉 直接向开发者提出你想要的功能\n.🎊 你的任何建议和反馈都会被开发者聆听，并被加入致谢名单\n内测流程\n访问 ( https://testflight.apple.com/join/nnmZrCHQ)( https://testflight.apple.com/join/nnmZrCHQ)\n下载 testflight\n重新访问 ( https://testflight.apple.com/join/nnmZrCHQ)( https://testflight.apple.com/join/nnmZrCHQ)\n，安装 土豆通讯录 \n如何提交建议或 Bug\napp 中截图\n点击分享按钮\n选择“分享 Beta 版反馈”\n\n联系方式\n\n\n注意事项\n使用前建议备用通讯录中的全部联系人，以免因不可控因素造成数据损失",
+          "link": "https://www.v2ex.com/t/779447",
+          "publishedOn": "2021-05-26T15:32:53.000Z",
+          "wordCount": 201,
+          "title": "🎉 土豆通讯录，赠送免费内测体验资格啦！"
+        },
+        {
+          "id": "779446",
+          "author": "tuine",
+          "description": "tuine: \n直接使用会报错：No property jsonbField->'field' found for type TestEntity\n代码如下：\n        Pageable pageable = PageRequest.of(1, 2, JpaSort.unsafe(Sort.Direction.ASC, \"jsonbField->'field'\"));\n        Page page = testRepository.findAll(pageable);\n使用 nativeQuery 结合 pageable 没有问题，现在需要复杂筛选如何使用 Criteria 查询实现？",
+          "link": "https://www.v2ex.com/t/779446",
+          "publishedOn": "2021-05-26T15:27:00.000Z",
+          "wordCount": 125,
+          "title": "求助:jpa 不使用原生 sql 如何实现 jsonb 字段排序？"
+        },
+        {
+          "id": "779445",
+          "author": "gzk329",
+          "description": "gzk329: https://github.com/GZK0329/G-Chat  学着网课撸的一个 IM 系统\n球球给点思路 \n对了还没有完全写完 不过架子已经搭起来了 基本功能都实现了",
+          "link": "https://www.v2ex.com/t/779445",
+          "publishedOn": "2021-05-26T15:26:53.000Z",
+          "wordCount": 164,
+          "title": "大哥们 没有项目 最近要找实习 撸了一个这个放在简历上算是加分还是减分啊？ 之前没项目面试资格都没有\r\n我是本科双非非科班，硕士跨的计算机也是双非 目前研二..."
+        },
+        {
+          "id": "779444",
+          "author": "jatsz2020",
+          "description": "jatsz2020: 需要用 play 装软件。。",
+          "link": "https://www.v2ex.com/t/779444",
+          "publishedOn": "2021-05-26T15:11:25.000Z",
+          "wordCount": 183,
+          "title": "现在什么手机支持安装谷歌框架？"
+        },
+        {
+          "id": "779443",
+          "author": "zxCoder",
+          "description": "zxCoder: \nubuntu20.04\n中文输入法使用的是自带的那个 iBus 的 intelligent pinyin\n其他软件都能正常输入，foxit 阅读器不行\n有人遇到过同样的问题吗",
+          "link": "https://www.v2ex.com/t/779443",
+          "publishedOn": "2021-05-26T14:59:02.000Z",
+          "wordCount": 110,
+          "title": "Ubuntu20.04 FoxitPDFReader 无法输入中文注释"
+        },
+        {
+          "id": "779442",
+          "author": "Euthpic",
+          "description": "Euthpic: \npom.xml:\n1.0.0\n1.0.0-test-SNAPSHOT\n\n想把'1.0.0-test-SNAPSHOT'替换成'1.0.0'\n然后我写了这么个正则:\nsed -i -s 's/-(.*?)-SNAPSHOT//'\n\n但是匹配到的是'-api>1.o-test-SNAPSHOT',最先匹配原则覆盖了最短匹配.\n另外一个思路是先匹配到对应的 tag,里面的 version 根据分隔符'-'切割成三部分,判断第三部分是否为 SNAPSHOT,若是则把第二部分和第三部分删掉.\n但是不会写对应的正则,大家有什么好的想法吗?",
+          "link": "https://www.v2ex.com/t/779442",
+          "publishedOn": "2021-05-26T14:55:00.000Z",
+          "wordCount": 174,
+          "title": "我想把 pom.xml 里面的 SNAPSHOT 版本替换成正式的,这个正则该怎么写呢?"
+        },
+        {
+          "id": "779441",
+          "author": "christin",
+          "description": "christin: \n线上买要两周后才能发货，想去线下店直接买了。有老哥知道线下店有货吗？上海的店更好",
+          "link": "https://www.v2ex.com/t/779441",
+          "publishedOn": "2021-05-26T14:54:21.000Z",
+          "wordCount": 143,
+          "title": "单圈编制彩虹表带线下有卖了吗"
+        },
+        {
+          "id": "779439",
+          "author": "GDouble",
+          "description": "GDouble: \n蛋疼啊",
+          "link": "https://www.v2ex.com/t/779439",
+          "publishedOn": "2021-05-26T14:47:23.000Z",
+          "wordCount": null,
+          "title": "apple music 解除授权一年一次的机会用了，可以联系 apple 客服帮忙解除吗？"
+        },
+        {
+          "id": "779438",
+          "author": "imn1",
+          "description": "imn1: windows 路径\n已知整个目录树所有子目录、文件的路径，str 列表\n不考虑虚拟路径（软链硬链 mount/lnk 等）\n不实际检查文件 IO，就是 is_dir()这些，单纯通过字符串之间关系，求出没有文件的空目录\n有没有较快的方案？",
+          "link": "https://www.v2ex.com/t/779438",
+          "publishedOn": "2021-05-26T14:34:20.000Z",
+          "wordCount": 302,
+          "title": "已知目录树全文件、目录路径列表，不使用 IO 求空目录"
+        },
+        {
+          "id": "779437",
+          "author": "xiaoyanbot",
+          "description": "xiaoyanbot: \n以这个开源的项目为例子， \nhttps://github.com/GUAIK-ORG/go-snowflake\n在这个项目的 main.go 里面引用了自身的二级目录，\nimport (\n\"github.com/GUAIK-ORG/go-snowflake/snowflake\"\n    )\n\n假设我需要对这个子目录（ go-snowflake/snowflake ）里的文件进行修改的话，我本地怎么测试呢？\n使用 repalce 替换？还是修改  import 语句，\n然后将来改完了之后，怎么提 pull request 呢，如果使用替换的包，跟主仓库里的导入就不一样了\n如果 fork 了之后，我有自己库的权限了之后，我要怎么测试新的代码呢？ 比如我 fork 之后的变为了：\ngithub.com/foo/go-snowflake/snowflake\n那我自己测试的时候，要修改 main.go 文件里的 import 修改路径吗？  总感觉有点不太对劲，请教各位这种更新子目录里的包，大概是什么样的开发测试流程？\n谢谢",
+          "link": "https://www.v2ex.com/t/779437",
+          "publishedOn": "2021-05-26T14:16:09.000Z",
+          "wordCount": 186,
+          "title": "请教 go 语言修改导入 github 自身包的开发和测试流程，使用 replace 吗？"
+        },
+        {
+          "id": "779436",
+          "author": "nomeguy",
+          "description": "nomeguy: 微软亚洲研究院-网络研究组招收研究实习生啦~\n微软亚洲研究院 (MSRA)-网络研究组 (Networking Research Group)\nhttps://www.microsoft.com/en-us/research/group/networking-research-group-2/\n========================\n岗位： [ Azure 智能云防火墙算法研发-全职实习生, 1 名] \n1 、工作职责：\n- 收集 Azure 云平台租户的 Web 日志，利用 Fuzzy 测试、灰盒测试等技术进行日志分析，实现对 WAF 防火墙防护规则的智能分析；\n- 维护智能防火墙安全规则调度算法，以实现恶意网络流量的监控、分析；\n- 构建基于微服务的分布式智能防火墙监控平台；\n- 参与维护本组在 GitHub 上的开源项目。\n2 、职位要求：\n- 熟悉 Linux 、数据挖掘、计算机网络、网络安全、微服务、分布式架构中的一个或多个领域，有相关项目经验；\n- 熟悉 Go 、Python 、C/C++中的一门或多门语言，有较强的工程能力，熟练掌握 git，代码格式清晰规范，善于团队协作；\n- 有一定英文学术论文阅读能力，能够根据论文进行系统实现；\n- 较强的沟通能力和逻辑表达能力。\n3 、具有以下条件者优先：\n- 在 GitHub 较为活跃，有自己的开源项目，或参与过知名开源项目；\n- 发表过学术论文；\n- 可以连续实习不少于 6 个月。\n========================\n工作时间：每周 5 天，3 个月以上，能够尽快入职\n工作地点：北京市海淀区丹棱街 5 号（疫情期间可远程办公）\n如有意向请发 [中文简历 PDF ] 至：nrg-intern-recruit@microsoft.com\n简历中需标明平均分，及专业或年级排名及排名对应的总人数\n [注意] 请务必采用学校邮箱（ edu 域名）发送简历，其他邮箱（如 163 、qq 、gmail 、outlook 、hotmail 等）发送会进入公司垃圾邮件，无法被 HR 看到\n邮件标题&简历 PDF 文件名格式：Azure 智能云防火墙算法研发-姓名-学校-本|硕|博-年级",
+          "link": "https://www.v2ex.com/t/779436",
+          "publishedOn": "2021-05-26T14:06:49.000Z",
+          "wordCount": 193,
+          "title": "[实习] [微软亚洲研究院] Azure 智能云防火墙算法研发实习生"
+        },
+        {
+          "id": "779435",
+          "author": "Alpha2J",
+          "description": "Alpha2J: \n每此面试问到这个题目我感觉都是在欺负老实人... 工作中能解决的问题我都不觉得他有挑战性, 然后让我吹的话我又不知道怎么去吹, 也不太敢吹, 怕吹的东西一问就露馅, 而且每次说谎话内心都很虚, 表现更加不好.. \n所以想问下, 大家遇到这种题目一般都是怎么答的呢? 该从哪些方面去总结呢?",
+          "link": "https://www.v2ex.com/t/779435",
+          "publishedOn": "2021-05-26T14:03:56.000Z",
+          "wordCount": 1,
+          "title": "关于 面试题\"你觉得工作中最有挑战的点是啥\" 类似问题的讨论"
+        },
+        {
+          "id": "779434",
+          "author": "XIVN1987",
+          "description": "XIVN1987: \n文档中有如下内容：\nclass cmd.Cmd(completekey='tab', stdin=None, stdout=None) \n\nCmd.completedefault(text, line, begidx, endidx) \nMethod called to complete an input line when no command-specific complete_*() method is available. By default, it returns an empty list.\n\n按照理解，输入命令的时候按 Tab 键应该能自动补全，，可是我试了下就在本行添加了空格，，并没有补全行为，，也没有调用覆写的 completedefault 方法，，哪位知道是什么原因？",
+          "link": "https://www.v2ex.com/t/779434",
+          "publishedOn": "2021-05-26T14:03:33.000Z",
+          "wordCount": 206,
+          "title": "继承 Python 的 cmd.Cmd 类实现的命令行程序，能实现自动补全功能吗？"
+        },
+        {
+          "id": "779433",
+          "author": "tourist2018",
+          "description": "tourist2018: \n我感觉真心一般，建议要买的别看网上的图片，实地去店里看一下，反正我感觉正面是真的丑（网上的图片我自己还能接受，实地去看是真的不行，感觉 iMac 还是得上全面屏），而且 24 寸真的太小了（平时一直外接 27 寸显示器）\niPad 12.9 对于我来说还是太大了 11 寸刚好",
+          "link": "https://www.v2ex.com/t/779433",
+          "publishedOn": "2021-05-26T14:03:32.000Z",
+          "wordCount": 440,
+          "title": "今天下班去三里屯看了 24 寸的 iMac"
+        },
+        {
+          "id": "779432",
+          "author": "llsquaer",
+          "description": "llsquaer: \n如题...几天才一个话题....\n请问有比较好的 python 交流社区吗?",
+          "link": "https://www.v2ex.com/t/779432",
+          "publishedOn": "2021-05-26T13:59:39.000Z",
+          "wordCount": 313,
+          "title": "感觉自从 V2EX 不能直接访问后. Python 话题下内容都好少了."
+        },
+        {
+          "id": "779431",
+          "author": "lylsh1993",
+          "description": "lylsh1993: \n不单卖这款键盘真可惜",
+          "link": "https://www.v2ex.com/t/779431",
+          "publishedOn": "2021-05-26T13:58:08.000Z",
+          "wordCount": 170,
+          "title": "新 iMac 键盘能解锁新款 M1 iPad Pro 吗吗？"
+        },
+        {
+          "id": "779430",
+          "author": "NeilZhy1",
+          "description": "NeilZhy1: \n有没有一个框架，能够支持用户自定义多个 task，然后通过框架将这些 task 组装形成一个 pipline 。通过框架去控制 task 的运行。",
+          "link": "https://www.v2ex.com/t/779430",
+          "publishedOn": "2021-05-26T13:52:01.000Z",
+          "wordCount": 113,
+          "title": "求助：请问下 github 上面有没有支持通过 resource 触发 task 的 C++ 框架。"
+        },
+        {
+          "id": "779428",
+          "author": "fen",
+          "description": "fen: 比如搜狗输入法？",
+          "link": "https://www.v2ex.com/t/779428",
+          "publishedOn": "2021-05-26T13:41:20.000Z",
+          "wordCount": 146,
+          "title": "手机上如何打 TAB 键？"
+        },
+        {
+          "id": "779427",
+          "author": "z7039585",
+          "description": "z7039585: \n公司介绍\n莉莉丝游戏，莉莉丝是中国全球收入名列前茅的游戏开发与发行商，2014 年推出首款游戏《小冰冰传奇》即成为国民级卡牌手游标杆，旗下《 Abi 》被苹果评为 2017 年最佳独立游戏 《剑与家园》《万国觉醒》《剑与远征》全球市场月均流水过亿，2019 年作为唯一上榜游戏公司入选领英顶尖创业公司排行榜，2020 年《剑与远征》国服上线即获得好成绩 我们成立于 2013 年 5 月 总部坐标上海，在全球拥有超过 700 位员工，简单、真诚，是莉莉丝的文化，我们为员工提供最好的工作与交流环境 致力为全球玩家创造好玩的游戏，更多的不可能，等你一起创造，未来可期，加入我们，创造 Li 史 https://www.lilithgames.com/cn/\n测试开发工程师岗位（压测方向） JD\n岗位职责\n负责部分压测业务的承接，配合项目组业务实现压力测试 \n负责压测框架的二次开发\n负责其他质量业务平台开发\n职位要求\n2 年以上测试开发 /性能测试经验优先，能够独立承担相关性能测试业务，具备性能瓶颈分析和定位能力优先；\n熟悉 nodejs/python  其中的一种编程语言，熟悉 Linux/Unix 操作系统；\n具备良好的团队合作精神，责任心强，工作积极主动；\n熟悉 K8S 、docker 优先；\n熟悉平台服务开发 优先。\n待遇：14 薪起，BASE 范围大概（ 15-30K ），主要是做公司内部测试平台方向，同时承接部分压测业务，内部团队氛围好~ 欢迎测试开发，同时也欢迎开发投简历~ 公司福利待遇相当不错（商业医疗保险日常零食饮料每年旅游团建节日礼品等等 (去年不能出国去的三亚)）\n欢迎有相关经验者投简历~\n欢迎投简历 或者加微信咨询， 微信 a2FnYW1pbW9l (BASE64)   注明 testerhome\n简历邮箱 emh1cWlhbmdAbGlsaXRoLmNvbQ== (BASE64)",
+          "link": "https://www.v2ex.com/t/779427",
+          "publishedOn": "2021-05-26T13:33:21.000Z",
+          "wordCount": null,
+          "title": "[上海] [社招内推] 莉莉丝游戏 招测试开发"
+        },
+        {
+          "id": "779426",
+          "author": "razios",
+          "description": "razios: \n昨天拿出尘封已久的 apple pencil 想用，结果插上 ipad 显示电量几乎为零，时不时失去连接，重新配对无效，接 lighting 头充电同样无效，反复试没用，一直插着几个小时也没用。结果拿吹风机开热风对着吹好几分钟直到发烫然后接上 ipad 依然没电，但是发现连接居然不会马上断开了，隐约感觉有戏，结果就一直插在那里，时不时吹下加热。一段时间后，奇迹般的激活了，直到充满。原本打算放弃，又有了失而复得的感觉。",
+          "link": "https://www.v2ex.com/t/779426",
+          "publishedOn": "2021-05-26T13:20:38.000Z",
+          "wordCount": 159,
+          "title": "长期不用的 apple pencile 无法充电的解决办法"
+        },
+        {
+          "id": "779424",
+          "author": "sn0w",
+          "description": "sn0w: 迫于自己事情一多起来容易忘事，而且很容易本末倒置，请问在 macOS 和 iOS 平台有没有一款管理自己项目或者是规划的 app 呢？\n例如把自己多个项目或者是目标的进度用进度条展示，能把自己当前正在进行的工作或者目标进度直观的展示出来。\n提前谢谢大家～",
+          "link": "https://www.v2ex.com/t/779424",
+          "publishedOn": "2021-05-26T12:58:11.000Z",
+          "wordCount": 258,
+          "title": "求个人用 项目/工作/规划/目标 进度管理的 macOS 和 iOS app"
+        },
+        {
+          "id": "779421",
+          "author": "nalzok",
+          "description": "nalzok: \n今天朋友圈里网易云那个性格主导色的测试突然火了，我就想试着遍历所有可能的路径，看看每道题的选项都是怎么影响结果的（希望它不要是随机生成的）。结果发现那个页面是个 SPA，我在开发者工具里没看到什么和服务器的通信，再加上那堆 JS 都是经过混淆的，我啥也看不出来，所以想请教一下各位老哥有没有什么破解的思路？\nhttps://st.music.163.com/st-color-quiz",
+          "link": "https://www.v2ex.com/t/779421",
+          "publishedOn": "2021-05-26T12:42:52.000Z",
+          "wordCount": null,
+          "title": "网易云性格主导色测试逆向"
+        },
         {
           "id": "779214",
           "author": "HDMItoDP",
@@ -2297,5 +2675,5 @@
       ]
     }
   ],
-  "cliVersion": "1.8.1"
+  "cliVersion": "1.9.0"
 }

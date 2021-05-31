@@ -344,6 +344,357 @@
       "siteUrl": "https://www.v2ex.com/",
       "articles": [
         {
+          "id": "780248",
+          "author": "Leon6868",
+          "description": "Leon6868: \n一直以来对 Google 印象挺好的，没想到它也是这样的公司啊。。\n可惜了那个不作恶的口号",
+          "link": "https://www.v2ex.com/t/780248",
+          "publishedOn": "2021-05-31T01:28:55.000Z",
+          "wordCount": 258,
+          "title": "Google 香港 IP 不能关闭安全搜索"
+        },
+        {
+          "id": "780247",
+          "author": "louchenabc",
+          "description": "louchenabc: \n文章地址：\n [掘金] 万字长文带你彻底搞懂什么是 DevOps\n [ Github ] 万字长文带你彻底搞懂什么是 DevOps\n看看 v2 各位大神的公司中是如何进行 DevOps 实践的，如果是自建的话，能否分享一下工具链，如果基于第三方平台的话，还需要做哪些二次开发？",
+          "link": "https://www.v2ex.com/t/780247",
+          "publishedOn": "2021-05-31T01:16:16.000Z",
+          "wordCount": 146,
+          "title": "[DevOps 分享] 分享一篇真正讲清楚 DevOps 的文章，顺便问下各位公司在 DevOps 实践中是选择自建还是基于阿里云效、DevCloud 等第三方平台？"
+        },
+        {
+          "id": "780246",
+          "author": "BigBlackDick",
+          "description": "BigBlackDick: \n麦当劳  5 元\n万达电影  10 元\n美团外卖   10 元\n绿色软件(base64)：MTY0Mzc5MTM3",
+          "link": "https://www.v2ex.com/t/780246",
+          "publishedOn": "2021-05-31T01:13:52.000Z",
+          "wordCount": 139,
+          "title": "迫于买了京东 plus，现出麦当劳月卡，万达电影季卡，美团外卖百元包"
+        },
+        {
+          "id": "780245",
+          "author": "undefine2020",
+          "description": "undefine2020: \n听说二手车水很深。\n最近在咸鱼上和一些贩子聊了下，我发现很多贩子的车源是一样的，估计他们有一个车源共享平台。但是这些贩子都是小贩子，没一个大公司的。\n然后找到了几个大二手公司，他们的车源我没发现有共享的现象，确实普遍贵一点。\n最后网上又有很多人说，不管是小贩子还是大贩子，都坑人。",
+          "link": "https://www.v2ex.com/t/780245",
+          "publishedOn": "2021-05-31T01:12:55.000Z",
+          "wordCount": 205,
+          "title": "如何最不吃亏的买二手车？"
+        },
+        {
+          "id": "780244",
+          "author": "AkideLiu",
+          "description": "AkideLiu: \nhttps://www.w3resource.com/sql-exercises/movie-database-exercise/sql-exercise-movie-database-25.php\n\n\n看起来很帅，google image 也搜了没搜到，有大神用过或者见过吗？",
+          "link": "https://www.v2ex.com/t/780244",
+          "publishedOn": "2021-05-31T01:12:44.000Z",
+          "wordCount": 124,
+          "title": "这个高大上的 Query Visualization 工具是什么呢？"
+        },
+        {
+          "id": "780243",
+          "author": "Mr0C",
+          "description": "Mr0C:",
+          "link": "https://www.v2ex.com/t/780243",
+          "publishedOn": "2021-05-31T01:11:54.000Z",
+          "wordCount": 226,
+          "title": "你们都是如何管理书签的"
+        },
+        {
+          "id": "780242",
+          "author": "AndyAO",
+          "description": "AndyAO: \n例如，git log 可能返回这样的信息\nPS> git log\n\ncommit ed231a0a0923bd8b601e51e40b5249a56e78674a (HEAD -> master, tag: s2)\nAuthor: fibo\nDate:   Mon May 31 08:52:41 2021 +0800\n\n    r2 mes\n\n使用 PowerShell 捕获这个命令中产生的所有流，但中括号内的内容还是丢失掉了。\nPS> Out-String -InputObject ((git log) *>&1)\n\ncommit 37aa5208e2d9b78d42bdc649c3c0fa0f2de6c1e0\nAuthor: fibo\nDate:   Mon May 31 08:56:53 2021 +0800\n\n    r2 mes\n\n在 PowerShell 中如何捕获这些信息？",
+          "link": "https://www.v2ex.com/t/780242",
+          "publishedOn": "2021-05-31T01:09:40.000Z",
+          "wordCount": 334,
+          "title": "如何在 PowerShell 中捕获到 git 命令中返回的全部信息？"
+        },
+        {
+          "id": "780241",
+          "author": "yanjinhua",
+          "description": "yanjinhua: \n \nWelcome to WPFDevelopers\nGithub https://github.com/yanjinhuagood/WPFDevelopers.git\n码云 https://gitee.com/yanjinhua/WPFDevelopers.git\n此项目包含了 微信公众号 《 WPF 开发者》 日常开发分享，欢迎Star。\n运行环境 Visual Studio 2019，dotNet Framework 4.0 SDK\n欢迎关注微信公众号\nWpfBingMap （ WPF 使用 MapControl 加载高德地图）\nhttps://github.com/yanjinhuagood/WPFBingMap\n3DAnimationNavigationBar （ WPF 实现 3D 菜单动画）\nhttps://github.com/yanjinhuagood/3DAnimationNavigationBar\nCutImageSolution （ WPF 实现用户头像裁剪）\n更多效果请下载   ⬇⬇⬇⬇⬇⬇⬇⬇⬇\n源码 Github\nWPF 开发者 QQ 群：340500857",
+          "link": "https://www.v2ex.com/t/780241",
+          "publishedOn": "2021-05-31T01:08:57.000Z",
+          "wordCount": null,
+          "title": "分享 WPF 教程"
+        },
+        {
+          "id": "780239",
+          "author": "ITrecruit1",
+          "description": "ITrecruit1: 公司简介：\n北京惠隆资本管理有限责任公司成立于 2015 年，是面向全球金融市场的量化对冲基金，于 2017 年在中国证券投资基金业协会登记为私募证券投资基金管理人（登记编号：P1062865 ）。\n惠隆资本拥有高水平的投研与技术团队。团队成员主要来自北大，清华和耶鲁大学的博士，团队围绕数据处理、因子挖掘、人工智能、算法交易等领域建立了前沿的量化研究体系，为投资者提供优质的资产管理服务。\n\n福利待遇：\n透明的高比例业绩报酬激励、团队基金\n舒适的办公环境，7*24 小时冷暖新风\n免费健康三餐，健康饮品、水果、小食无限供应\n\n招聘岗位：\n一、量化研究员（中高频）\n关键词：中高频高换手股票 alpha 策略经验\n职责：\n开发与管理量化投资策略，投资范围包括但不限于：股票、期权、期货；\n大规模结构化数据的精细处理、分析和研究，完成因子、交易模型研发工作；\n持续优化因子、交易模型，迭代实盘策略。\n要求：\n名校理工科毕业；\n数理基础和编程好；\n中高频高换手股票 alpha 经验为最佳。\n\n二、C++ 开发工程师（实习 /全职）\n关键词：C++，Linux, 低延迟交易系统\n职责：\n开发股票、期货、期权低延迟交易系统，对行情和报单速度进行优化；\n数据清洗、整理，数据库优化；\n交易结果分析，交易系统性能分析。\n要求：\n名校计算机专业毕业，1 年以上 C++ 开发经验，对量化行业有兴趣；\n具有分布式计算、自然语言处理、机器学习、平台开发、网络或者系统设计方面的经验。\n\n实习生要求暑期全职，可选择在开学后继续长期兼职实习，月薪 8000 元。\n地点：北京亚运村附近\n简历邮箱： talents@huilongcap.com\n命名：姓名+职位",
+          "link": "https://www.v2ex.com/t/780239",
+          "publishedOn": "2021-05-31T00:59:19.000Z",
+          "wordCount": 146,
+          "title": "[惠隆资本] 招聘： Quant/C++开发 - 北京"
+        },
+        {
+          "id": "780236",
+          "author": "haoo",
+          "description": "haoo: \n众所周知，爱奇艺等一众视频网站平台都陆续涨价了，联名年卡最低 99 元的时代估计是一去不复返咯。\n老会员，券后价 138 元\n京东价: ¥248，券后价: ¥138\n限量 3 万张，手慢无。\n领券抢购: https://u.jd.com/zmXvhI0\n爱奇艺新会员，123 元\n如果你之前没注册过爱奇艺，或者是有手机号没注册过爱奇艺，可以走这个方法。\n开通后，记得取消连续包年。",
+          "link": "https://www.v2ex.com/t/780236",
+          "publishedOn": "2021-05-31T00:15:02.000Z",
+          "wordCount": 235,
+          "title": "近期好价。爱奇艺黄金会员年卡 + 京东 PLUS 年卡， 123 元"
+        },
+        {
+          "id": "780235",
+          "author": "bhc003",
+          "description": "bhc003: 目前的设备为 2012 款的 Macbook Air，通过雷电转 HDMI 连接 Dell U2414H 显示器，显示器最高分辨率为 1080p 60 赫兹，在此种的搭配下，显示效果本人是可以接受的，不过由于设备老旧，性能有些力不从心，故有意吐故纳新，目前在关注到上述提到两款设备，若无十分必要，暂不考虑更换显示器。\n请问：Air 和 mini 两款 M1 版本对此款显示器的兼容及显示效果如何？ 如果您有相同或类似的经历或者建议还请不吝赐教，感谢诸位。",
+          "link": "https://www.v2ex.com/t/780235",
+          "publishedOn": "2021-05-31T00:12:48.000Z",
+          "wordCount": 287,
+          "title": "请教： Macbook Air 13 吋 和 MacMini 的 两款 M1 版本，对 1080p 的显示器支持情况怎么样？显示效果如何呢？"
+        },
+        {
+          "id": "780234",
+          "author": "AndyAO",
+          "description": "AndyAO: \n从下面的测试可以看到，即使已经提前设置了git config status.renames true，输出信息中仍然没有包含 ORIG_PATH 相关信息，根据文档，信息格式应该是XY ORIG_PATH -> PATH才对。\nDescribe rename {\n    BeforeAll {\n        function check {\n            'abc'>'README.md'\n            git add 'README.md'\n            git commit -m 'README'\n            Rename-Item -Path 'README.md' -NewName 'new.md'\n            git status new.md -s | Should -Be '?? new.md'\n            git add .\n            git status new.md -s | Should -Be 'A  new.md'\n        }\n    }\n    BeforeEach {\n        ClearGitRepo\n        InitGitRepo\n    }\n    it 'default' {\n        check\n    }\n    it 'change configuration file' {\n        git config status.renames true\n        git config diff.renames true\n        check\n    }\n}",
+          "link": "https://www.v2ex.com/t/780234",
+          "publishedOn": "2021-05-30T23:36:20.000Z",
+          "wordCount": 189,
+          "title": "为什么将 Git 的 status.renames 设为 true 之后仍然不能在 git status 中看到 ORIG_PATH？"
+        },
+        {
+          "id": "780233",
+          "author": "wxt",
+          "description": "wxt: \n说是要自由贸易港，现在有人才引进政策，你们怎么看？",
+          "link": "https://www.v2ex.com/t/780233",
+          "publishedOn": "2021-05-30T19:53:20.000Z",
+          "wordCount": 118,
+          "title": "关于海南户口的问题，你怎么看？"
+        },
+        {
+          "id": "780232",
+          "author": "cathedrel",
+          "description": "cathedrel:",
+          "link": "https://www.v2ex.com/t/780232",
+          "publishedOn": "2021-05-30T19:25:20.000Z",
+          "wordCount": 117,
+          "title": "有啥小工具可以解开底包里的 super.img_sparsechunk.0 sparsechunk.1 / sparsechunk.2 这些分块包？"
+        },
+        {
+          "id": "780231",
+          "author": "kitthsu",
+          "description": "kitthsu: 去年 6 月，GitHub 更新了 UI，使用了大量的圆形和圆角，当时看着实在不习惯，就写了个插件试试把几个实在受不了的地方改成矩形，看着还挺顺眼，到今天也还能正常工作。当时也没想起来推广，分享给大家试试。\nhttps://kitt1987.github.io/github-beautifier/\n实在访问不到 Chrome Store 的可以从 GitHub 的 Release 页里下载 crx 安装。",
+          "link": "https://www.v2ex.com/t/780231",
+          "publishedOn": "2021-05-30T18:06:07.000Z",
+          "wordCount": 122,
+          "title": "Chrome 插件修改 GitHub 的样式"
+        },
+        {
+          "id": "780230",
+          "author": "find456789",
+          "description": "find456789: \n我目前的组合是 react+mobx\n所有状态我都放在 mobx 里的， \n我用的是 mobx-state-tree https://mobx-state-tree.js.org/intro/welcome\n我把 api 接口也写到了 mobx-state-tree 里面\n有些数据只请求了一次， 比如 在页面 127.0.0.1/version  是显示服务器 api 版本号的\n我也在 mobx 里建立了一个 model\n我现在突然感觉， 这种只用一次， 且只在单个组件里用到的东西， 也许不应该放在 状态里，\n但我也不知道什么是最好的方案\n所以想请教一下 大家\n谢谢",
+          "link": "https://www.v2ex.com/t/780230",
+          "publishedOn": "2021-05-30T18:03:42.000Z",
+          "wordCount": 167,
+          "title": "react 里，只使用一次的数据，有必要放入全局状态里吗？"
+        },
+        {
+          "id": "780228",
+          "author": "CallmeDredd",
+          "description": "CallmeDredd: 5 月最后一天了，本来打算周一上线的项目，推迟一天到下个月 1 号吧~\n下午本来应该改页面的，结果在油管摸鱼浪费了好几个小时 /cry",
+          "link": "https://www.v2ex.com/t/780228",
+          "publishedOn": "2021-05-30T16:57:15.000Z",
+          "wordCount": 116,
+          "title": "20210531 午夜俱乐部"
+        },
+        {
+          "id": "780227",
+          "author": "mengli",
+          "description": "mengli: RT，618 来临，打算呵护一下自己的眼睛。不巧今年面板价格上涨，决定把预算卡在 3500 （说的就是你 U2720QM 去年还 3499 今年就 3999 ）\n目前在比较的几款：\n- AOC U27U2D：2799 \n- 飞利浦 279C9：2799 与上一个同面板，但是边框好看很多， 少 KVM 功能。\n- LG 27UL850 -W：2799 充电只有 60W，多年老型号。新的 UP850 充电 96W，但是贵 1000，觉得不值。\n- 明基 PD2700U：型号太老旧，没有 typec 充电。\n希望各位有 4K 显示器的说说使用体验，类似价位的也可以推荐~",
+          "link": "https://www.v2ex.com/t/780227",
+          "publishedOn": "2021-05-30T16:43:18.000Z",
+          "wordCount": 232,
+          "title": "3500 以下价位的 4K 显示器哪款好？"
+        },
+        {
+          "id": "780226",
+          "author": "find456789",
+          "description": "find456789: \nCreate 增\n是否还有更好的翻译呢？\n谢谢",
+          "link": "https://www.v2ex.com/t/780226",
+          "publishedOn": "2021-05-30T16:40:31.000Z",
+          "wordCount": 202,
+          "title": "在 编程的语境中， CRUD 应该 翻译成 增删改查 吗？ 还有更好的翻译吗？"
+        },
+        {
+          "id": "780225",
+          "author": "Jmysy",
+          "description": "Jmysy: \nA component library for Vue 3 base on element-plus\n开 发 文 档 | 更 新 日 志 | 常 见 问 题 |\n发 布 需 求 |\n开 源 地 址\n📖 概述\nElement Enhance 是基于 Element Plus 而开发的模板组件，提供了更高级别的抽象支持，开箱即用，更加专注于页面。\n📢 理念\nElement Plus 定义了基础的设计规范，对应也提供了大量的基础组件。但是对于中后台类应用，我们希望提供更高程度的抽象，提供更上层的设计规范，并且对应提供相应的组件使得开发者可以快速搭建出高质量的页面。\n列表页应该可以用 EleLayout + EleTable 完成，编辑页应该使用 EleLayout + EleForm 完成，详情页可以用 EleLayout + EleDescriptions 完成。 一个页面在开发工程中只需要关注几个重型组件，降低心智负担，专注于更核心的业务逻辑。\n⚡ 设计\n在实际开发中我们也经常会碰到一些设计问题，比如经典的按钮应该放在左面还是右面，查询表单怎么布局，日期怎么格式化，数字的对齐问题，在重型组件中都进行了抽象，对于各种行为与样式我们都经过了设计师的讨论与设计可以达到默认好看及好用。\n如果你还是想自定义相关渲染可以通过自定义 ModelValue 的方式来实现。默认的不一定是最好的，但是一定不差，如果你要自定义最好考虑一下投入产出比，毛坯房里雕花真的好吗？\n✒️ 特性\n该组件库的开发理念就是面向未来，如果查看源码你就会发现像是 vue 3 的 script setup 实验性功能、像是 CSSNext 的 CSS Variables。在保证大部分浏览器的兼容性的情况下，会更多的使用新特性、新功能来开发\n☁️ 入门\n让 Element Plus 更简单, 更通用, 更流行\n安装\nnpm install element-enhance --save\n\n引入\nimport { createApp } from 'vue'\nimport App from './App.vue'\nimport ElementEnhance from 'element-enhance'\nimport 'element-enhance/lib/style.css'\n\nconst app = createApp(App)\n\napp.use(ElementEnhance)\napp.mount('#app')\n\n使用\n\n  \n    \n  \n\n\n效果\n\n🌈 趋势\n\n🍚 贡献\n组件库还处于早期开发阶段，功能还需要完善。如果你希望参与贡献，欢迎 Pull Request。如果只是简单的文档相关的错误修正，你可以直接 PR，但如果是当前组件的 BUG 或者新功能、新组件等，最好优先提 issues",
+          "link": "https://www.v2ex.com/t/780225",
+          "publishedOn": "2021-05-30T16:30:19.000Z",
+          "wordCount": 245,
+          "title": "Element Enahcne 让 Element Plus 更简单，更通用，更流行"
+        },
+        {
+          "id": "780224",
+          "author": "ca1123",
+          "description": "ca1123: 就是那种功能比较强，可以放在阅读应用产品里的。比拟掌阅，起点之类阅读功能的。",
+          "link": "https://www.v2ex.com/t/780224",
+          "publishedOn": "2021-05-30T16:24:00.000Z",
+          "wordCount": 1,
+          "title": "大家知道有什么开源的阅读器项目么？"
+        },
+        {
+          "id": "780223",
+          "author": "lonelygod365",
+          "description": "lonelygod365: \n如果是针对于不可预见性的突发的高并发，一般是有什么提前优化方案？",
+          "link": "https://www.v2ex.com/t/780223",
+          "publishedOn": "2021-05-30T16:21:20.000Z",
+          "wordCount": 154,
+          "title": "请教一个高并发的问题"
+        },
+        {
+          "id": "780222",
+          "author": "admin7785",
+          "description": "admin7785: \n如题，iphone11 备份到 windows，求推荐备份数据方案，备份的越全面越好，谢谢",
+          "link": "https://www.v2ex.com/t/780222",
+          "publishedOn": "2021-05-30T16:14:14.000Z",
+          "wordCount": 116,
+          "title": "[备份指南][iphone11]求推荐备份数据方案"
+        },
+        {
+          "id": "780221",
+          "author": "gushu",
+          "description": "gushu: 以前用的是 2345 看图，觉得挺好的，后来广告太频繁就卸载了。使用过 WPS 看图，爱奇艺看图，Honeyview 等一些比较大众的看图软件，现在是用 quicklook 预览图片，还有用 window 系统自带的图片软件打印图片。然后在小众软件这个网站搜索了一圈也没发现有什么好用的图片软件。不知道大家用的是什么软件？",
+          "link": "https://www.v2ex.com/t/780221",
+          "publishedOn": "2021-05-30T16:14:09.000Z",
+          "wordCount": 659,
+          "title": "你在用的 Windows 平台看图软件是哪个？"
+        },
+        {
+          "id": "780217",
+          "author": "kikione",
+          "description": "kikione: \nHashMap 的中 entrySet 的实现原理是什么？\n都没有看到赋值的操作，entrySet 的 entry 是什么时候存入的，源码中并没有此函数",
+          "link": "https://www.v2ex.com/t/780217",
+          "publishedOn": "2021-05-30T15:03:02.000Z",
+          "wordCount": 126,
+          "title": "HashMap 的中 entrySet 是什么时候存入 entry 的？"
+        },
+        {
+          "id": "780216",
+          "author": "meisen",
+          "description": "meisen: \n准备彻底放弃国产三大输入法\n搜狗账号当时是使用邮箱注册，结果注销提示需要手机号验证，淦！",
+          "link": "https://www.v2ex.com/t/780216",
+          "publishedOn": "2021-05-30T14:57:56.000Z",
+          "wordCount": 251,
+          "title": "搜狗，你怎么会这样讨人厌"
+        },
+        {
+          "id": "780214",
+          "author": "ducks",
+          "description": "ducks: \n简单弄了一个表格，把型号 全核睿频 算力 价格 价格 /算力=每 G 的价格  列了一下 感觉 11 代并不 yes amd 也不 yes\n先说说算法，1：都不超频，2：抛开主板，显卡，核显，纯算 cpu 算力，3：超线程取理想值 0.3*物理核心频率，4：全用散片的价格，5：取自百度的 全核睿频\n表格如下\ncpuc/t全核睿频算力价格每 G 价格\n嘤桃儿\n1090010|204.558.5269946.14\n107008|164.647.84192940.32\n10850k10|204.862.4269943.25\n10900k10|204.963.7399962.78\n117008|164.647.84255053.3\n11700k8|164.647.84260054.34\n119008|164.344.72419993.9\n11900k8|164.849.92439988.12\n农企\n5600x6|124.635.88179950.14\n5800x8|164.445.76269958.98\n5900x12|244.874.88459961.42\n5950x16|324.35 92.48670074.05\n算的过程（比较无聊，bc = echo scale=5; \"ab |bc\"）\n[Ducks@itx home]$ bc 2.541.3\n13.00\n[Ducks@itx home]$ bc 2.54\n10.0\n[Ducks@itx home]$ bc  164.91.3\n101.92\n[Ducks@itx home]$ bc 4.5101.3\n58.50\n[Ducks@itx home]$ bc 2699/58.50\n46.13675\n[Ducks@itx home]$ bc 4.681.3\n47.84\n[Ducks@itx home]$ bc 1929/47.84\n40.32190\n[Ducks@itx home]$ bc 4.8101.3\n62.40\n[Ducks@itx home]$ bc 2699/62.4\n43.25320\n[Ducks@itx home]$ bc 4.913\n63.7\n[Ducks@itx home]$ bc 3999/63.7\n62.77864\n[Ducks@itx home]$ bc 4.881.3\n49.92\n[Ducks@itx home]$ bc 2550/49.92\n51.08173\n[Ducks@itx home]$ bc 4.681.3\n47.84\n[Ducks@itx home]$ bc 2550/47.84\n53.30267\n[Ducks@itx home]$ bc 2600/47.84\n54.34782\n[Ducks@itx home]$ bc 4.381.3\n44.72\n[Ducks@itx home]$ bc 4199/44.72\n93.89534\n[Ducks@itx home]$ bc 4.881.3\n49.92\n[Ducks@itx home]$ bc 4399/49.92\n88.12099\n[Ducks@itx home]$ bc 4.661.3\n35.88\n[Ducks@itx home]$ bc 1799/35.88\n50.13935\n[Ducks@itx home]$ bc 84.41.3\n45.76\n[Ducks@itx home]$ bc 2699/45.76\n58.98164\n[Ducks@itx home]$ bc 4.8121.3\n74.88\n[Ducks@itx home]$ bc 4599/74.88\n61.41826\n[Ducks@itx home]$ bc 164.35*1.3\n90.480\n[Ducks@itx home]$ bc 6700/90.48\n74.04951\n结论：感觉性价比最高的是\n1090010|204.558.5269946.14\n107008|164.647.84192940.32\n10850k10|204.862.4269943.25\n主要是之前 gcc 版本过低，然后编译了一个 gcc8.x 跑了半天，闲的蛋疼就弄了一个这个玩意儿\n最后求别喷，纯粹弄一个玩，不权威也不客观",
+          "link": "https://www.v2ex.com/t/780214",
+          "publishedOn": "2021-05-30T14:46:51.000Z",
+          "wordCount": 1012,
+          "title": "算了一下偏高端 cpu 性能和价格，主观感觉 amd 一点也不 yes， 11 代也不 yes（求不喷）"
+        },
+        {
+          "id": "780212",
+          "author": "han3sui",
+          "description": "han3sui: \n通过 charles 抓包一些接口数据，但是发现小程序无法使用了，无论打开什么小程序，都失败。其他正常，微信做了限制吗？\n也是最近才发现会这样，之前都没有感觉到。",
+          "link": "https://www.v2ex.com/t/780212",
+          "publishedOn": "2021-05-30T14:15:33.000Z",
+          "wordCount": null,
+          "title": "手机设置 charles 抓包，微信小程序就无法打开了？"
+        },
+        {
+          "id": "780211",
+          "author": "wellhome",
+          "description": "wellhome: 我对 touchpad 的 copy paste 一直控制不住幅度。放旁边的鼠标，手移动来移动去太累了。想买想买个轨迹球放 Mac 键盘下端，用于处理那些 touchpad 不便的行为。大家觉得如何",
+          "link": "https://www.v2ex.com/t/780211",
+          "publishedOn": "2021-05-30T14:14:04.000Z",
+          "wordCount": 160,
+          "title": "想买个轨迹球放 Mac 键盘下端"
+        },
+        {
+          "id": "780210",
+          "author": "Tarkky",
+          "description": "Tarkky: \n如题，有没有什么简单的渠道给 perfect money 充值？谢谢",
+          "link": "https://www.v2ex.com/t/780210",
+          "publishedOn": "2021-05-30T13:55:59.000Z",
+          "wordCount": 97,
+          "title": "请教如何给 perfect money 充值？"
+        },
+        {
+          "id": "780208",
+          "author": "lonelygod365",
+          "description": "lonelygod365: \n我是纯自己学习，属于菜鸟中的菜鸟，还请原谅问题的幼稚性。\n请问一下如果数据库为了提高性能做了读写分离，假如集群是一主多从，如果主服务器的写性能达到了瓶颈时候，这个咋整？",
+          "link": "https://www.v2ex.com/t/780208",
+          "publishedOn": "2021-05-30T13:42:51.000Z",
+          "wordCount": 162,
+          "title": "自学数据库，请教一下关于主从的问题"
+        },
+        {
+          "id": "780207",
+          "author": "meteor957",
+          "description": "meteor957: 进球：武磊 1-0 （ 20‘），金敬道 2-0 （ 39’），武磊 3-0 （ 55‘），吴曦 4-0 （ 61’），艾克森 5-0 （ 66‘），阿兰 6-0 （ 83’），阿兰 7-0 （ 87‘） ​",
+          "link": "https://www.v2ex.com/t/780207",
+          "publishedOn": "2021-05-30T13:41:40.000Z",
+          "wordCount": 141,
+          "title": "国足 7-0 大胜关岛"
+        },
+        {
+          "id": "780206",
+          "author": "tooast",
+          "description": "tooast: 机械革命 xti9 深海泰坦笔记本 win10 之前偶尔关机自己重启 现在百分百关机自动重启\n什么电源策略啥的 重装系统啥的都试过了 没用  我现在只能长按强制关机才能不会自动重启，各位大佬救救我！",
+          "link": "https://www.v2ex.com/t/780206",
+          "publishedOn": "2021-05-30T13:32:17.000Z",
+          "wordCount": null,
+          "title": "机械革命 xti9 深海泰坦笔记本 win10 之前偶尔关机自己重启 现在百分百关机自动重启"
+        },
+        {
+          "id": "780205",
+          "author": "Jumpoutoflimbo",
+          "description": "Jumpoutoflimbo: \n无基础学习廖雪峰的 Python 教程中，在高阶函数这一街的 filter 函数相关练习中，看到一种函数内返回值的写法：\nreturn n==n[::-1]\n函数本身的功能是欲返回一个字符中心对称的字符串（例如'egge')，评论内有如上所示写法，直接将字符中心对称的判断放置于 return 后。\n在以 'Python return 逻辑判断表达式' 为关键词搜索后发现 return 结合 and 与 or 的逻辑判断式会得到的返回值，但是还是无法套用到对 return 结合比较式的理解中。为何在成立时课直接返回数值，而不成立时返回 None 呢？",
+          "link": "https://www.v2ex.com/t/780205",
+          "publishedOn": "2021-05-30T13:23:33.000Z",
+          "wordCount": null,
+          "title": "Python 中的 return 返回值问题"
+        },
+        {
+          "id": "780204",
+          "author": "OasisV",
+          "description": "OasisV: \n这些应该是没多少人会去看的吧，一般都是直接勾同意（很多 app 不同意也用不了）这些东西是软件发布者在不违法的情况下想怎么写怎么写的吗，我看到好多协议明显的是霸王条款+单方面的各种免责。大概就是我要用你的信息+出了事不是我的责任，软件爱用不用，出了什么事老子也不管，有本事来告我啊，反正你同意了协定！这些协议虽然应该是有监管审核机构的，但是很多描述都很暧昧，而且很多都是格式文。APP 收集用户信息的边界问题上，并没有清晰的、可操作的边界，对合法、正当、必要原则的理解和操作还依赖于行业规范、各种指引等。真正背地里干了啥你也不知道！",
+          "link": "https://www.v2ex.com/t/780204",
+          "publishedOn": "2021-05-30T13:23:09.000Z",
+          "wordCount": null,
+          "title": "关于用户协议与隐私策略"
+        },
+        {
+          "id": "780203",
+          "author": "Cassano",
+          "description": "Cassano: \n用于每天上下班通勤，主要用于放手机、iPad Pro 、笔记本电脑、以及其他小物件。\n国内手机厂商做的就别推荐了，想知道些其他品牌的，别太大。",
+          "link": "https://www.v2ex.com/t/780203",
+          "publishedOn": "2021-05-30T13:11:25.000Z",
+          "wordCount": null,
+          "title": "求推荐通勤电脑双肩包"
+        },
+        {
+          "id": "780202",
+          "author": "wanlion",
+          "description": "wanlion: \n各位 V 友, 想问下, 平时我们搜索某个软件的时候, 总会发现, 很多网站都有介绍这个软件。比如我自己最近查找的 APP: superProductivity, bing 里面输入这个关键词, 就会发现很多网站都有介绍这个软件。\n我的问题是, 自己新开发了一个软件, 推广时, 需要我们自己一个网站一个网站去发软文吗? 还是有其他更省力快捷的办法?\n有知道的 V 友麻烦说下, 个人猜测, 国内和国外的可能不同, 如果能分别介绍, 那就更好, 先谢了！",
+          "link": "https://www.v2ex.com/t/780202",
+          "publishedOn": "2021-05-30T13:07:02.000Z",
+          "wordCount": null,
+          "title": "问一个软件推广的问题"
+        },
+        {
+          "id": "780201",
+          "author": "linxuanv",
+          "description": "linxuanv: 昨天刚买了台大法的 75X9000H，明天才能到，就想着一步到位，干脆再搞个 ATV，岂不美哉？结果一研究发现好多问题。\n本人的主要用途：70% 本地 4k 电影 /剧 +30%油管网飞，之前一台电视就能搞定，但是体验不太好。\n至于 ATV，国外在线流媒体好办，外区 ID+路由器翻即可解决\n问题就在本地视频上，网上搜了一圈，基本是 NAS 或者局域网共享。\n但是为了看个视频专门去买 NAS 也有点蛋疼，而似乎简单的局域网共享看码率高的视频，拖动进度条会缓冲（存疑，听说的）\n示意图： https://feng-bbs-att-1255531212.image.myqcloud.com/2021/05/30/141352ju1ah1lxjhrz3kvd.png?imageMogr2/format/jpg/interlace/0/quality/100\n我个人想到 2 个方案\n一是直接把移动硬盘插三楼的 PC 里，然后在 1 楼的 ATV 里读取，但是这样貌似得把二楼连接一楼的百兆网线给换了，就怕看 4k 啥的会卡，这根线有 20 多米，还是明线钉好的，重新拆装有亿点麻烦\n二是把一楼 ATV 边上的路由换成千兆，USB3.0 的路由，直接把硬盘插在这个路由上，那么这样就不用动一二楼的线了，只要在 ATV 和路由之间拉一根 1 米的千兆线就行，但是这样每次看电视还得带个硬盘下来，没方案一方便\n三，买个最低配的 NAS ？但是我存片的移动硬盘需要频繁插拔出远门，影响大吗？\n求大佬赐教！",
+          "link": "https://www.v2ex.com/t/780201",
+          "publishedOn": "2021-05-30T13:06:38.000Z",
+          "wordCount": null,
+          "title": "求大佬给个家庭用 Atv 看视频的方案，示意图已画好！，"
+        },
+        {
+          "id": "780200",
+          "author": "omri",
+          "description": "omri: 我们这个行业和土木工程等传统行业相比，一个很大的区别是，我们的技术日新月异，我们多年的工作经验因此变得不够保值。但是这日新月异的技术不正是我们程序员本身创造的？如果所有程序员集体躺平，让技术不再发展，是不是我们的生活会变得更好？越老越吃香，再也没有人歧视 35 岁+的程序员",
+          "link": "https://www.v2ex.com/t/780200",
+          "publishedOn": "2021-05-30T13:06:27.000Z",
+          "wordCount": 351,
+          "title": "[躺平博弈] 如果所有程序员都躺平，大家的生活会不会变得更好？"
+        },
+        {
           "id": "780101",
           "author": "0chenjin",
           "description": "0chenjin: \n良心云这个最近活动是真的多，我已经上车了。领了 230 代金卷 开了小一年。进去就能抽 50 元券上车了个 2 核 4G 的，mjj 们可与一起把自己的链接发出来，我们互点来薅券啊。还没上车的 mjj 可与直接扫码开自己的团",
@@ -3644,6 +3995,15 @@
       "feedUrl": "https://rsshub.app/meituan/tech/home",
       "siteUrl": "https://tech.meituan.com/feed/",
       "articles": [
+        {
+          "id": "https://tech.meituan.com/2021/05/30/2021-5-30.html",
+          "author": "美团技术团队",
+          "description": "你因科技而精彩，科技因你而腾飞。",
+          "link": "https://tech.meituan.com/2021/05/30/2021-5-30.html",
+          "publishedOn": "2021-05-30T00:00:00.000Z",
+          "wordCount": 15,
+          "title": "2021全国科技工作者日：致敬科技工作者"
+        },
         {
           "id": "https://tech.meituan.com/2021/05/27/food-name-standardization.html",
           "author": "美团技术团队",

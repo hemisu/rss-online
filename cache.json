@@ -67,6 +67,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340465",
+          "author": "Jason Lengstorf",
+          "description": "Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:\nbuilding modern, accessible user interfaces\ncreating interactive elements and complex animations\nmanaging complex application state\n…\nThe post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/",
+          "publishedOn": "2021-05-31T17:16:22.000Z",
+          "wordCount": 1790,
+          "title": "Serverless Functions: The Secret to Ultra-Productive Front-End Teams"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341482",
+          "author": "Chris Coyier",
+          "description": "I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …\nThe post Local: Always Getting Better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/local-always-getting-better/",
+          "publishedOn": "2021-05-31T17:13:02.000Z",
+          "wordCount": 981,
+          "title": "Local: Always Getting Better"
+        },
+        {
           "id": "https://css-tricks.com/?p=341163",
           "author": "Thomas Park",
           "description": "Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …\nThe post Dynamic Favicons for WordPress appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -343,6 +361,321 @@
       "feedUrl": "https://rsshub.app/v2ex/topics/latest",
       "siteUrl": "https://www.v2ex.com/",
       "articles": [
+        {
+          "id": "780528",
+          "author": "Kaisar",
+          "description": "Kaisar:",
+          "link": "https://www.v2ex.com/t/780528",
+          "publishedOn": "2021-06-01T02:25:19.000Z",
+          "wordCount": 84,
+          "title": "现在开放三胎了大家有什么计划么?"
+        },
+        {
+          "id": "780527",
+          "author": "kuanos",
+          "description": "kuanos: 如题，坐标北京西城",
+          "link": "https://www.v2ex.com/t/780527",
+          "publishedOn": "2021-06-01T02:20:29.000Z",
+          "wordCount": 110,
+          "title": "公司的网巨慢，有什么便宜的替代方案？无线上网卡？"
+        },
+        {
+          "id": "780526",
+          "author": "wxyyxc1992",
+          "description": "wxyyxc1992: **公司行业：联泰科技（ B+ 轮），3D 打印 /小批量制造 /智能制造 /工业互联**\n**工作地点：上海市徐汇区漕河泾新业园，临近 9 号线漕开发地铁站，旁边就是腾讯大厦**\n**业务方向：面向海内外客户的在线制造平台、数字化工厂云解决方案、产能协同与供应链管理、智能制造数据分析与调度算法**\n**技术方向：微服务云原生（ Java/Go + Spring + K8s + Dapr + Serverless + 全球部署分布式系统）、微前端（ React + TS + Qiankun ）、工业物联云平台（边缘计算、分布式图像 /图形处理、工业数据分析）、智能制造辅助（ APS 、自动报价、生产可行性分析、直播与异常检测）、基于 Web 的在线模型处理（ THREE.js + WASM ）、跨端开发（ PC 、App 、小程序、Electron ）**\n**需求人员：中高级别的前端、服务端与测试开发人员，薪资范畴：15~30K/月 + 季度 /年终绩效**\n**联系邮箱： zhangzixiong@uniontech3d.cn / 15851808077 团队技术博客： https://ng-tech.icu/books**\n**Bonus：Macbook Pro + Github 工作流，拥抱开源，支持技术发展，杜绝 996，不 361 。长期为大厂输送优质员工。**",
+          "link": "https://www.v2ex.com/t/780526",
+          "publishedOn": "2021-06-01T02:16:19.000Z",
+          "wordCount": 188,
+          "title": "坐标上海徐汇漕河泾（9 号线旁），招聘前端/ Java /测试， 3D 打印智能制造方向（云原生，微服务，微前端，全球部署）， Macbook + Github，杜绝 996"
+        },
+        {
+          "id": "780525",
+          "author": "jimmyczm",
+          "description": "jimmyczm: \n点的手累了，还浪费时间",
+          "link": "https://www.v2ex.com/t/780525",
+          "publishedOn": "2021-06-01T02:12:52.000Z",
+          "wordCount": 124,
+          "title": "有 jd 618 的自动任务脚本吗？"
+        },
+        {
+          "id": "780523",
+          "author": "idblife",
+          "description": "idblife: 平常装个钱包，手机，门卡，雨伞啥的\n偶尔带 mbp 13",
+          "link": "https://www.v2ex.com/t/780523",
+          "publishedOn": "2021-06-01T02:12:23.000Z",
+          "wordCount": 105,
+          "title": "求推荐通勤(偶尔带电脑)单肩包"
+        },
+        {
+          "id": "780522",
+          "author": "CSGO",
+          "description": "CSGO: 普通安装，设置里有几条错误无法修复。\ndocker 更困难，各种连不上数据库啥的，响应也很慢，更多问题。\n以及尝试了不止 10 来个 docker-compose，都差不多有各种问题。\n所以有没其他好的网盘推荐？",
+          "link": "https://www.v2ex.com/t/780522",
+          "publishedOn": "2021-06-01T02:10:00.000Z",
+          "wordCount": null,
+          "title": "nextcloud 安装困难"
+        },
+        {
+          "id": "780521",
+          "author": "xbh1794970183564",
+          "description": "xbh1794970183564: \n具体详情如下图所示，这里先提前说一下情况：\n为什么内推？ 因为团队现在很缺人，抖音的电商业务属于发展初期，所以是来学东西的好机会，现在大量招聘，机会多。\nHC 多少？ 目前团队后端 24 人，今年目标 70 人，但是从年初到现在才招到 15 人，所以还有大量 HC 空位\n加班，base 情况？ 工作时间 10.30 - 10，大小周，小周有双倍工资，我知道 V 站非常排斥大小周，所以这点因人而异吧。想要刷一下履历或者做相关业务方向的可以来，如果排斥加班的不用考虑了。\nbase 目前北杭，其他地方的也可以内推\n楼主也是去年在 V 站上面靠人内推进来的，所以想着也来内推一下。没有套路，想来的直接投递，或者加我也可以：vx：YXMxNzk0OTcwMTgz 邮箱： xubinghua@bytedance.com\n投递链接： https://imgtu.com/i/gr0jAK",
+          "link": "https://www.v2ex.com/t/780521",
+          "publishedOn": "2021-06-01T02:09:17.000Z",
+          "wordCount": 177,
+          "title": "抖音电商-商品中心内推"
+        },
+        {
+          "id": "780520",
+          "author": "morimi2026",
+          "description": "morimi2026: \n早上看到一个微博\n\n简单来说，就是百度安全实验室的一个工程师，开发了一套安全的兼容 openssl 的 TLS 库，叫 mesalink 。不过被人发现只是一个封装，套了一层壳。\n封装 api 也是有意义的，不过这位工程师貌似对这个项目包装过度了。搜到一篇软文《一把锁的传奇——从 OpenSSL 到 MesaLink 》，说这是“加密传输界的特斯拉”。\n\n宣称自己的各种唯一：\n\n软文还不止一篇，还有这个 https://www.ithome.com/0/397/545.htm\n声称是下一代安全通信库\n\n其实早在 2018 年作者在 V2EX 发过帖子，有人评论质疑过只是一个“兼容封装库”，“实际加密算法还是用 C 写的，而且是 BoringSSL(OpenSSL)复制过来的“\n\n我认为封装兼容是很有意义的事，但这种过度包装到底是哪学来的？教教我",
+          "link": "https://www.v2ex.com/t/780520",
+          "publishedOn": "2021-06-01T02:06:38.000Z",
+          "wordCount": 325,
+          "title": "如何看待百度工程师过度包装自己项目的行为"
+        },
+        {
+          "id": "780518",
+          "author": "InDom",
+          "description": "InDom: \n\n预购定金 10 元，实付款 399 元，付尾款同时重新下单，当场 349 元。\n怪我没参加过 618 双十一，头回参与即被套，可还行。",
+          "link": "https://www.v2ex.com/t/780518",
+          "publishedOn": "2021-06-01T02:04:46.000Z",
+          "wordCount": 257,
+          "title": "京东好活当赏。"
+        },
+        {
+          "id": "780515",
+          "author": "xuqiccr",
+          "description": "xuqiccr: python，变量含义是非测试人员，我同事：no_ceshiuser, 惊为天人。。。",
+          "link": "https://www.v2ex.com/t/780515",
+          "publishedOn": "2021-06-01T01:52:04.000Z",
+          "wordCount": 445,
+          "title": "[水贴]被同事的变量名惊呆了"
+        },
+        {
+          "id": "780513",
+          "author": "codder",
+          "description": "codder: 目前 webstorm 教育邮箱申请 key 加了上传学籍限制，vscode 和 sublime 都是编辑器不算 ide，除了这些外还有什么前端 IDE 好用推荐的！",
+          "link": "https://www.v2ex.com/t/780513",
+          "publishedOn": "2021-06-01T01:51:48.000Z",
+          "wordCount": 204,
+          "title": "前端开发 IDE 推荐！"
+        },
+        {
+          "id": "780512",
+          "author": "NEVERCODE",
+          "description": "NEVERCODE: \n每次到 618，1111 的时候，电脑手机上各种软件无孔不入，点进去之后大额优惠券根本抢不到，小额优惠券就很鸡肋。\n想问一下各位产品经理，这种营销属于什么营销啊？为什么想尽办法把我弄进来，再给我开个玩笑这种。\n我也不知道这是运营想出来的方式",
+          "link": "https://www.v2ex.com/t/780512",
+          "publishedOn": "2021-06-01T01:46:58.000Z",
+          "wordCount": 123,
+          "title": "有产品经理/运营吗？想问个促销活动的事情"
+        },
+        {
+          "id": "780511",
+          "author": "lulu7",
+          "description": "lulu7: \n结对编程，有诸多好处，可以有效提高代码质量，提升团队水平和代码的熟悉程度，而且工作效率也是非常高，但在国内很少有人实施，到底是何种原因？\n由于很好奇结对编程领域，我们特制作了相关的小视频，欢迎感兴趣的朋友一起来探讨：\nhttps://www.zentao.net/redirect-index-19048.html",
+          "link": "https://www.v2ex.com/t/780511",
+          "publishedOn": "2021-06-01T01:44:47.000Z",
+          "wordCount": null,
+          "title": "国内为何很少有做结对编程呢？是确实不好还是属于中国特色？"
+        },
+        {
+          "id": "780510",
+          "author": "louchenabc",
+          "description": "louchenabc: \n去年写的一篇文章：\n[掘金] 俯瞰 Java 服务端开发\n[Github] 俯瞰 Java 服务端开发\n这篇文章的标题实际上用 俯瞰服务端开发 更合适，Java 语言本身提及的内容不多，写的不是很全面，但也囊括了部分东西了，各位朋友能否分享一些服务端领域 有趣好玩有用 或者 前沿 的项目。\nps: 以前经常看 v2，但很少发帖，最近随便发了一个帖子 [工具分享] 整理了一些总计超 51 万 star 的终端命令行工具，结果有上百个人收藏，同时 v 友 也补充了一些好工具，交流氛围是真的不错，所以也想跟 v 友 多交流下，增长一下见识。帖子中包含我个人写的东西，在这里交流下，也督促自己多更新。除了写文章，近期计划写一个使用 java 进行低代码开发的后台（简化 crud，类似 django ）的开源项目。",
+          "link": "https://www.v2ex.com/t/780510",
+          "publishedOn": "2021-06-01T01:42:38.000Z",
+          "wordCount": 134,
+          "title": "[ Java ] 俯瞰 Java 服务端开发，服务端领域还有哪些有趣好玩值得学习的东西？"
+        },
+        {
+          "id": "780509",
+          "author": "gulili01",
+          "description": "gulili01:  [三七互娱内推 高级 DBA 15 薪]  [广州] \n三七互娱，中国互联网百强企业，是国内 A 股优秀的综合型文创上市企业（股票代码：002555 ）。三七互娱总部设在广州。公司涵盖游戏、在线教育等业务板块，同时积极布局影视、音乐、艺人经纪、动漫、泛文娱乐、VR/AR 、文化健康、社交等文化创意领域。\n三七互娱旗下拥有优异的游戏研发品牌三七游戏，专业的游戏运营品牌 37 网游、37 手游、37GAMES，以及优质在线教育品牌妙小程，聚集了来自全球各地的网络精英及高素质管理人才。\n福利：\n15 薪水、项目奖金、季度奖金、年度奖金、双休、丰富早餐（ KFC，M 记，72 街，肠粉等）、团建、带薪假期、年度体检、住房免息贷款等。\n职位描述\n岗位职责：\n1 、负责数据库团队管理工作，持续推动团队业绩提升与成员技术成长；\n2 、负责维护线上规模级别 MySQL 、Redis 、ClickHouse 、MongoDB 等数据库以及中间件的稳定运行，日常工作包括：系统性能监控、故障诊断与恢复、高可用架构设计与实践、性能调优、备份恢复及容灾演练等；\n3 、负责公司数据库系统的容量规划，了解业务需求，确保系统能支持业务的增长，并配合业务部门进行日常数据统计与分析；\n4 、推动数据库实例化、自动化管理平台的建立与实践，提高数据库自动化运维程度。\n岗位要求：\n1 、计算机及相关专业本科以上学历，3 年及以上互联网行业大规模数据库维护经验，具有 OLAP 数据库维护经验者优先；\n2 、精通关系型和非关系型数据库原理和使用，理解存储引擎，查询优化；熟练使用 Redis 、ClickHouse 等数据库；\n3 、精通数据库的架构规划，高可用性，主从复制，Cluster 等技术，熟悉自动化运维；\n4 、熟悉 Linux 系统，并会使用 Shell 或 Python 等脚本编程语言；\n5 、目标导向，良好的沟通能力、问题分析与解决能力，拥有很强的责任心和团队合作精神；\n6 、有较强的激励、推动、协调等团队领导能力。\n投简历渠道：\n邮箱： lanruqi@37.com （有投必回）\n交流群:  728418003",
+          "link": "https://www.v2ex.com/t/780509",
+          "publishedOn": "2021-06-01T01:41:31.000Z",
+          "wordCount": 147,
+          "title": "[三七互娱内推 高级 DBA 15 薪] [广州]"
+        },
+        {
+          "id": "780508",
+          "author": "sudoy",
+          "description": "sudoy: \n我们中国办公室用的是国际专线+固定 IP，客户提供 Rest API, 只接受中国办公室的 IP 发送请求。而中国办公室的服务器（其实就是一台 24 小时运行的普通电脑）并没有外网端口映射，是跟普通电脑一样没有直接的公网 IP。 现在要做一个软件，我们美国办公室可以通过客户端访问客户数据。\n目前我只能用 Slack 提供的 RTM API 进行中转：也就是美国的同事加入 slack 频道 => 输入订单号码 => 中国服务器收到 Slack message， 然后调用客户 API，返回订单搜索结果 => 通过 Slack API 将 message 传回到 Slack 频道。\n\n问题： 现在想做成 web app 部署在 Heroku 上, 请问各位老哥有什么工具或者服务可以从 Heroku 那里 直接发送 request 请求到我们内网的 API ？这样的话我们就不用 slack 客户端了，拓展起来也灵活些。先行谢过！\n以下方案已排除，不考虑： \n❌ 租一台有公网 IP 的服务器，让客户将这台服务器加入白名单。\n❌ 把中国办公室的固定 IP 映射到服务器上。",
+          "link": "https://www.v2ex.com/t/780508",
+          "publishedOn": "2021-06-01T01:37:00.000Z",
+          "wordCount": 223,
+          "title": "请问有什么工具可以把内网机器作为 API 服务器？"
+        },
+        {
+          "id": "780506",
+          "author": "MiniGhost",
+          "description": "MiniGhost: \nMacbook 15 寸 18 款\n图方便整洁，把鼠标键盘啥的都接到显示器上了，Macbook 通过 Type-C 扩展坞接显示器的上行 USB 线。\n好像接上之后，每次比卡死在白苹果 logo 界面上，必须拔了扩展坞才能进登录画面，大家有遇到类似问题的么？\n是扩展坞的兼容问题，还是 Macbook 跟显示器的 USB 上行的兼容问题？",
+          "link": "https://www.v2ex.com/t/780506",
+          "publishedOn": "2021-06-01T01:34:33.000Z",
+          "wordCount": null,
+          "title": "Macbook 在接显示器 USB 上行后，开机必卡白苹果"
+        },
+        {
+          "id": "780505",
+          "author": "zengming00",
+          "description": "zengming00: 在山区，我原本的联通卡没有信号，想用手机自带的所谓无卡上网，结果，呵呵，也用不了，借朋友分享的热点连上再开，能开启一元流量，结果，信号和我的联通卡一样\n也就是存在一个鸡生蛋蛋生鸡的问题，我本身联通没信号上不了网的情况下要使用一元流量还得先上网才行",
+          "link": "https://www.v2ex.com/t/780505",
+          "publishedOn": "2021-06-01T01:30:04.000Z",
+          "wordCount": 126,
+          "title": "小米的一元流量就是个笑话"
+        },
+        {
+          "id": "780503",
+          "author": "Rwing",
+          "description": "Rwing: \n原文: [Introducing C# 10]\n作者: Ken Bonny\n​\n本周早些时候(译注:原文发表于 5 月 1 日)，我关注了 Mads Torgersen 在 DotNet SouthWest 大会上的演讲，他是微软的 C# 语言的首席设计师。他概述了 C# 10 即将包含的很酷的一些新东西。让我们来快速浏览一下。\n小小的免责声明，这些变化中的大部分已经基本完成。但是由于它仍在积极的开发中，我不能保证 C# 10 发布时所有东西都会完全如实。\nstruct record\n他谈到的第一件事是，目前 record 的实现是使用一个 class 作为基础对象的。现在还会有一个 record struct 的变体可用，所以基础类型可以是一个值类型。区别在于，普通的 record 在函数之间传递的是引用，而 record struct 是其值的拷贝。 record struct 也会支持 with 运算符。\n同时，还允许向 record添加运算符，两种 record 类型都可以。\nrecord Person(string Name, string Email)\n{\n  public static Person operator +(Person first, Person second)\n  {\n    // logic goes here\n  }\n}\n\n​\nrequired\nC# 团队关注的目标之一是使对象的初始化变得更容易。这就是为什么可以对 class 、struct 、record 或 struct record 的属性添加 required 标记 。它使得这些属性必须填写。这可以通过构造函数来完成，也可以通过对象初始化来完成。下面的两个类的定义是等价的。如果你添加了 required 关键字，那么就无法在不设置 Name 属性的情况下将 Per…",
+          "link": "https://www.v2ex.com/t/780503",
+          "publishedOn": "2021-06-01T01:26:02.000Z",
+          "wordCount": 553,
+          "title": "[翻译] 预览 C# 10 的新东西"
+        },
+        {
+          "id": "780502",
+          "author": "gablic",
+          "description": "gablic: 1. 不要外挂的，怕引起邻居反感。\n2. 价位 600 左右吧。\n3. 看了小米的一点折扣都没有啊，还有小米的是不是小白代工？看着一样？\n4. 先谢过了",
+          "link": "https://www.v2ex.com/t/780502",
+          "publishedOn": "2021-06-01T01:24:30.000Z",
+          "wordCount": 134,
+          "title": "猫眼摄像头大家有什么推荐吗？"
+        },
+        {
+          "id": "780499",
+          "author": "Rab",
+          "description": "Rab:",
+          "link": "https://www.v2ex.com/t/780499",
+          "publishedOn": "2021-06-01T01:11:57.000Z",
+          "wordCount": 760,
+          "title": "https://livid.v2ex.com/diaries/2021/05/31/20210531.html"
+        },
+        {
+          "id": "780496",
+          "author": "jedz",
+          "description": "jedz: \n是电信公寓宽带，房间里有一个光猫“GPON 天翼网关”。电脑网线直连光猫后，在这个页面用手机号登录就可以上网：\n\n不在上面的页面登陆，电脑直接用 PPPoE 拨号也能连上。所以就想光猫接路由器，并关闭光猫自带的 WiFi 。现在问题是不知道怎么进后台，以下几个都打不开（包括 80 和 8080 端口）：\n192.168.0.1\n192.168.1.1 （光猫背面贴纸写的是这个）\n172.16.0.1 （实际获取到的默认网关是这个）\n172.16.1.1",
+          "link": "https://www.v2ex.com/t/780496",
+          "publishedOn": "2021-06-01T01:09:51.000Z",
+          "wordCount": 141,
+          "title": "第一次用电信光猫，请问如何进入后台设置页面？"
+        },
+        {
+          "id": "780495",
+          "author": "Ayanokouji",
+          "description": "Ayanokouji:",
+          "link": "https://www.v2ex.com/t/780495",
+          "publishedOn": "2021-06-01T01:09:08.000Z",
+          "wordCount": 277,
+          "title": "预测一波 今年 wwdc 发布 iPad 版的 final cut pro"
+        },
+        {
+          "id": "780494",
+          "author": "adeweb",
+          "description": "adeweb: 我的需求场景是每天晨会用 iPad 投影，之前六十块买了个第三方的，用了不到一个月坏了，返修直接给了个新的，没用几天又不能用了。\n看到 618 苹果官方的转接头有比较大的折扣，想问下买过的人，这个价格值得买么？主要是担心兼容性和质量问题。\n或者有更好的推荐，麻烦推荐下。🙏",
+          "link": "https://www.v2ex.com/t/780494",
+          "publishedOn": "2021-06-01T00:50:56.000Z",
+          "wordCount": 174,
+          "title": "Apple Lightning 转 HDMI 值得买吗？"
+        },
+        {
+          "id": "780493",
+          "author": "FreeWong",
+          "description": "FreeWong: \n我对于 NB IOT 了解甚少，目前，我们的电子设备通过 NB IOT 的方式将数据发送到电信的 NB IOT 平台\n目前我们需要开发自己的应用，所以需要将发送的 NB IOT 平台的数据 接收回来(可能表述不是十分精确),用于在自己开发的软件上显示数据，这个 ctwing.cn 的文档太多了，我根本不知道要看哪一部分\n烦请你经验的朋友指点下，大概的一个流程，和必须看的文档\n目前一脸懵逼\n感谢感谢",
+          "link": "https://www.v2ex.com/t/780493",
+          "publishedOn": "2021-06-01T00:50:22.000Z",
+          "wordCount": 129,
+          "title": "======= 请教电信 NB IOT（www.ctwing.cn）应用接入问题=========="
+        },
+        {
+          "id": "780491",
+          "author": "tctc4869",
+          "description": "tctc4869: \n如题。\n在数据库管理工具或可视化工具中，通过模板引擎控制增删改的流程，通过模板引擎控制最终的输出结果。",
+          "link": "https://www.v2ex.com/t/780491",
+          "publishedOn": "2021-06-01T00:39:33.000Z",
+          "wordCount": null,
+          "title": "有哪些关系型数据库管理工具或可视化工具，带有模板引擎功能？"
+        },
+        {
+          "id": "780490",
+          "author": "zhouhua97",
+          "description": "zhouhua97: 比 3060 现在的价格便宜一千多的样子。",
+          "link": "https://www.v2ex.com/t/780490",
+          "publishedOn": "2021-06-01T00:39:27.000Z",
+          "wordCount": 256,
+          "title": "0 点抢到一台 R9000P 的 3050ti 版本首发， 7299，感觉赚到了，哈哈。"
+        },
+        {
+          "id": "780489",
+          "author": "Blessing1",
+          "description": "Blessing1: 是你自己的账号在腾讯云官方购买官方的机器\n购买的机器是在你腾讯云自己的账号里\n腾讯云不限制 CPU SSD 硬盘高性能款\n之前的车很多人没有赶上\n这次别错过\n内地多地区可选\n2 核独享 4G5MSSD60G 三年仅 551 元\n1 核独享 2G5MSSD60G 三年仅 231 元\n腾讯云.香.港.等海外多地区可选\n新购和续费均可\nH.K 等海外多地域可选\nCPU 1 核(独享) 内存 1G\n硬盘 SSD 25G 带宽 30M\n流量 1024G/月 230 元 /年最长可五年\nH.K 等海外多地域可选\nCPU1 核(独享)内存 2GB\n硬盘 SSD 50G 带宽 30M\n流量 2048G/月 326/年最长可五年\nH.K 等海外多地域可选\nCPU2 核(独享)内存 4GB\n硬盘 SSD 80GB 带宽 30M\n流量 3072GB/月 645 元 /年最长可五年\nHK 新购续费都可以 要更高配置请咨询\n以下是腾讯云标准云服务器 CVM 可换 IP 可选 HK 新加坡等\n1 核 2G50G1M 不限流量 官方三年半价 1701 元 到手价三年 868 元\n1 核 2G50G2M 不限流量 官方三年半价 2061 元 到手价三年 980 元\n1 核 2G50G3M 不限流量 官方三年半价 2511 元 到手价三年 1128 元\n2 核 4G50G1M 不限流量 官方三年半价 3663 元 到手价三年 1480 元\n2 核 4G50G3M 不限流量 官方三年半价 4473 元 到手价三年 1780 元\n2 核 4G50G5M 不限流量 官方三年半价 5372 元 到手价三年 2080 元\n其他只要腾讯云有的产品绝大部分都可以帮你优惠上车\n包括活动特惠产品能折上折包括数据库 服务器 CDN 存储等\n请回个贴 有些优惠是 V 友才有  可开票\n联系 QQ 微信 同号 NDYzMzY2Nw== 最好是加 QQ 回复更快\n联系 QQ 微信 同号 4633 六六七 (汉字换成数字，中间不要空格)",
+          "link": "https://www.v2ex.com/t/780489",
+          "publishedOn": "2021-06-01T00:38:56.000Z",
+          "wordCount": 333,
+          "title": "[腾讯云特惠] 2 核 4G 三年只要 500 多 1 核 2G 三年只要 200 多 [腾讯云特价活动] [有海外特惠]"
+        },
+        {
+          "id": "780488",
+          "author": "cssnote",
+          "description": "cssnote: 如果有新款，价格会高很多吗，有了解过的朋友吗",
+          "link": "https://www.v2ex.com/t/780488",
+          "publishedOn": "2021-06-01T00:18:42.000Z",
+          "wordCount": 1,
+          "title": "6.8 会不会发布新 mini，我的 m1 mini 才买了 10 天不到。"
+        },
+        {
+          "id": "780487",
+          "author": "reaCodes",
+          "description": "reaCodes: 我使用滴答清单的位置提醒功能，定位权限给了“使用 App 期间”，但是总是提示我给“始终”允许权限，实现这个功能必须要始终定位权限么？对电量消耗影响有多大？",
+          "link": "https://www.v2ex.com/t/780487",
+          "publishedOn": "2021-06-01T00:03:09.000Z",
+          "wordCount": 197,
+          "title": "iOS 系统中使用地理围栏（geofence）来实现基于位置的提醒，是否需要定位“始终”允许权限？"
+        },
+        {
+          "id": "780486",
+          "author": "shuxhan",
+          "description": "shuxhan: \n杭州今天早上坐地铁，突然查健康码，不是停了好几个月突然又查起来，因为什么，听说广东那边疫情突然严重，跟这个有关系吗，来分析一波。",
+          "link": "https://www.v2ex.com/t/780486",
+          "publishedOn": "2021-05-31T23:58:59.000Z",
+          "wordCount": 424,
+          "title": "怎么地铁又突然查健康码了？"
+        },
+        {
+          "id": "780484",
+          "author": "mashaofeixxx",
+          "description": "mashaofeixxx: \n此价格仅 2021.06.01 日当天有效.",
+          "link": "https://www.v2ex.com/t/780484",
+          "publishedOn": "2021-05-31T23:52:08.000Z",
+          "wordCount": 210,
+          "title": "六一快乐! NUC & 三星 黑果套餐 内存免费翻倍!"
+        },
+        {
+          "id": "780482",
+          "author": "q8164305",
+          "description": "q8164305: 而立之年,裸辞,已经爽了 2 个月了,不得不说,躺平真爽,但是突然一想,要不要回家算了,在大城市我真的有点厌倦了,各位大佬会有厌倦大城市的时候吗?虽然我呆了深圳 6 年了,对深圳各种地方都很熟悉,但始终没有归属感,真的有点想回家躺平了",
+          "link": "https://www.v2ex.com/t/780482",
+          "publishedOn": "2021-05-31T22:20:57.000Z",
+          "wordCount": 94,
+          "title": "大龄程序员应该如何面对中年危机"
+        },
+        {
+          "id": "780481",
+          "author": "INFP",
+          "description": "INFP: \n（不使用 iCloud 为前提）\n同学们我好像买反了存储空间，\n主力 HDR 视频拍摄设备，手机 256G，\n主力 HDR 回放设备，pad 128G 。\n买的时候想的是，在外面玩不能随时拿出 pad 所以视频要存在手机里，那就手机买大点。然后 m1 pad 在苹果店抢到的只有 128G 现货，官网买要等到七月，于是就这样了。\n但是越想越不对，我的相册的工作流应该是手机拍摄后暂时存储，晚上导入 pad 就可以从手机上删掉了，以后回看 HDR 视频和照片也应该是在大屏幕的 pad 上看，不会在手机上看，这样的话 pad 应该搞个大容量，手机反而 256G 没有任何意义。\n大家有什么视频存储的建议吗？手机拍，pad 看，我现在很矛盾",
+          "link": "https://www.v2ex.com/t/780481",
+          "publishedOn": "2021-05-31T21:51:44.000Z",
+          "wordCount": 259,
+          "title": "平时拍的视频应该怎么在手机和 Pad 的存储空间上分配？"
+        },
+        {
+          "id": "780479",
+          "author": "JensenQian",
+          "description": "JensenQian: \n多地九折消费券，满 1000 打 9 折，最高 400 。\n手机，电脑，基本上都可以用\n京东消费券各个城市发放时间：\n北京-5 月 31 日、上海-5 月 31 日、广州-5 月 31 日、深圳-5 月 31 日、东莞-5 月 31 日、河南-6 月 8 日、湖北-6 月 8 日、浙江-6 月 12 日、河北-6 月 12 日、福建-6 月 12 日、天津-6 月 12 日、江西-6 月 12 日、宁夏-6 月 12 日、青岛-6 月 16 曰。\n虽然说昨天发，但现在还能领\n怎么领这边看下\n京东 APP，右上角 [沪] （其他城市简称），然后点进去",
+          "link": "https://www.v2ex.com/t/780479",
+          "publishedOn": "2021-05-31T19:54:17.000Z",
+          "wordCount": 187,
+          "title": "多地九折消费券，满 1000 打 9 折，最高 400。"
+        },
         {
           "id": "780248",
           "author": "Leon6868",

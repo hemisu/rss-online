@@ -76,6 +76,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341793",
+          "author": "Chris Coyier",
+          "description": "Colin Oakley:\n• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)\n• Agnostic — Build \n…\nThe post Principles for user-centered front-end development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b",
+          "publishedOn": "2021-06-04T20:36:46.000Z",
+          "wordCount": 1039,
+          "title": "Principles for user-centered front-end development"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341968",
+          "author": "Chris Coyier",
+          "description": "I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …\nThe post Can I :has() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://bkardell.com/blog/canihas.html",
+          "publishedOn": "2021-06-04T14:37:59.000Z",
+          "wordCount": 1327,
+          "title": "Can I :has()"
+        },
+        {
           "id": "https://css-tricks.com/?p=341584",
           "author": "Temani Afif",
           "description": "A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …\nThe post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -442,6 +460,303 @@
       "feedUrl": "https://rsshub.app/v2ex/topics/latest",
       "siteUrl": "https://www.v2ex.com/",
       "articles": [
+        {
+          "id": "781500",
+          "author": "he110comex",
+          "description": "he110comex: 1 ）在 iPhone 上打开「滴答清单」的清单页；\n2 ） MacBook 的 dock 栏会出现如下图所示的提醒图标；\n3 ）点击这个图标就一键登录到了「滴答清单」的 web 页。\n好像即使 web 页之前没有登录，也会自动登录上去。\n这个功能相当好用。\n请问：\n1 、这个功能的实现原理是什么？\n2 、Android 也可以实现这个功能吗？\n附图：",
+          "link": "https://www.v2ex.com/t/781500",
+          "publishedOn": "2021-06-05T01:22:52.000Z",
+          "wordCount": 131,
+          "title": "iPhone 上打开「滴答清单」， mac 上的一键快捷登录是如何实现的？"
+        },
+        {
+          "id": "781499",
+          "author": "JYL888",
+          "description": "JYL888: \n几百 G 的数据，过段时间备份一次，要好几个小时，挺麻烦的，有没有支持增量备份或者同步 的办法？\n还有 WIN10，备份系统和安装的软件，有没有好的方法？ 换电脑或者更换固态，可以 快速移植  系统和安装的软件！",
+          "link": "https://www.v2ex.com/t/781499",
+          "publishedOn": "2021-06-05T01:22:38.000Z",
+          "wordCount": 155,
+          "title": "电脑硬盘数据备份，备份到移动硬盘，有没有办法增量备份同步？"
+        },
+        {
+          "id": "781498",
+          "author": "DopaminePlz",
+          "description": "DopaminePlz: 如题，在一台机器上的两个接口（如 eth0 和 eth1 ），搭建两个 ocserv 服务器，外网用户通过任意一个接口均可以 VPN 接入内网（如 eth2 对应的 LAN ）。貌似 OpenWrt 不行，不知道在 Debian 等 Linux 下是否可行。",
+          "link": "https://www.v2ex.com/t/781498",
+          "publishedOn": "2021-06-05T01:20:24.000Z",
+          "wordCount": 159,
+          "title": "在一台机器上搭建两个 OCSERV 服务器是否可行？"
+        },
+        {
+          "id": "781495",
+          "author": "gbqqaybc",
+          "description": "gbqqaybc: \n这两天更新了最新版的 win10，右下角出现了个信息流的图标，点开后加载不出来内容，显示网络错误，请问可以关闭吗，如果不能关闭那怎样才能让他显示内容呢",
+          "link": "https://www.v2ex.com/t/781495",
+          "publishedOn": "2021-06-05T01:01:56.000Z",
+          "wordCount": 152,
+          "title": "win10 新版本右下角的信息流可以关闭吗"
+        },
+        {
+          "id": "781492",
+          "author": "pexcn",
+          "description": "pexcn: \nv91 的版本之前是可以使用启动参数  --disable-features=ExtensionsToolbarMenu 的，但是升级之后失效了",
+          "link": "https://www.v2ex.com/t/781492",
+          "publishedOn": "2021-06-05T00:46:02.000Z",
+          "wordCount": 104,
+          "title": "Chrome v91 能否把扩展程序的图标移出来？"
+        },
+        {
+          "id": "781490",
+          "author": "glouhao",
+          "description": "glouhao: \n由于家庭原因两年没出去工作了，一直干点杂活。最近学了 diy 优盘，附近有个民办的本科要开张了，不知道会不会有销路。想着小孩们应该挺喜欢个性东西，买个便宜点的激光雕刻机给优盘壳子不知道能卖出去不。有没有必要搞包装么，怎么证明自己的不是扩容盘，希望大佬们指教。",
+          "link": "https://www.v2ex.com/t/781490",
+          "publishedOn": "2021-06-04T22:57:55.000Z",
+          "wordCount": 170,
+          "title": "diy 优盘去学校门口摆摊有必要激光刻字，包装么"
+        },
+        {
+          "id": "781489",
+          "author": "v2xeuser",
+          "description": "v2xeuser: \n大学是否有很多必须运行在 Windows 的软件？\n如果是的话那就没得选了\n能否克服？\n如果能克服的话还是想给他买 MacBook",
+          "link": "https://www.v2ex.com/t/781489",
+          "publishedOn": "2021-06-04T19:07:50.000Z",
+          "wordCount": 345,
+          "title": "高考马上结束了，需要送亲戚孩子笔记本，想问下现在 M1 芯片的 MacBook 能满足大学需求吗？我不是指性能。还是说最好还是买 Windows？"
+        },
+        {
+          "id": "781488",
+          "author": "lander",
+          "description": "lander: 如题，postgresql 数据库，开启了全量日志太多东西了，青椒下有无啥小技巧可以方便的根据前端请求找到对应的后端实际执行的 sql 语句？\n提前谢过！",
+          "link": "https://www.v2ex.com/t/781488",
+          "publishedOn": "2021-06-04T18:28:53.000Z",
+          "wordCount": 127,
+          "title": "如何根据前端请求找到对应的后端执行的 sql 语句？"
+        },
+        {
+          "id": "781487",
+          "author": "patrick1star",
+          "description": "patrick1star: 很多邮箱 app 在发件人后都会有下拉菜单“拒收该地址邮件”之类的，outlook 的找了一圈都没看到",
+          "link": "https://www.v2ex.com/t/781487",
+          "publishedOn": "2021-06-04T18:28:02.000Z",
+          "wordCount": 109,
+          "title": "outlook ios 端有拉黑或者拒收功能吗"
+        },
+        {
+          "id": "781486",
+          "author": "Mrzhs",
+          "description": "Mrzhs: \nRT，不是做网站，只是拿服务器跑流量，我用了 iptables 屏蔽了国外节点，但是无法下一些国外的东西",
+          "link": "https://www.v2ex.com/t/781486",
+          "publishedOn": "2021-06-04T18:20:49.000Z",
+          "wordCount": 220,
+          "title": "在对方可以拿到真实 Ip 的情况下，如何防御 ddos 攻击？"
+        },
+        {
+          "id": "781485",
+          "author": "mrco",
+          "description": "mrco: \n我买了个二手的 16 寸 MAC,有一点异响，所以想求证下：\n合上盖子，手捏 标注位置和盖子，会不会有咯吱咯吱的异响呢？",
+          "link": "https://www.v2ex.com/t/781485",
+          "publishedOn": "2021-06-04T17:57:05.000Z",
+          "wordCount": 152,
+          "title": "请帮忙确认 MAC 16 寸是否有异响，谢谢"
+        },
+        {
+          "id": "781482",
+          "author": "windowswind",
+          "description": "windowswind: \n配置如下：\niMac (Retina 5K, 27-inch, 2019)\n处理器 3.7 GHz 六核 Intel Core i5\n内存 24 GB 2667 MHz DDR4\n图形卡 Radeon Pro 580X 8 GB\n存储 512G ssd\n赠送一个妙控键盘\n2020 年初国行官网买的，原价 19999,无任何维修任何损坏，运行良好，外观九成新。\nMacBook Pro(15-inch,2017)\n处理器 2.8GHz 四核 i7\n内存 16G\n存储 256G ssd\n电池循环 161\n2018 年购于香港，原价 14000 左右，无任何维修损坏，运行良好，外观九成新。\n由于平时办公用公司电脑，这两款家用频率比较低，想置换新款 16 寸 MBP，故出。有意向带价联系 WX 5|9|7|1|1|9|9|1|9",
+          "link": "https://www.v2ex.com/t/781482",
+          "publishedOn": "2021-06-04T17:18:25.000Z",
+          "wordCount": 199,
+          "title": "出 27 寸 iMac 和 15 寸 MBP"
+        },
+        {
+          "id": "781480",
+          "author": "BigDogWang",
+          "description": "BigDogWang: \n我在写一个依赖本地数据库 app，一个界面需要加载并计算较多的数据，此时主线程会有卡顿，使用 isolate 的话因为在 isolate 中不能使用 platform channel （已知问题），导致无法使用数据库。所以现在只能在主线程硬卡。\n不知道有没有人遇到过这种问题，怎么解决的",
+          "link": "https://www.v2ex.com/t/781480",
+          "publishedOn": "2021-06-04T16:10:27.000Z",
+          "wordCount": 103,
+          "title": "请教一个关于 flutter 的多线程问题"
+        },
+        {
+          "id": "781478",
+          "author": "flamehaze",
+          "description": "flamehaze: \n以前没接触过这方面的内容，今天有个后端朋友问我，我也答不上\n想问问大家这方面有什么思路吗？",
+          "link": "https://www.v2ex.com/t/781478",
+          "publishedOn": "2021-06-04T15:58:13.000Z",
+          "wordCount": 108,
+          "title": "想问下大家仿站一般都是怎么做的？"
+        },
+        {
+          "id": "781477",
+          "author": "reachsky",
+          "description": "reachsky:",
+          "link": "https://www.v2ex.com/t/781477",
+          "publishedOn": "2021-06-04T15:56:50.000Z",
+          "wordCount": 181,
+          "title": "我想要实现去除掉一个文本中所有的非句首大写的单词，请问用正则表达式该如何写呢？\r\n所示例子如下： This story appears in the June/July in U.S.."
+        },
+        {
+          "id": "781476",
+          "author": "imtyz001",
+          "description": "imtyz001: \n将手机与 MagSafe 充电器连接, 进入“设置-通用-关于本机”, 下翻找到“Apple MagSafe Charger”, 点击进入查看当前固件版本, 已知有两种版本(171.0.0.0 与 174.0.0.0), 如为 171.0.0.0, 则可升级\n将 MagSafe 充电器连接 Mac, 在系统信息中查看 USB 设备,可在“USB 3.1 Bus”下看到“Apple MagSafe Charger”, 此时版本为 1.71\n等待数分钟, 中间可刷新系统信息, 当“Apple MagSafe Charger”消失时, 应是正在升级固件\n当刷新系统信息后“Apple MagSafe Charger”出现时, 点击查看版本, 此时应为 1.74\n以上升级过程使用的 Mac 为 MBP2018, Big Sur11.4.\n固件升级具体影响未知, 网上未见明显对比或讨论相关差异",
+          "link": "https://www.v2ex.com/t/781476",
+          "publishedOn": "2021-06-04T15:43:36.000Z",
+          "wordCount": 330,
+          "title": "MagSafe Charger ( iPhone ) 固件升级方式(需 Mac)"
+        },
+        {
+          "id": "781471",
+          "author": "lonelygod365",
+          "description": "lonelygod365: \n弱弱的问一下，一般数据库做了主从，那么应该是配置成实时同步还是异步？\n这个时间延迟会达到多少？  影响前端用户体验码？",
+          "link": "https://www.v2ex.com/t/781471",
+          "publishedOn": "2021-06-04T14:48:28.000Z",
+          "wordCount": 91,
+          "title": "数据库主从复制问题"
+        },
+        {
+          "id": "781470",
+          "author": "ling516",
+          "description": "ling516: \n修改网卡配置文件\nNOBOOT=no\nnone 也试了 不行",
+          "link": "https://www.v2ex.com/t/781470",
+          "publishedOn": "2021-06-04T14:42:19.000Z",
+          "wordCount": 153,
+          "title": "centos 系统如何永远禁止网卡随系统启动"
+        },
+        {
+          "id": "781469",
+          "author": "Spoter",
+          "description": "Spoter: 之前买了一个 k6 用在 macOS 上，感觉不错，于是又买了一个，想着放在家里给 windows 用， 没想到啊没想到。\nwindows 老是会出现蓝牙已连接，但是键盘无响应的情况，不知道是怎么回事，具体的情况如下:\n1.蓝牙适配器是绿联的，兼容蓝牙 5.1\n2.蓝牙驱动是 inter 最新版\n3.出现的场景是开机的时候，如果开机能输入，那就能输入，如果开机无响应，那就只能重启\n4.在 3 的基础上，通过软键盘登录，打开蓝牙页面后，发现已经连接了键盘，但就是无响应\n5.只能删除键盘，然后再重新添加；有时候还会出现无法添加，只能将键盘恢复出厂设置，重新连接\n6.问了客服，说 windows 建议有线连接，我靠。\n7.Google 了一圈，也没发现类似问题\n综上所述：\n1.有没有懂行的老哥，知道是啥原因，怎么修改\n2.有没有其他机械键盘推荐，68 键、蓝牙有线双模、办公用、",
+          "link": "https://www.v2ex.com/t/781469",
+          "publishedOn": "2021-06-04T14:36:49.000Z",
+          "wordCount": 143,
+          "title": "Keychron K6 Windows 蓝牙连接后无反应"
+        },
+        {
+          "id": "781468",
+          "author": "liuidetmks",
+          "description": "liuidetmks: \n最近买了一个销量很高的指纹锁装上了（牌子就不说了），\n说实话各种体验都挺好。很人性化。很赞，我都想买个蓝牙网关把它的功能都玩一玩。\n但是，（对，凡事就怕但是）\nif (INPUTSTRING.contains(realPsw){\n   openTheDoor （）\n}\n\n--\n这样不是可能存在漏洞让人通过内存嗅探到密码，当然单人单户可能不值得这么去破解，如果破解这一个型号的锁，应该也是有人做的吧。\n如果他是加密存储的密码，如果那么验证也太飞快了吧，每个不定长子串都加密或者 Hash 匹配一次，也是很大的次数吧。（应该超过多项式复杂度了吧）\n我目前知道的，防止人暴力枚举的方法是PBKDF2， 让每次尝试的时间成本很大，（当然对嵌入式设备，尤其是没插电的，可能有更省电的方式）而不是简单的程序判断错误次数超过阈值就休眠，因为这个内存中这个次数对于金手指来说是可编辑的。\n我当然知道这只是一个 1000 块的东西，可是安全问题，多考虑一下也没什么问题。\n由于本人所知有限，有错误的话，希望大家指正，谢谢。",
+          "link": "https://www.v2ex.com/t/781468",
+          "publishedOn": "2021-06-04T14:34:45.000Z",
+          "wordCount": 411,
+          "title": "由一个电子指纹锁想到的,难道指纹锁内部存储密码都是明文？"
+        },
+        {
+          "id": "781467",
+          "author": "zxCoder",
+          "description": "zxCoder: \n比如我想试一下某个 cmake 项目的安装，里面可能会在 linux 一些目录装很多东西，因为我对整个流程还不太熟悉，再加上有一点强迫症，不想让这些东西污染我的系统环境\n因为之前好像听说 docker 更多用于项目部署，而不是像虚拟机一样，开个容器再进去操作。",
+          "link": "https://www.v2ex.com/t/781467",
+          "publishedOn": "2021-06-04T14:25:51.000Z",
+          "wordCount": null,
+          "title": "快速创建一个 Linux 环境，可以用 docker 吗"
+        },
+        {
+          "id": "781466",
+          "author": "superliwei",
+          "description": "superliwei: \n没有设计师，只能自己上了，历时 2 天，终于做出这版设计，还挺满意。不得不说，做产品很艰辛，但很快乐！\n预览：",
+          "link": "https://www.v2ex.com/t/781466",
+          "publishedOn": "2021-06-04T14:21:29.000Z",
+          "wordCount": 176,
+          "title": "程序员做设计"
+        },
+        {
+          "id": "781465",
+          "author": "archiyuan",
+          "description": "archiyuan: \n想收个小米系手机体验 miui 。\n不在乎拍照、扬声器、防水、扬声器马达这些。\n只看重充电速度，屏幕素质，重量以及后续 miui 的升级优先度的话应该选择哪款机型呢。\n之前体验过 10s，对比 find x3，虽然只差了 15g，但是握在手上感觉差异特别大。",
+          "link": "https://www.v2ex.com/t/781465",
+          "publishedOn": "2021-06-04T14:09:36.000Z",
+          "wordCount": 334,
+          "title": "单纯想体验 miui 的话哪个机型合适？"
+        },
+        {
+          "id": "781464",
+          "author": "zuosiruan",
+          "description": "zuosiruan: \n苏州的工作地点。不知道发展怎么样。有了解的能说说吗？多谢",
+          "link": "https://www.v2ex.com/t/781464",
+          "publishedOn": "2021-06-04T13:56:03.000Z",
+          "wordCount": 134,
+          "title": "南京亚信有人了解吗？"
+        },
+        {
+          "id": "781463",
+          "author": "zhangyufei49",
+          "description": "zhangyufei49: 本人有 9 年的移动端跨平台开发经验。\n编程语言擅长：C++ 和 python 。\n其他语言可使用: lua/swift/java/OC/js\n可以自己独立做应用的客户端、服务端、web 前端\n行业上在音乐教育，数字乐器控制这个方向最多经验。懂乐理，能演奏一点乐器。\n还做过一些流媒体和 GIS 相关的检索工作。\n擅长问题攻关，工具开发。为人谦和有趣，沟通顺畅。\n之前一直在北京，但是北京最后一家单位破产解散了。\n和女友来到她老家深圳。\n音乐相关，自动驾驶是两个我最想做的行业。\n和金融相关的，加密货币这种是我不想做的（不知道为什么深圳这种单位超多）\n其他行业也都行。\n因为只有大专学历，这是硬伤。很难过许多简历筛选。这个是我不得不面对和接受的现实问题。\n有想过提升学历，但是目前还一直没有合适的时机。\n技术没有多厉害，但是确实一直能解决各种问题。经历过的每一家单位同事都对我有很好的评价。\n这里有我的简历，希望有合适的岗位 xdm 能帮忙内推内推。\naHR0cHM6Ly9waXBpLnBhZGFvLmZ1bi8lRTUlQkMlQTAlRTUlQUUlODclRTklQTMlOUUtQysrLSVFNCVCOCVBQSVFNCVCQSVCQSVFNyVBRSU4MCVFNSU4RSU4Ni5wZGYK",
+          "link": "https://www.v2ex.com/t/781463",
+          "publishedOn": "2021-06-04T13:55:47.000Z",
+          "wordCount": 103,
+          "title": "求一个深圳的 C++ 开发岗位"
+        },
+        {
+          "id": "781462",
+          "author": "eluotao",
+          "description": "eluotao: 买了 1 代、2 代两套产品。\n每套都是使用不足 3 年就基本很难使用了\n不是电池不给力 就是其中某一个耳机坏了\n不算高频使用，每周 1-2 次，每次不超过 3 小时。\n让我有点考虑还要不要再买新的了。",
+          "link": "https://www.v2ex.com/t/781462",
+          "publishedOn": "2021-06-04T13:55:11.000Z",
+          "wordCount": 121,
+          "title": "AirPods 使用寿命只有 3 年吗?"
+        },
+        {
+          "id": "781461",
+          "author": "yrui",
+          "description": "yrui: \n需要一名技术过硬的 5 年开发经验的技术总监（直接 boss 投简历吧）\n岗位职责：\n1 、负责公司前端技术架构和核心代码编写，不断优化产品性能。改善用户体验，完善前端技术基础组件、平台和开发流程规范，提升前端研发效率和质量。\n2 、负责产品线的服务端设计、开发，保证产品的快速迭代，负责技术平台和效率工具的开发，提升平台运营效率。\n岗位要求：\n1 、有 5 年以上开发经验，有扎实的技术基础，有较强的动手能力，有浓厚的技术热情。\n2 、精通 Java 、熟悉 Linux 环境、熟悉分布式框架微服务、常见的 MVC 框架、消息队列和数据库等中间件技术。\n3 、在业务高速增长的环境下，完成产品快速迭代开发需求，有过微信小程序、移动 APP 开发经验（必须）。\n4 、熟知 HTTP 协议、浏览器原理、熟悉 W3C 规范。\n5 、至少掌握两种开发语言\n6 、本岗位部门目前有两个后端、两个前端，工作内容后端开发为主，附带前端，以及开发组管理。\n公司介绍：\n深中青云谷智游（杭州）科技有限公司成立于 2020 年 11 月，注册资金 5000 万。公司目前拥有由阿里云、中青旅投资控股（深圳）有限公司、杭州云谷智游科技有限公司强强联手共同打造的智慧旅游平台——云谷智游。云谷智游依托于智能终端，以 Vlog 为入口，集成购物、检票、语音导游、虚拟导航、停车服务、旅行记录短视频、休闲、购物等功能为一体的智慧旅游平台，为每个游客提供旅行服务。\n优点：公司资源多项目挺好，业务快速增长，技术部氛围好，都很年轻很好相处，加班很少，每个月有 500 餐补，技术部一起吃饭\n缺点：初创团队，没有技术把关人，需要你要当技术总监",
+          "link": "https://www.v2ex.com/t/781461",
+          "publishedOn": "2021-06-04T13:51:13.000Z",
+          "wordCount": 1,
+          "title": "[杭州] 替公司发个招聘贴（招聘 Java 技术总监 20-40k*14 薪）"
+        },
+        {
+          "id": "781460",
+          "author": "treblex",
+          "description": "treblex: 之前没注意，还一直以为是美金的汇率，这个月扣款失败了才发现，选的是港币区\n手动付款可以解决，而且没有手续费，100 块钱余额留着应该会够用挺久了😂",
+          "link": "https://www.v2ex.com/t/781460",
+          "publishedOn": "2021-06-04T13:35:08.000Z",
+          "wordCount": 117,
+          "title": "google cloud 月结算账单只有 0.02 港币，结算的时候却扣了 8 块，好像是手续费？"
+        },
+        {
+          "id": "781459",
+          "author": "paranoiddemon",
+          "description": "paranoiddemon: 电脑的 edge，ie 都能打开 greasyfork，手机也能直接打开。只有 chrome 不行。\n感觉应该不是网络问题，是 chrome 的问题。尝试把 chrome 插件都关了，还是不行。\n有人知道还有哪些可能可以排查吗？",
+          "link": "https://www.v2ex.com/t/781459",
+          "publishedOn": "2021-06-04T13:33:15.000Z",
+          "wordCount": 115,
+          "title": "只有 chrome 打不开 greasyfork..."
+        },
+        {
+          "id": "781458",
+          "author": "shudongin",
+          "description": "shudongin: 300M 宽带，N2600，1g 内存，PT 下载 20 到 30M/s，负载经常 4 到 5 点几，如果这时候播放就会卡顿，是 cpu 还是硬盘不够啊？\n谢谢！",
+          "link": "https://www.v2ex.com/t/781458",
+          "publishedOn": "2021-06-04T13:21:54.000Z",
+          "wordCount": null,
+          "title": "PT 下载负载高，该升级硬盘还是 cpu 啊？"
+        },
+        {
+          "id": "781457",
+          "author": "mightofcode",
+          "description": "mightofcode: 所谓的企业级项目，无数个依赖包，老旧的包版本，版本互相冲突\n再加上 java 让人头晕的各种框架\n要命了",
+          "link": "https://www.v2ex.com/t/781457",
+          "publishedOn": "2021-06-04T12:58:51.000Z",
+          "wordCount": 260,
+          "title": "项目升级花了一天的时间解决各种冲突"
+        },
+        {
+          "id": "781454",
+          "author": "madNeal",
+          "description": "madNeal: \n一条狭窄的路，前面有骑自行车的人，后面的车不停地用远光灯闪我，停车等红绿灯的时候还故意开远光灯恶心我，这种人就没办法治嘛",
+          "link": "https://www.v2ex.com/t/781454",
+          "publishedOn": "2021-06-04T12:45:27.000Z",
+          "wordCount": 187,
+          "title": "开车远光灯"
+        },
+        {
+          "id": "781453",
+          "author": "fc191230",
+          "description": "fc191230: \n先谢过各位大佬！\n本机网络现状：在 WINDOWS 网络设置中添加了两个 IP，分别为 10.10.10.10 与 192.168.1.5\n设置方式： https://jingyan.baidu.com/article/60ccbceb05c64164cbb1974e.html\n需求：使用 10.10.10.10 访问指定网站。\n出现的问题： 使用 IE 直接访问目的网站，根据网站方反馈，收到的我的 IP 信息为 192.168.1.5\n由于不懂这一块，也请教了同事还是没有搞明白，所以想向 V 站老哥求助。/拜谢.jpg",
+          "link": "https://www.v2ex.com/t/781453",
+          "publishedOn": "2021-06-04T12:37:18.000Z",
+          "wordCount": 124,
+          "title": "求教：在本机有两个 IP 的情况下，如何实现使用指定 IP 访问指定地址？"
+        },
         {
           "id": "781266",
           "author": "DreamCMS",
@@ -5409,6 +5724,24 @@
       "siteUrl": "https://tech.meituan.com/feed/",
       "articles": [
         {
+          "id": "https://tech.meituan.com/2021/06/03/acl-2021-consert-bert.html",
+          "author": "美团技术团队",
+          "description": "尽管基于BERT的模型在NLP诸多下游任务中取得了成功，直接从BERT导出的句向量表示往往被约束在一个很小的区域内，表现出很高的相似度，因而难以直接用于文本语义匹配。为解决BERT原生句子表示这种“坍缩”现象，美团NLP中心知识图谱团队提出了基于对比学习的句子表示迁移方法——ConSERT，通过在目标领域的无监督语料上Fine-tune，使模型生成的句子表示与下游任务的数据分布更加适配。在句子语义匹配（STS）任务的实验结果显示，同等设置下ConSERT相比此前的SOTA（BERT-flow）大幅提升了8%，并且在少样本场景下仍表现出较强的性能提升。\n\n论文：《ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer》\n会议：ACL 2021\n下载链接：https://arxiv.org/abs/2105.11741\n开源代码：https://github.com/yym6472/ConSERT\n\n1. 背景\n句向量表示学习在自然语言处理（NLP）领域占据重要地位，许多NLP任务的成功离不开训练优质的句子表示向量。特别是在文本语义匹配（Semantic Textual Similarity）、文本向量检索（Dense Text Retrieval）等任务上，模型通过计算两个句子编码后的Embedding在表示空间的相似度来衡量这两个句子语义上的相关程度，从而决定其匹配分数。\n尽管基于BERT的模型在诸多NLP任务上取得了不错的性能（通过有监督的Fine-tune），但其自身导出的句向量（不经过Fine-tune，对所有词向量求平均）质量较低，甚至比不上Glove的结果，因而难以反映出两个句子的语义相似度$^\\text{[1][2][3][4]}$。我们在研究的过…",
+          "link": "https://tech.meituan.com/2021/06/03/acl-2021-consert-bert.html",
+          "publishedOn": "2021-06-03T00:00:00.000Z",
+          "wordCount": 551,
+          "title": "ACL 2021｜美团提出基于对比学习的文本表示模型，效果相比BERT-flow提升8%"
+        },
+        {
+          "id": "https://tech.meituan.com/2021/06/03/cvpr-transformer.html",
+          "author": "美团技术团队",
+          "description": "前言\n实例分割是计算机视觉中的基础问题之一。目前，静态图像中的实例分割业界已经进行了很多的研究，但是对视频的实例分割（Video Instance Segmentation，简称VIS）的研究却相对较少。而真实世界中的摄像头所接收的，无论是自动驾驶背景下车辆实时感知的周围场景，还是网络媒体中的长短视频，大多数都是视频流信息而非纯图像信息。因而研究对视频建模的模型有着十分重要的意义，本文系美团无人配送团队在CVPR2021发表的一篇Oral论文: 《End-to-End Video Instance Segmentation with Transformers》的解读。本届CVPR大会共收到7015篇有效投稿，最终共1663篇论文被接收，论文录用率为23.7%，Oral的录用率仅为4%。\n背景\n图像的实例分割指的是对静态图像中感兴趣的物体进行检测和分割的任务。视频是包含多帧图像的信息载体，相对于静态图像来说，视频的信息更为丰富，因而建模也更为复杂。不同于静态图像仅含有空间的信息，视频同时含有时间维度的信息，因而更接近对真实世界的刻画。其中，视频的实例分割指的是对视频中感兴趣的物体进行检测、分割和跟踪的任务。如图1所示，第一行为给定视频的多帧图像序列，第二行为视频实例分割的结果，其中相同颜色对应同一个实例。视频实例分割不光要对单帧图像中的物体进行检测和分割，而且要在多帧的维度下找到每个物体的对应关系，即对其进行关联和跟踪。\n\n相关工作\n现有的视频实例分割算法通常为包含多模块、多阶段的复杂流程。最早的Mask Track R-CNN[1]算法同时包含实例分割和跟踪两个模块，通过在图像实例分割算法Mask R-CNN[2]的网络之上增加一个跟踪的分支实现，该分支主要用于实例特征的提取。在预测阶段，该方法利用外部Memory模块进行多帧实例特征的存储，并将该特征作为实例关联的一个要素…",
+          "link": "https://tech.meituan.com/2021/06/03/cvpr-transformer.html",
+          "publishedOn": "2021-06-03T00:00:00.000Z",
+          "wordCount": 142,
+          "title": "CVPR 2021 | 基于Transformer的端到端视频实例分割方法"
+        },
+        {
           "id": "https://tech.meituan.com/2021/05/30/2021-5-30.html",
           "author": "美团技术团队",
           "description": "你因科技而精彩，科技因你而腾飞。",
@@ -5461,15 +5794,6 @@
           "publishedOn": "2021-05-13T00:00:00.000Z",
           "wordCount": 88,
           "title": "算法平台在线服务体系的演进与实践"
-        },
-        {
-          "id": "https://tech.meituan.com/2021/05/06/bff-graphql.html",
-          "author": "美团技术团队",
-          "description": "1 BFF的由来\nBFF一词来自Sam Newman的一篇博文《Pattern:Backends For Frontends》，指的是服务于前端的后端。BFF是解决什么问题的呢？据原文描述，随着移动互联网的兴起，原适应于桌面Web的服务端功能希望同时提供给移动App使用，而在这个过程中存在这样的问题：\n\n移动App和桌面Web在UI部分存在差异。\n移动App涉及不同的端，不仅有iOS、还有Android，这些不同端的UI之间存在差异。\n原有后端功能和桌面Web UI之间已经存在了较大的耦合。\n\n因为端的差异性存在，服务端的功能要针对端的差异进行适配和裁剪，而服务端的业务功能本身是相对单一的，这就产生了一个矛盾——服务端的单一业务功能和端的差异性诉求之间的矛盾。那么这个问题怎么解决呢？这也是文章的副标题所描述的”Single-purpose Edge Services for UIs and external parties”，引入BFF，由BFF来针对多端差异做适配，这也是目前业界广泛使用的一种模式。\n\n在实际业务的实践中，导致这种端差异性的原因有很多，有技术的原因，也有业务的原因。比如，用户的客户端是And…",
-          "link": "https://tech.meituan.com/2021/05/06/bff-graphql.html",
-          "publishedOn": "2021-05-06T00:00:00.000Z",
-          "wordCount": 129,
-          "title": "GraphQL及元数据驱动架构在后端BFF中的实践"
         }
       ]
     }

@@ -452,6 +452,348 @@
       "siteUrl": "https://www.v2ex.com/",
       "articles": [
         {
+          "id": "781771",
+          "author": "Flowing",
+          "description": "Flowing: \n给父母用\n价格：2000 以内\n要求：拍照好一些，使用方便些。Android 手机。",
+          "link": "https://www.v2ex.com/t/781771",
+          "publishedOn": "2021-06-06T17:04:45.000Z",
+          "wordCount": 190,
+          "title": "618，求推荐手机，最近有什么优惠吗"
+        },
+        {
+          "id": "781770",
+          "author": "jkwc",
+          "description": "jkwc: \n求推荐一款可以直接贴楼道墙上用 WiFi 看门口的摄象头，下次再丢快递就方便找了…\n不需要频繁换电池…平时有人敲门也可以实时看到…出于安全考虑如果能禁用外网访问更好（仅内网查看储存）…\n预算几百吧…不知道有没有合适的…谢谢",
+          "link": "https://www.v2ex.com/t/781770",
+          "publishedOn": "2021-06-06T17:03:00.000Z",
+          "wordCount": null,
+          "title": "迫于快递丢了，求推荐免插电摄象头"
+        },
+        {
+          "id": "781769",
+          "author": "lonelygod365",
+          "description": "lonelygod365: \n请问在 mysql 做了读写分离，且加入了缓存机制的拓扑里，缓存部分应该是单台服务器还是多台？ 是一个多台组成的集群吗？ 如果是多台，那客户端请求如何快速判断想要的读数据是否在某个缓存服务器上呢？",
+          "link": "https://www.v2ex.com/t/781769",
+          "publishedOn": "2021-06-06T17:01:29.000Z",
+          "wordCount": 110,
+          "title": "数据库缓存问题"
+        },
+        {
+          "id": "781768",
+          "author": "israinbow",
+          "description": "israinbow: Starting namenodes on [hostname]\nhostname: /hadoop-3.2.2/bin/../libexec/hadoop-functions.sh: line 1848: /tmp/hadoop-admin-namenode.pid: Permission denied\nhostname: ERROR:  Cannot write namenode pid /tmp/hadoop-admin-namenode.pid.\n无法创建 pid, 导致 stop-dfs 无法关闭 namenode, 但是 jps 还能看到 namenode 的进程号, 于是乎 kill 命令关闭, 隔壁 yarn 也无法创建 pid, 但是 stop-yarn 却能关掉\n网上冲浪一圈也没找到答案, 故来此地提问\n细节:\nhadoop3.2.2 centos8 stream\n执行 start-dfs 的是普通管理员账户\n集群运行没问题, 文件操作没问题, yarn 跑着也没问题.\n需要附加信息请直接问, 介于当前时间深夜所以回复要到白天了, 请谅解.",
+          "link": "https://www.v2ex.com/t/781768",
+          "publishedOn": "2021-06-06T16:56:17.000Z",
+          "wordCount": 168,
+          "title": "提问, hadoop namenode 启动无法创建进程 id"
+        },
+        {
+          "id": "781767",
+          "author": "jsdi",
+          "description": "jsdi: 有谁知道 Jme_ter 压力测试 TPS 一直上不去的原因是什么吗？\n一个秒杀项目，对秒杀接口做压测\nTPS 一直维持在几百，按理说不应该呀。我优化的应该还可以了，这个请求没有从 MYSQL 查询任何数据，先从 redis 查看是否有剩余库存，有的话订单信息压入消息队列，不需要等消息被消费，直接响应 ”排队中“。\n怎么看效率都不低吧，怎么 TPS 一直上不去\n目前的想法是和网络带宽 或者 测试方法 有关，但是不知道怎么优化。有大神指定一下吗！谢谢",
+          "link": "https://www.v2ex.com/t/781767",
+          "publishedOn": "2021-06-06T16:30:16.000Z",
+          "wordCount": 135,
+          "title": "求指教！ Jme_ter 压力测试 TPS 一直上不去的原因是什么？"
+        },
+        {
+          "id": "781766",
+          "author": "hoar",
+          "description": "hoar: \n先说结论（重点）：\n1 、外接显示器一定要选择物理分辨率 4K 以上，16：9 的显示器，这样才会开启 HIDPI，显示的字体效果才会接近原本的 mac 屏幕。否则要么字体模糊要么字体小到你看花眼。2 、如果显示器只有 HDMI 接口的选择 4K60HZ 的转接头。预算充足可以选择自带 typec 反向充电的显示器\n楼主踩坑过程：\n今年 3 月为了写代码更有效率，考虑买个 AOC 的某型号带鱼屏。看中的原因是带 typec 反向充电，接口相当齐全。以前连接的显示器还需要加一个 C to hdmi 转接头，索性换了。到手了之后第一次傻眼，不是商品描述写的 4k 带鱼屏吗，结果定睛一看是 准 4k 3440 1440 分辨率， 不过好在 github 上有强制开启 hidpi 分辨率的脚本，我 2017mbp 用一段时间还不错。直到我换了 M1 mbp，彻底傻眼，无法开启 HIDPI，原始分辨率真的眼睛看花，而且也有无法识别显示器无法输出 RGB 的情况。无奈抱着侥幸的心理挂在小黄鱼上看有没有人收，运气比较好，被同城一个哥们买走了，比买的时候少了 600，能接受。今日下单了 LG 27UL850，这下应该就没有问题了。\n显示器推荐：\nLG 的 4k 显示器，从 1500 到 4000 这个区间，最具性价比的应该是 UL650，缺点是少了 typeC 接口。UL850 跟它参数差不多，但多了 typec，价格却贵了不少，我给 V 友推荐的就这两个吧，其他的显示器品牌不甚了解，lg 毕竟是官方推荐。杂牌 4k 可能 M 系列芯片会有识别不出的情况，因为跟 intel 版本的驱动是不一样的，不知后续会不会更改。当然，自家的显示器是支持最好的，不差钱儿直接上 ultrafine 5k 或 pro xdr display 。",
+          "link": "https://www.v2ex.com/t/781766",
+          "publishedOn": "2021-06-06T16:13:24.000Z",
+          "wordCount": 303,
+          "title": "Mac 外接显示器避坑指南"
+        },
+        {
+          "id": "781765",
+          "author": "bhc003",
+          "description": "bhc003: 看到官方翻新的机器比全新要便宜很多，但不了解具体的使用情况，请有过经历的兄台分享下。另外，Apple 官方虽然只承诺 1 年的质保，但站在三包法的角度，计算机产品包含一年质保及主要部件两年保证，对于翻新设备是否涉及？\n虽然 M1 加持的电脑上市一段时间，铺天盖地的评测视频对 M1 的性能跑分赞不绝口，但我对 M1 的态度还是忐忑不安，毕竟全新的设计，经过市场的验证的时间还很短暂，此芯片也并未走完其整个生命周期，仍对它抱有不确定的认知。所以，我还会对英特尔的芯片心驰神往，也在我更新迭代的考虑中，毕竟目前仅作伏案使用，并不涉及编程或设计类等占用大量系统资源的操作。\n如果可以，也请用过 M1 设备的兄台，谈谈使用感受，是否在使用中遇到软硬件、体验等不尽人意的情况。",
+          "link": "https://www.v2ex.com/t/781765",
+          "publishedOn": "2021-06-06T16:06:44.000Z",
+          "wordCount": 209,
+          "title": "Apple 官翻的电脑实际的产品质量、性能、体验怎么样？"
+        },
+        {
+          "id": "781764",
+          "author": "gkinxin",
+          "description": "gkinxin:  [位置] 最好是以下小区->卸紫家园、秀里华亭附近、蒋村地铁口附近、中海西溪华府附近、德翠公寓附近\n [预算]  3500 以内\n [入住时间]  20 号左右\n [房间要求] 两室一厅\n [长租短租] 长租\n\n不要是中介，有房源的朋友留个绿色软件。",
+          "link": "https://www.v2ex.com/t/781764",
+          "publishedOn": "2021-06-06T16:03:47.000Z",
+          "wordCount": 112,
+          "title": "三墩附近求租，想要租个两室一厅的"
+        },
+        {
+          "id": "781761",
+          "author": "Co1a",
+          "description": "Co1a: \n学习\n在读什么\n深入理解计算机系统30%\n计算机网络：自顶向下 40%\n高性能 MySQL              20%\n分布式系统概念与设计 5%\n深入理解 Linux 内核     5%\n在看什么\n#115\n在做什么\nPingCAP Talent Project 路径（一）完成了 50%\nHackerRank\nSubmissions：55\nSQL(Basic)\nGo(Basic)\nLeetCode\nPuzzle：63\n工作\n数据采集模块爬虫开发、测试、优化\n数据库存储过程调优、编写、测试\n后端逻辑实现、测试、优化\n少量前端页面编写\n截止到 6 月初，累计工作了526个小时，总收入10,501CNY 。\n总结\n好难",
+          "link": "https://www.v2ex.com/t/781761",
+          "publishedOn": "2021-06-06T15:41:45.000Z",
+          "wordCount": 169,
+          "title": "个人深圳实习三个月数据统计"
+        },
+        {
+          "id": "781759",
+          "author": "hanliu",
+          "description": "hanliu: \n其实是 MBP2018，抹盘重装最新系统。\n在设置里打开了 iCloud 的文稿和桌面。访达的侧边栏也出现了文稿和桌面。但是，iCloud 里一直是空白的，啥都没有。看起来没有开始同步。\n有彭于晏知道是咋回事吗？可以强制开始同步吗？\nps，照片倒是已经同步了； nsurlsessiond 这个进程一直在下载，好像是 iCloud 相关的进程，它在干啥？",
+          "link": "https://www.v2ex.com/t/781759",
+          "publishedOn": "2021-06-06T15:23:38.000Z",
+          "wordCount": 207,
+          "title": "求助！新 Mac 的 iCloud 不同步"
+        },
+        {
+          "id": "781758",
+          "author": "exc",
+          "description": "exc:",
+          "link": "https://www.v2ex.com/t/781758",
+          "publishedOn": "2021-06-06T15:23:16.000Z",
+          "wordCount": 90,
+          "title": "SerenityOS 这个操作系统看起来不错哈"
+        },
+        {
+          "id": "781756",
+          "author": "moonkiller",
+          "description": "moonkiller: 1.发现异常\n今天用 iPhone 下载一个之前下载过的 App 时\n让我重新输入密码（记得之前下载过的 App 时只需要指纹验证就行啊）\n然后我输了两遍密码都不对\n打开电脑访问 iCloud 官网\n尝试登录 iCloud，还是提示我密码错误\n\n2.尝试找回，正常流程失败\n于是点击到找回密码界面，准备找回密码\n结果没成功，输入账户后，iCloud 只是模糊提示我“暂时无法完成”\n\n3.在邮件里找回了密码\n赶紧打开了自己邮箱搜索了下\n发现上周五有一封 iCloud 密码已更改的邮件\n里面有个链接说如果不是本人修改，可以点击申诉\n于是从邮件里的链接点进去重新设置了密码\n登录 iCloud 发现头像好像变了（是个美女头像？），但之前也不关注头像，这点不太确定\n\n4.复盘问题\n我的 Apple ID 明明开启了双重认证\n这个在我找回密码后已经再次确认了（登录网页 iCloud 时需要我再输入 6 位验证码）\n\n那么我的 Apple ID 密码是怎么被篡改的密码？\n修改 Apple ID 密码时不需要邮箱验证码或者二次验证吗？\n\n我自己猜测可能泄露的途径：\na.之前维修手机时，告诉过别人 Apple ID 密码\nb.chrome 浏览器一直记录了登录密码\nc.iPhone 越狱了\nd.iPhone 上安装了第三方的应用市场（比如爱思助手）\n\n而且篡改我 Apple ID 密码目的是什么？\n如果只是偷盗数据，登录转移不就行了？\n看了下也没有锁我的设备，\n我还需要检查哪些安全隐患？",
+          "link": "https://www.v2ex.com/t/781756",
+          "publishedOn": "2021-06-06T15:13:32.000Z",
+          "wordCount": 330,
+          "title": "开启了双重认证， Apple ID 被篡改密码？"
+        },
+        {
+          "id": "781754",
+          "author": "ZRS",
+          "description": "ZRS: \n方法来自：\nhttps://www.youtube.com/watch?v=Z1EqH3fd0V4\n简单总结如下：\n1 、打开/Library/Preferences/，找到com.apple.windowserver.displays.plist文件。\n2 、将该文件复制出来，使用以下命令将 binary 格式转换成 xml 格式供编辑。\n$plutil -convert xml1 com.apple.windowserver.displays.plist\n\n3 、在文件中寻找所有PixelEncoding将值改为0，Range改为1。\n\n4 、保存文件，使用以下命令将 xml 格式转换回 binary 格式，并检查文件的合法性。\n$plutil -convert binary com.apple.windowserver.displays.plist\n\n$plutil -lint com.apple.windowserver.displays.plist\n\n5 、寻找以下文件夹中是否存在以com.apple.windowserver.displays开头的文件，如果有则删除。\n~/Library/Preferences/\n~/Library/Preferences/ByHost\n\n6 、重启就可以使用 RGB 模式输出了。",
+          "link": "https://www.v2ex.com/t/781754",
+          "publishedOn": "2021-06-06T15:03:49.000Z",
+          "wordCount": 302,
+          "title": "分享一个 M1 Mac 在 DELL 显示器上启用 RGB 模式的方法"
+        },
+        {
+          "id": "781753",
+          "author": "haoxingxing",
+          "description": "haoxingxing: \nIPv6 访问超时\n~$ curl https://www.zhihu.com -v --ipv6\n*   Trying 240e:978:5404:0:35:::443...\n* TCP_NODELAY set\n* Connected to www.zhihu.com (240e:978:5404:0:35::) port 443 (#0)\n* ALPN, offering h2\n* ALPN, offering http/1.1\n* successfully set certificate verify locations:\n*   CAfile: /etc/ssl/certs/ca-certificates.crt\n  CApath: /etc/ssl/certs\n* TLSv1.3 (OUT), TLS handshake, Client hello (1):\n（无响应）\n\n~$ curl https://www.zhihu.com -v --ipv6 --tls-max 1.2\n*   Trying 240e:978:5404:0:38:::443...\n* TCP_NODELAY set\n* Connected to www.zhihu.com (240e:978:5404:0:38::) port 443 (#0)\n* ALPN, offering h2\n* ALPN, offering http/1.1\n* successfully set certificate verify locations:\n*   CAfile: /etc/ssl/certs/ca-certificates.crt\n  CApath: /etc/ssl/certs\n* TLSv1.2 (OUT), TLS handshake, Client hello …",
+          "link": "https://www.v2ex.com/t/781753",
+          "publishedOn": "2021-06-06T14:56:39.000Z",
+          "wordCount": 702,
+          "title": "江苏电信宽带 知乎 ipv6 tls 连接超时"
+        },
+        {
+          "id": "781752",
+          "author": "ghmum",
+          "description": "ghmum: 之前写了一个脚本在服务器上监控网页，想通过短信通知自己，在 V2EX 问，被推荐使用 bark，试用了一下感觉非常好用\n但今天发现访问推送的链接，发出请求后没有响应，ping 服务器也超时，而且手机也没有收到推送，然后发现因为这个错过了监控的网页的一个信息\n请问一下，bark 的服务器很不稳定吗？会时常出现这种无法访问的情况吗",
+          "link": "https://www.v2ex.com/t/781752",
+          "publishedOn": "2021-06-06T14:49:38.000Z",
+          "wordCount": 156,
+          "title": "请问： ios 里的 bark 推送服务器很不稳定吗？"
+        },
+        {
+          "id": "781750",
+          "author": "shadowfish0",
+          "description": "shadowfish0: \n比如现在有一个功能，是要发个邮件，那前端应该是通过接口把这个请求给后端，但是肯定要进行一下鉴权吧，不然随便谁通过接口都可以发邮件，我现在就用的私钥+timestamp md5 加密的办法来做这个鉴权，但是前端密钥都是明文给出的，又感觉不太安全",
+          "link": "https://www.v2ex.com/t/781750",
+          "publishedOn": "2021-06-06T14:33:01.000Z",
+          "wordCount": 181,
+          "title": "请问前端怎么保护接口密钥？"
+        },
+        {
+          "id": "781749",
+          "author": "zealinux",
+          "description": "zealinux: \n主要是甲方只给了一个登录账号，绑定我的手机，每次登录会有短信验证码。\n但使用这个账号是公司其他几个同事。\n那么有办法，让 iMessage 某个号码的短信自动转发到公司几个同事的邮箱？",
+          "link": "https://www.v2ex.com/t/781749",
+          "publishedOn": "2021-06-06T14:22:38.000Z",
+          "wordCount": 177,
+          "title": "有没有 Mac 的监控系统，监控到有某个短信（iMessage）则自动转发发到邮箱"
+        },
+        {
+          "id": "781746",
+          "author": "littlewing",
+          "description": "littlewing: 一直都是用 type-c 线直接连接显示器，应该是走的 DP，今天机器负载高风扇转得比较快，同时显示器黑屏了几次，下午再用的时候，就再也没画面了\n用 HDMI 连接正常，用 type-c 就没信号，开机 BIOS 也不显示\n之前在小黄鱼买的，也没发票，不知道能不能找 intel 保修，序列号查了下保修到明年 8 月",
+          "link": "https://www.v2ex.com/t/781746",
+          "publishedOn": "2021-06-06T13:39:04.000Z",
+          "wordCount": null,
+          "title": "NUC8i5BEH type-c 坏了"
+        },
+        {
+          "id": "781745",
+          "author": "wdssmq",
+          "description": "wdssmq: \n还有「 DCIM.tmfs 」",
+          "link": "https://www.v2ex.com/t/781745",
+          "publishedOn": "2021-06-06T13:38:15.000Z",
+          "wordCount": null,
+          "title": "手机 DCIM\\.qqpim_guid 目录是啥作为？"
+        },
+        {
+          "id": "781744",
+          "author": "soroslee",
+          "description": "soroslee: 产品经理，解决方案顾问，前后端研发、测试，hc 多多，有意者请发送个人简历到 280432760@qq.com ，邮件中注明 V2EX 内推。\n北京 上海 深圳办公，具体看岗位安排",
+          "link": "https://www.v2ex.com/t/781744",
+          "publishedOn": "2021-06-06T13:33:02.000Z",
+          "wordCount": 131,
+          "title": "平安集团 HRX 团队招聘"
+        },
+        {
+          "id": "781743",
+          "author": "ottawa8821",
+          "description": "ottawa8821: \n功能讨论：为什么苹果不做一个 iphone 可以投屏到 macbook 笔记本上？\n搜了网上几个方案，一个是用数据线➕quicktime(额，这个方案我没有实现成功，没有获取到来源)\n另一个是用第三方 app：airserver，试用了之后，发现 iphone,macbook 上色域完全不一样（ iphone 上好一点，可能也是硬件不同，iphone 的 ppi 本来就高）\n哈哈，最后说下为啥有这个需求呢，其实本人是韩剧爱好者，需要用韩剧 tv （手机 app ）看韩剧，有弹幕，喜欢在稍微大点的屏幕观看，所以才会有此功能（投屏）需求。\n顺带问下，目前还有其他投屏方案吗？苹果不加此功能的原因会是啥？",
+          "link": "https://www.v2ex.com/t/781743",
+          "publishedOn": "2021-06-06T13:23:05.000Z",
+          "wordCount": 732,
+          "title": "iPhone 为什么不能直接投屏到 MacBook 上?"
+        },
+        {
+          "id": "781741",
+          "author": "MuseA5",
+          "description": "MuseA5: 主要会设计到 crypto, sql/xss, web security 之类的. 有意向的麻烦联系 Telegram: @MuseA_5",
+          "link": "https://www.v2ex.com/t/781741",
+          "publishedOn": "2021-06-06T12:55:41.000Z",
+          "wordCount": 162,
+          "title": "有偿找个老哥辅导网络安全"
+        },
+        {
+          "id": "781740",
+          "author": "qiayue",
+          "description": "qiayue: 摘要卡 card.nali.net \n\n目前只实现了点击选择段落，后面会实现自由选择任意文字。\n效果示例：\n\n使用场景：\n分享某个文章中的某些段落到朋友圈，\n写公众号文章时引用公众号文章段落。\n\n复制工具地址 card.nali.net 或者扫码即可使用\n\n欢迎提出使用意见",
+          "link": "https://www.v2ex.com/t/781740",
+          "publishedOn": "2021-06-06T12:54:07.000Z",
+          "wordCount": 116,
+          "title": "一个方便摘录公众号文章段落生成分享卡片的小工具"
+        },
+        {
+          "id": "781739",
+          "author": "MrCurly",
+          "description": "MrCurly: \n发现 ipad 和 mac 上的地图显示国内的细节特别少，放大到街上都不显示街边的店，基本只显示路名，其他国家就正常显示建筑物信息。iPhone 上就可以正常显示，这是国内有什么规定么？",
+          "link": "https://www.v2ex.com/t/781739",
+          "publishedOn": "2021-06-06T12:51:34.000Z",
+          "wordCount": 193,
+          "title": "mac 和 iPad 地图显示国内细节过少"
+        },
+        {
+          "id": "781738",
+          "author": "Orciorc",
+          "description": "Orciorc: \n目前在做一个关于语音通话的项目，初步选定 Mumble 作为基础。\n（其开源地址为 https://github.com/mumble-voip/mumble ）\n关于客户端，希望将客户端用于树莓派之类的开发版上，故选用 CLI 化的客户端。目前测试了barnard，不得不说，很久未更新的项目坑就是多，经多次调试 microphone 不工作，对方无法听到声音（不是硬件问题，使用 sox 测试耳麦正常）……\n有老哥接触过相关项目吗？",
+          "link": "https://www.v2ex.com/t/781738",
+          "publishedOn": "2021-06-06T12:36:21.000Z",
+          "wordCount": 152,
+          "title": "Mumble（开源的 VOIP 项目）客户端的选择"
+        },
+        {
+          "id": "781737",
+          "author": "movq",
+          "description": "movq: \n这样的话导出笔记体验很不好，我不可能手动“Tap to view highlight in the book”，然后把原文复制出来",
+          "link": "https://www.v2ex.com/t/781737",
+          "publishedOn": "2021-06-06T12:32:30.000Z",
+          "wordCount": null,
+          "title": "Kindle 导出的个人笔记为什么有的是直接显示原文，有的是显示“点击以显示原文”"
+        },
+        {
+          "id": "781735",
+          "author": "zxCoder",
+          "description": "zxCoder: \n比较稳定\n（有问题能找到比较多解决方案的",
+          "link": "https://www.v2ex.com/t/781735",
+          "publishedOn": "2021-06-06T12:14:58.000Z",
+          "wordCount": 1,
+          "title": "请问目前主流的前端数据可视化框架有什么"
+        },
+        {
+          "id": "781734",
+          "author": "spdanny",
+          "description": "spdanny: \n求职 UI 设计\n个人作品链接： https://www.zcool.com.cn/work/ZNTI1ODE0MjQ=.html\n求勾搭 qaq",
+          "link": "https://www.v2ex.com/t/781734",
+          "publishedOn": "2021-06-06T12:11:22.000Z",
+          "wordCount": 120,
+          "title": "坐标深圳，四年工作经验，求职 UI 设计～～"
+        },
+        {
+          "id": "781733",
+          "author": "kevinsnow",
+          "description": "kevinsnow: \nMac mini m1, big sur 11.4，用的 Logitech C922\n用 FaceTime 和其他 APP 的时候都可以，只是微信识别不了，之前好像还可以，不知道什么时间开始就不行了。。重装了好多次微信都不行，有没有人遇到一样的问题的？\n\n一直是按照上面的显示，不知道为啥。已经在权限那边把微信使用摄像头打钩了。",
+          "link": "https://www.v2ex.com/t/781733",
+          "publishedOn": "2021-06-06T12:06:30.000Z",
+          "wordCount": 308,
+          "title": "Mac mini m1 用微信的时候总是识别不了摄像头"
+        },
+        {
+          "id": "781732",
+          "author": "isChange",
+          "description": "isChange:",
+          "link": "https://www.v2ex.com/t/781732",
+          "publishedOn": "2021-06-06T11:58:35.000Z",
+          "wordCount": 107,
+          "title": "有个已实名的阿里云国际版账户，有对应的注册邮箱，余额大概 2700 刀，有有兴趣的朋友吗？公司停摆不打算使用了。"
+        },
+        {
+          "id": "781731",
+          "author": "raaaaaar",
+          "description": "raaaaaar: \n前提\n后端\nGo 语言\n在校学生，还没有接触到具体的公司规范，但是在学校里一个还不错的技术部门里体验了两年。\n问题\n建表是提前在程序运行前就建立好吗？还是直接在程序中初始化？\n最近开始用到了数据库设计工具，提前设计好了后直接就生成 SQL 了，所以我想知道，你们是提前就把表初始化了，还是在运行时初始化呢？\n如果提前建立好，怎么自动化这个过程呢？\n经常会有线上 BUG，要重新初始化数据库，那么怎么自动化呢？直接让运维写个脚本，然后到时候 call 他让他重启吗？\n你们在开发过程中，会写数据库的设计文档吗？\n如果要写的话，是用的什么工具来管理的呢？",
+          "link": "https://www.v2ex.com/t/781731",
+          "publishedOn": "2021-06-06T11:53:46.000Z",
+          "wordCount": 268,
+          "title": "在公司项目开发中，数据库是怎么管理的？"
+        },
+        {
+          "id": "781730",
+          "author": "jsdi",
+          "description": "jsdi: 最近在设计一个秒杀系统。秒杀操作的执行逻辑是：\n1 、从 redis 中读取当前秒杀商品的剩余库存（因为 redis 是单线程的，这里不会产生并发问题）\n2 、如果库存大于 0，把秒杀请求存进 rabbitmq 消息队列，保证 rabbitmq 中的每个请求都会被成功消费（生成订单）。也就是如果有 100 个秒杀商品，那么消息队列中只会有 100 个秒杀请求。\n3 、如果库存小于 0，直接返回秒杀结束\n这样设计有没有问题？针对秒杀减库存下订单这个操作又没有更好的解决方案？",
+          "link": "https://www.v2ex.com/t/781730",
+          "publishedOn": "2021-06-06T11:50:03.000Z",
+          "wordCount": null,
+          "title": "各位大佬看看我这个思路有没有有没有问题"
+        },
+        {
+          "id": "781728",
+          "author": "jaslip",
+          "description": "jaslip: \n简介\n坐标深圳，ASML 的仿真软件子公司。\n欧洲外企，不用 996， 氛围比较和谐，各种福利齐全，还有补充医疗报销。非常遵守国家法规，国家假没休折算三倍工资， 加班费都照常给。\n工作职责\n算法岗做仿真算法，比较专业的领域，有同事带。前同事被华为高价挖走了，才有新的坑。\n普通开发岗主要 qt 做前端界面\n要求\n熟悉 Linux 的 C++开发 ，有图形学，cuda，分布式架构相关经验更好。\n社招 3-5 年 以及 校招均可\n联系方式\n负责推荐，不是 HR，有兴趣我可以直接发 JD\n278528220@qq.com 简历写明应聘职位。",
+          "link": "https://www.v2ex.com/t/781728",
+          "publishedOn": "2021-06-06T11:22:15.000Z",
+          "wordCount": 202,
+          "title": "[深圳] EDA 软件 Linux C++ 算法&开发"
+        },
+        {
+          "id": "781727",
+          "author": "daxiami",
+          "description": "daxiami: \n天翼的机器，全场 3 折,代付\nV：vps12580\n活动地址\nhttps://www.ctyun.cn/h5/activity/enterprise/business\n有需要的大佬，可以联系，也可来代理。\n2020 年 8 月之后注册的用户都能参加购买，不限制企业和新老用户。\n有 1 年和 3 年，代付，具体联系 V 。",
+          "link": "https://www.v2ex.com/t/781727",
+          "publishedOn": "2021-06-06T11:17:09.000Z",
+          "wordCount": 211,
+          "title": "1 核 2G1M 一年 26，全场 3 折"
+        },
+        {
+          "id": "781726",
+          "author": "way2explore2",
+          "description": "way2explore2: 因为近几年的面试，算法都没问过，所以有好多东西要准备。\n而且，其实很想尽快离开现在公司，但听说亚马逊面试周期很长。 :(",
+          "link": "https://www.v2ex.com/t/781726",
+          "publishedOn": "2021-06-06T10:58:35.000Z",
+          "wordCount": null,
+          "title": "这周就要面亚马逊了？有点慌，有前辈的经验在这分享吗？"
+        },
+        {
+          "id": "781725",
+          "author": "SonicMaster",
+          "description": "SonicMaster: \n一直很想在 V2EX 上发这个帖子，本人热爱独立音乐，坐标上海，平常喜欢去各大小 livehouse，也参加过一些音乐节，都说毕业工作后可能人便迫于生活压力以及没有时间去做自己喜欢的事情了，但我恰恰相反可能我是一个理想主义者（ infp 型人格），因为我觉得可能或许有一天我就没这个动力了或是不再喜欢去现场感受音乐的魅力了，所以我想趁自己还愿意去寻找自己的乌托邦就还继续冲一下迷笛音乐节。发这帖子的目的可能是想要阐述独立音乐或是说摇滚乐给我带来了些什么或是碰碰运气结交一些也热爱独立音乐或是摇滚乐的朋友。欢迎大家留言，或是聊聊你喜欢的音乐人或是乐队。",
+          "link": "https://www.v2ex.com/t/781725",
+          "publishedOn": "2021-06-06T10:51:23.000Z",
+          "wordCount": 177,
+          "title": "有人要去溧阳迷笛音乐节吗？"
+        },
+        {
+          "id": "781724",
+          "author": "waytoshine",
+          "description": "waytoshine: \n六年前的笔记本要退役了",
+          "link": "https://www.v2ex.com/t/781724",
+          "publishedOn": "2021-06-06T10:28:12.000Z",
+          "wordCount": null,
+          "title": "有 V 友有联想的渠道吗，想买个联想小新 Pro16 RTX3050 版的"
+        },
+        {
+          "id": "781723",
+          "author": "drunkdog",
+          "description": "drunkdog: 前几天车追尾了，换了个大灯，然后我看拆下来的大灯其实就裂了条缝，然后我就想带回去这个大灯备用。结果保险的理赔员不让，我说我买的保险出险了按理说拆下的配件也因该是我的。理赔员说不可能，也没说不是我的，只是说公司明文规定为了防止骗保要带回去销毁。我咨询了人保的客服，客服说并无这项规定，到底归谁让我跟理赔员协商。请问各位彦祖，我是否能带走拆下的零配件？",
+          "link": "https://www.v2ex.com/t/781723",
+          "publishedOn": "2021-06-06T10:21:54.000Z",
+          "wordCount": 166,
+          "title": "出险后拆卸的零配件到底归谁"
+        },
+        {
           "id": "781650",
           "author": "bhc003",
           "description": "bhc003: 我的 Airpods 的耳机此前一直都放在电池舱内（至少 24 小时），此时拿出来连接 MBA 和手机发现左侧耳机没有声音，连接到 MBA 上提示：左侧电量 6%，右侧 100%，电池仓电量 91%，不知是何原因，左侧耳机是没冲进去电还是电池耗电过猛，或是其他原因？ 之前使用时也观察到左侧耳机经常断连或耗电较右侧过快。\n截图： https://ibb.co/nmn6Jq8\n烦请各位帮助诊断，谢谢！",

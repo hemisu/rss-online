@@ -16,6 +16,712 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-06-16">2021-06-16</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.v2ex.com/">V2EX-最新主题</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">offer 选择，坐标厦门</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783631">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>ronhunlam: 
+各位大佬，小弟五年半工作经验，在厦门拿到了 Meta App 和神州优车的 offer，现在在纠结要选哪家，优车的 offer 比 Meta App 高几千，请各位大佬给点指导意见。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">[SOS] Apple Music 有没有办法重装</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783630">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>movq: 
+之前发过的一个帖子:macOS11.2.3 的 apple music 是不是有 BUG
+现在发现，原因可能是，任务队列里面在永远 [正在载入云端资料库] 
+所有排队在后面的任务都无法进行，导致我现在没法进行任何需要排队的操作了，比如把歌曲添加到个人资料库
+
+重启 Apple Music，重启系统，都没用，开关全局科学软件也没用
+相关：Apple Music 怎么 BUG 这么多，要被气晕了😓</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">求大佬指点解析 ssl 双向校验</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783629">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>zer0fire: 
+尝试解析 ssl 双向校验, 抓 soul 的包, 使用 frida 来 hook 获取密码
+hook 目标
+package cn.soulapp.android.net;
+
+public class o extends SSLSocketFactory {
+...
+
+    public o(android.content.Context r7, java.lang.String r8) {
+    ...
+            java.lang.String r8 &#x3D; cn.soulapp.android.soulpower.SoulPowerful.l(r8)
+            char[] r4 &#x3D; r8.toCharArray()     // Catch:{ Exception -&gt; 0x0049, all -&gt; 0x004d }
+             java.security.KeyStore r3 &#x3D; java.security.KeyStore.getInstance(r3)     // Catch:{ Exception -&gt; 0x00e9 }
+
+            r3.load(r7, r4)     // Catch:{ Exception -&gt; 0x0049, all -&gt; 0x004d }
+        L_0x0049:
+            r7.close()     // Catch:{ Exception -&gt; 0x0055 }
+            goto L_0x0055
+        ...
+    }
+
+}
+
+编写 js 脚本如下:
+console.log(&quot;Script loaded successfully &quot;);
+Java.perform(function x() {
+    console.log(&quot;Inside java perform function&quot;);
+    //定位类
+    var my_class &#x3D; Java.use(&quot;cn.soulapp.android.net.o&quot;);
+    // var my_class &#x3D; Java.use(&quot;cn.soulapp.android.soulpower.SoulPowerful&quot;);
+    console.log(&quot;Java.Use.Successfully!&quot;);//定位类成功！
+    //在这里更改类的方法的实现（ implementation ）
+    my_class.$init.overload(&quot;android.content.Context&quot;, &quot;java.lang.String&quot;).implementation &#x3D; function (args, args2) {
+        console.log(&quot;debug&quot;);
+        console.log(&quot;args1&quot;, args)
+        console.log(&quot;args2&quot;, args2)
+        // 打印替换前的参数
+        console.log(&quot;Ok&quot;);
+        // var aa &#x3D; Java.use(&quot;cn.soulapp.android.soulpower.SoulPowerful.l()&quot;);
+        // console.log(aa.p().a(aa.p().a()))
+        return this.$init(args, args2);
+    }
+});
+
+目前卡在方法没有被调用上,console.log(&quot;debug&quot;)没有执行
+所用测试 apk 下载地址:
+https://share.weiyun.com/jltxrcPz</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">彦祖们，钉钉 for Mac 没有收藏夹么？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783628">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>strawberryBug: 
+迫于公司规定使用钉钉，在公司用 windows，平时有些东西习惯使用钉钉的收藏功能，找的时候只要在左下角导航栏找到收藏夹打开即可。最近家里换了 mac，想在钉钉 for mac 查个东西，目录点遍了都没找到收藏夹......版本是 5.1.40</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-06-15">2021-06-15</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Detect Unused Classes in… HTML</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/detect-unused-classes-in-html/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …
+The post Detect Unused Classes in… HTML appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Media Queries in Times of @container</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://mxb.dev/blog/media-queries-in-times-of-container-queries/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(6 min)</span>
+                    <span>Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.
+I took the bait and had a look at some of my projects – 
+…
+The post Media Queries in Times of @container appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Just How Niche is Headless WordPress?</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/just-how-niche-is-headless-wordpress/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(6 min)</span>
+                    <span>I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.
+Is it… big? The future …
+The post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.v2ex.com/">V2EX-最新主题</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">RAR 多线程在压缩级别 0 时失效</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783627">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Multicom: 
+RAR，线程 16，压缩级别 0，多线程失效，写入 200M/s
+rar a archive.rar folder -hp&#x27;secret&#x27; -mt16 -m0 -rr1p -idq
+
+RAR，线程 16，压缩级别 3，多线程生效，写入 25M/s
+rar a archive.rar folder -hp&#x27;secret&#x27; -mt16 -m3 -rr1p -idq
+
+ZIP，线程 16，压缩级别 0，多线程生效，写入 500M/s
+7za a archive.zip folder -p&#x27;secret&#x27; -mem&#x3D;AES256 -mmt&#x3D;16 -mx0
+
+RAR 的恢复记录很好用，但是多线程失效使得存档速度比 ZIP 慢不少，有两全其美的方法吗？</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Mac 12 发布一周了,快捷指令怎么没人折腾起来?</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783625">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>mir2: 当年 iOS 快捷指令新出的时候,各种玩法,mac 一点动静都没</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">windows11 释出 大量圆角设计 控制面板还在</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783624">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>kblacksheep: 
+https://twitter.com/i/status/1404843837726547971
+https://pbs.twimg.com/media/E38QKqbX0AIaj7l?format&#x3D;jpg&amp;name&#x3D;large
+https://twitter.com/i/status/1404843837726547971
+推特：Tom Warren
+怎么说呢。。这 UI 提升比我的预期差很多</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">突然收到异地旅游局发来的欢迎短信</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783623">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>antalwang: 白天走在路上，突然收到离得挺远的同省另一个城市旅游局发来的短信（欢迎来到当地），这两天也没有经过那个城市的边界城市，过了大概一个小时，又收到本地旅游局发来的欢迎短信，请问我这是手机基站定位出 bug 了嘛，还是什么别的情况</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">iOS 15 的 Live Text 非常厉害</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783622">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>inevitablex2: 
+你在搜索框里输入文字关键词，相关的图片也能匹配出来。https://wx2.sinaimg.cn/mw690/0076YghYgy1grjioylfpfj30q10nbq8w.jpg
+另外如果安卓上早有类似的功能或 app，那就是你赢，楼主确实没怎么用过安卓手机。
+个人感觉，目前的测试版确实很耗电（ 12 mini ）</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">关于一段感情</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783620">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>gbqqaybc: 2017 年，高中的时候喜欢上一个女孩 A，她是我人生中的第一个女朋友，我也是她的初恋，她是别的班的，在一起将近一年，对我很好很好很温柔的一个女孩，蛮处得来的，我跟她都是差不多性格，我是那种沉默寡言话不多的人，嘴很笨，可能情商比较低吧，但是她一直都好喜欢好喜欢我，一直都会包容我，跟她在一起心里完全没有负担压力，但是过了快一年的时候我跟我们班一个女孩 B 勾搭上了，女孩 B 外表表现的比较可爱，比较嗲，我承认那一刻我有了个很不要脸的想法，欲望上了头，我顿时对 A 非常冷漠，跟她提了分手，但是她的苦苦挽留并没有让我回头，在当时反而让我觉得厌恶，就像是我寻爱路上的一颗绊脚石，我删了一切跟她的联系方式，平时看到她也是一张冷漠脸。
+
+就这样我跟本班那个女孩 B 开始了“甜甜蜜蜜”的新恋情，一开始可能想象的非常美好，现在这个女孩或许比之前那个女孩更好，我用的心也更多，满脑子都是现在这个女生，把之前那位抛到九霄云外，仿佛跟之前那位将近一年的恋情从来都没有存在过一样。
+我想错了，现在这位是那种天天作妖的傲娇女，一言不合就会发脾气，嘴笨情商低的我经常会因为莫名其妙的事搞的她发脾气，然后我是一忍再忍，仿佛就像一只舔狗一般，对她百依百顺，天天带她吃好吃的，她想干啥我就陪她干啥，有好几次她说想要我陪她，我晚自习都不好好上了，陪她玩。
+
+就这么过了七八个月吧，暑假里终于因为某件小事我跟她吵开了，快进到她跟我提分手，提分手那天还是我生日，真的给我心态搞破防了，她就像我对待我前一任女生 A 一样平时见到我一副冷漠脸，仿佛从来不认识一样，感觉风水轮流转，真是报应，我对她的苦苦挽留，也像竹篮打水一般。就这样我熬到了毕业。
+
+后来女生 A 也陆陆续续来加我联系方式，可能还是对我念念不忘吧，想跟我和好，但是我那时候心里想的是完全没脸再见女生 A，愧对这样一个对我痴情的女生，我不知道该怎么面对她，后来把她联系方式删了，再后来又这样重复了两三次，她加我，我删。。。。
+
+随后过了两三年，在半年前我在她生日那天主动加了她好友，她一脸惊讶，问我怎么还记得她生日，我很羞愧，看她动态，已经在跟别人有新恋情很久了，随后几个月里没怎么聊天。
+
+几个月后的某天看她动态是跟那个人分了手，我一颗心仿佛又燃了起来，过去的几年时间里我一直在反思自己，遇到这么一个跟自己性格合得来的女生，相处起来完全没有拘束感觉的女孩，能懂我感受，理解我想法，她的想法我也能理解。这样一个女生我当年却没有好好珍惜，我想的是我不想现在再错过了，我跟她开始重新联系起来，她对我的态度还是跟当年差不多，对我还是有点好感的，聊着聊着我就向她表露出我的喜欢，但是她对我的回应还是 慎重又慎重，说她已经不是几年前的她，说还是保持现在这样的关系处着吧，类似的这样的话，其实我心里也很明白她会这样回应我，毕竟我干出了那样不是人的事，当年深深的伤害到了她，我现在想想我真他妈不是人，唉，说什么都迟了。
+
+我他妈真不是个男人，当年深深伤害了她，过了几年居然还有脸找上门，说喜欢她，如果这事发生在别人身上，我要把那个男的喷死，呵呵，戏剧性的是，这个人还就是我，我能说我现在忘不了这个女生 A 了吗，我满脑子都是她。
+
+以上都是个人经历，求各位轻喷，我真的认识到自己的错了，我当年真的太为所欲为了，不考虑别人的感受，干出了这种缺德事，我幻想着如果还有机会，我一定不会辜负别人对我的真心，对我的爱。可是现在说这些又有什么用呢，我真的好后悔，大晚上的，想哭。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">野炊 2 新预告</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783619">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>yggd: 
+2022 年
+https://www.youtube.com/watch?v&#x3D;Pi-MRZBP91I</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">x60 基带的功耗有测试报告吗？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783618">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>gainsurier: 全网都是 888 的 cpu gpu 测试，有人测试 x60 基带的功耗吗？比如 4g 和 5g 下待机和正常使用的功耗。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">iTerm2 在 TouchBar 上原来还有 man page 快捷键......</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783616">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>mageemeng: 
+在 macOS 跑 iTerm2 的时候有个隐藏功能一直没搞懂是啥：
+就是键盘敲太快的时候偶然会弹出一个新窗口，看不懂啊，习惯性 Ctrl + w 关闭了，在菜单栏也找不到对应的描述。
+再然后弹窗我就仔细看了下，原来是 Man page, 但是快捷键是啥呢？ N 次回眸之后发现居然是 Touchbar 最左侧的 Info button，就在数字 1 上面，手抖的话的确很容易触发，然后还不知自己干了什么...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">offgamers 有在这用外区 PP 买过点卡的吗</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783615">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>shuizhuyu:</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">有腾讯云代理吗，询问轻量应用的优惠</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783614">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>stimw: 
+新用户，想买轻量应用新加坡的服务器，这可以有优惠嘛？还是只有买大陆的才有？</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">你们怎么看猎头这个角色？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783613">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>lonelygod365: 
+就是这么多年的感受，猎头跟房屋中介似的。 有时候看着 JD 里描写觉得挺能胜任的，结果就是被猎头给拒了。 
+我不是贬低猎头或者觉得不服气，就是求职的过程太充满了魔幻。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">实习生菜鸡， leader 总习惯在一针见血的回答我的小问题之后加&quot;......&quot;</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783612">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Reiouf: 这好难受啊。。。。
+我不知道怎么办。。。。
+我就来吐槽下。。。。。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">有没有什么东西 可以将遥控器输出的红外信号转换成其他红外信号?</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783610">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>Archeage: 
+具体就是 家里有一台Google TV 盒子 电视是几年前的创维电视,
+我是想将 GoogleTV 和电视用一个遥控器来操控 GTV 也支持HDMI-CEC,看了下大概的帖子 貌似创维电视没法用这个
+我的思路是 将 GTV 遥控器输出的红外信号 转换为创维电视可以接收的红外信号...
+不知道有没有这样个东西</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">预算 7500 笔记本电脑推荐？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783609">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>F0nebula: 
+为大学准备的，专业是计算机类。
+
+需求：
+Linux 驱动支持良好（目前在用 Arch Linux ）。
+CPU: &gt;&#x3D;6C 。
+内存：&gt;&#x3D;16 GiB 。
+显卡：无要求。
+屏幕：&gt;&#x3D;2K 。
+接口：USB3.0 Type-A &gt;&#x3D; 2，USB3.0 Type-C &gt;&#x3D; 2, RJ45 &#x3D;&#x3D; 1 。
+存储：512 GiB NVMe SSD 。
+续航：平均水平。
+重量：
+
+
+预算最多加 1000 。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">面试难度和薪资水平不对等的公司会有猫腻嘛？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783608">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>HariopaNic: 最近面的一家外企，笔试和面试在最近面试的几家里感觉很普通没有多少难度，考察不了多少东西，但是薪资水平加上福利待遇又很不错，感觉两者有点不对等，要是给 offer 的话感觉很虚，总怕有什么猫腻……咋整</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Clash X Pro 增强模式做网关，如何保证盒盖或不盒盖显示器关闭后仍工作</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783607">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>luhe: 
+设备：M1 MacBook Pro</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">[阿里云 618 大促即将开启] 一年价格唯二的低点</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783606">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Ballmer: 
+新购阿里云产品领券页面：https://4m.cn/GZDZy
+新老用户同享领券及购买主会场，基本都在 8.5 折左右：https://4m.cn/NeMIb
+ECS 共享型 n4
+1 核 2G + 1M + 400G 高效云盘
+中小型企业建站、应用部署最佳选择
+618 整点秒杀价 ￥ 59.9/年起！
+ECS 共享型 s6
+2 核 4G + 1M +400G 高效云盘
+强劲性能，企业级轻量应用首选
+618 整点秒杀价 ￥ 209.9/年起！
+更有 PLUS 版
+4 核 8G + 1M + 400G 高效云盘
+618 整点秒杀价 ￥ 369.9/年起！
+更有以下日常款：领券再买更省钱：
+轻量应用服务器 1 核 2g1 年 96 元
+ECS 共享型 n4 一核 2g3 年 261 元
+2 核 2g1 年突发性能型仅 86 元
+1 核 2g3 年仅 523 元
+2 核 4g3 年仅 847 元
+2 核 8g3 年仅 1171 元
+企业新用户采购的话挺便宜的
+2 核 4g 3 年仅 2154 元
+2 核 8g 3 年仅 2574 元
+5w 条短信包 2 年 1700 元</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">[Coupang Eats] 上海/北京内推. Java , PE， QA，移动端， PM，期待各位的加入</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783605">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>w99wjacky: 
+韩国电商 coupang，薪资给得起。
+分股票，已经上市
+965，工作地 上海或北京或首尔
+现在主要是 Eats 团队在招聘
+
+JAVA, PE，QA，移动端，PM 都有空缺
+
+职级 L5-1 ~ L6
+
+薪资范围 40W ~ 120W(上限肯定不止)
+
+
+要求 5 年工作经验及以上
+邮箱 fan.liu@coupang.com
+多一条路，多一个机会。
+965 企业文化不鼓励加班
+技术氛围佳，大佬云集
+待遇优厚，带股权
+coupang 的面试就一句话，代码。通过代码表现各个候选人的优势。因为招聘的都是工程师，最终的产物还是代码，所以代码作为面试的评价依据我觉得是客观的。
+第一轮，算法，iOS 二题选一。算法不要求有最优解，但一定要走通测试用例。
+而且，解答完候选人必须能够介绍自己的代码。这轮目前已经弱化了。
+第二轮，advanced coding 。既问题解决，还是代码。与具体产品中可能遇到的实际问题为题目。
+第三轮，advanced coding，这一轮有可能会遇到一些开放性的问题。问题方案肯定有，开放性题目，考察模块化思想。接口设计，可维护性等。看你能力。别小看这题，路有千万种，完全看你的解决方案和说服能力。
+第四轮，模块化和架构。和上面一致，但会更开放。
+有的候选人会有电话面试，就是了解一下 iOS 开发的基础。
+coupang 的面试好处是代码贯穿全部。所以对候选人的评价不仅仅是面试官，后面还有一个 debrief 。所有人都会看你写的代码。
+有的公司最终评价完全有面试官主观决定，我觉得 coupang 还是很客观的。也没有面试官问一些奇奇怪怪的东西。
+现在 coupang 正在快速成长，岗位多多，有需要的可以联系我，内推。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">qq 音乐的开屏广告太恶心了，怎么干掉它？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783604">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Ansen: 
+摇一摇就直接打开了京东
+设置了捷径，连上车机蓝牙自动播放音乐，点运行，然后把手机放到车上储物盒，这样就触发了它的广告，然后系统把我导航杀掉了
+有什么办法能在不越狱的情况下干掉开屏广告呢？
+又想换到安卓了</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">国际出口丢包率下降明显</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783602">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>Peanut666: 
+以我的服务器为例，线路是洛杉矶 AS4134 。
+1 月份的统计图表：
+
+最近 30 天的统计图表：</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">网格中如何使图片居中</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783601">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>xJogger: 用网格排版之后，如果图片高度不一致，会出现如下的留白情况，如何能让图片在网格中上下居中，并且让文字在网格底部？
+图片：
+
+网页代码：
+https://gist.github.com/xJogger/2a4e6a930041bbde72b1011d000ea0d7  显示 Gist 代码</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">请问 vps 时区自动从 EST 变成 EDT 是正常的吗？还是只是我一个人？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783599">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>programV2: 大家有没有碰到过 ? 明白美国有东夏令时，但是 vps 自动切换有点想不通。这个</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">微信阻止 iPhone 进入锁屏状态</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783597">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>naijiyuh: 
+不知道是个例还是普遍现象，在微信界面下手机是不会自动锁屏的。
+查看了下系统设置是 1 分钟无操作自动锁屏，退出微信到主界面或者切换到其他 app 界面就能自动锁屏。
+有时候手机忘记手动锁屏放口袋里，手机会一直亮屏，废了不少电还烫。
+设备：iPhoneX
+系统：iOS14.6</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">[智联招聘]你家 app 在荣耀 8 安卓 8 上无法登陆</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783596">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>feng0vx: 输完手机号，点登陆，转个圈又回来了</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">有一个想法，关于代购的思考</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783594">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>runninghipp: 
+目前经常发现，免税店的东西经常拼单会有很大的折扣，例如三件八折，有没有可能做这样一个平台呢 ？</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">车窗外起雾</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783592">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>madNeal: 
+今晚行车，前挡风玻璃，侧面玻璃外疯狂起雾，根本就看不见，开空调，开除雾，越开越严重。因为外面温度高，湿度大，所以里面温度越低越严重。后来没办法，只能一直开着车窗，开着雨刮才敢开，想问下这种有什么好办法吗，或者又好用的防雾产品推荐吗
+车内起雾和车外起雾是不一样的，车内起雾是车外温度低，车内温度高；而车外起雾是车外温度高，车内低。所以我这种情况，空调越开，起雾越严重。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">威联通突然断电文件丢失了怎么办~</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783590">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>scarleast: 
+想问下各位大佬，威联通突然断电，文件丢失了还能找回吗？
+前几天小区莫名其妙停电，来电以后发现部分文件夹连同文件夹内的文件都消失了，之前也遇到过这种情况，进行完文件检查后重启就都回来了，这次无论怎么操作，文件都不在了，有没有什么骚操作能把数据找回来。
+存了好久的小姐姐，专门把几个移动一盘的内容全部移到 NAS 里了，就这么莫名其妙的么得了，真 TMD 晦气！真心长了个记性：”买得起几千块的 NAS，买得起几千块的硬盘，真的别省那几百块的 UPS~“</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">现在上咸鱼买 iMac 带的彩色 magic mouse，不会有假货吧？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783589">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>leon912: 鼠标这东西，不知道会不会也有造假的呢？</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">新换的房子没有光纤入户</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783588">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>linvon: 最近刚搬了家，租房前根本没想到光纤这种东西如今还有没普及的小区，而且还算是比较好的地段了。
+新房子的联通没有光纤，只能拉铜线，去物业看了下除了联通只能用歌华有线，速度还算可以的，只不过稳定性就不知道怎么样了
+真是让人哭笑不得啊</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">iMac 的屏幕是如何做适配的？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783587">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>VictorFrank1: 
+27 寸的 5K 屏幕为什么在浏览器检查元素时显示 2000 多像素，宽度不应该是 5000 像素吗？</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">困扰我好久的笔记本屏幕亮度、伽马值乱变的原因找到了</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783586">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>mokeyjay: 
+AMD 控制面板 -&gt; 设置 -&gt; 显示器
+
+Intel 的话则是进入 Intel Graphics Control Panel，进入“电源”，关闭“显示器节能技术”。方法出处 
+至于 N 卡，大概也有类似的开关
+牢骚
+我的联想小新 Air14 锐龙版一直有内置屏幕亮度、伽马值总是乱变的问题。具体表现就是当我看浅色图切换到暗色图像时，能够明显感觉到亮度和颜色逐渐发生变化，一会儿暗得看不清，一会儿图像过曝，非常难受。外接显示器怎没有这个问题  
+不管怎么搜关键字都找不到原因，只好不了了之。好在平时用内置屏幕不多
+如果只是自动改变亮度也就罢了，伽马值也要改，图像一会儿发灰一会儿过曝的。这么差劲的体验被预装到各家驱动里，还都是默认开启，也不知道他们 PM 怎么想的</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">又有一个想法，上门女婿小程序，大家来讨论一波。</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783583">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>zhangchaojie: 
+产品
+上门女婿小程序
+想法来源
+萧山赘婿
+一句话描述
+上门女婿是一个相亲软件，但女方不得要求房车，可要求入赘，其他与正常相亲软件无异。
+痛点
+男方：到了 2021 年，大城市的房子已经和大多数你我一样的打工者无关了，无论怎么努力都不太可能在北上广深安家。面对如此情形，有的人选择三不，不结婚，不买房，不谈恋爱，但如果有选择，谁愿意一直单身呢？同时自己是家中次子或者老三，学历不错，人品还行。
+女方：家中独生女，亦或都是女孩，父母不缺钱甚至很有钱，不期望男方能买得起房车，但要希望女儿一直能陪在身边，而不是嫁到他乡，亦或者是女儿挑着挑着就快 30 岁，也不期望男方有车有房，只要对女儿好就行。
+情景
+四川甘孜找入赘的女婿
+闺女 28 了一直没对象急死了
+各位大佬对这个想法怎么看？</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">用 nuc 的注意，如果你黑屏卡蓝牙了</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.v2ex.com/t/783582">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>lingyan190: 100%是 nuc 的问题，我原来不会怀疑 intel 会出现这种低级错误，毕竟它好评如潮。
+但后来换了两根 hdmi 线 1 台显示器后+2 个接收器后基本上证实了：虽然很方便散热噪音都是开挂级的，但是 HDMI 跟蓝牙干扰却是个问题。
+如果你买了后也出现这种情况，不用折腾了，换 dp 线、蓝牙通道别超过 2 个保证解决。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2021-06-14">2021-06-14</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -17136,7 +17842,7 @@ You can support CSS-Tricks by being an MVP Supporter.</span>
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-06-15T01:06:46.798Z">2021-06-15T01:06:46.798Z</time>
+    <time id="build-timestamp" datetime="2021-06-16T01:03:18.991Z">2021-06-16T01:03:18.991Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.10.2</a></span>
   </footer>
   <script src="index.js"></script>
